@@ -6,6 +6,7 @@ import org.springframework.stereotype.Service;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.model.HymnVerse;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
+import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 import rw.sda.sdahymns.hymn.repo.HymnRepo;
 import rw.sda.sdahymns.hymn.repo.HymnVerseRepo;
 
@@ -40,6 +41,26 @@ public class HymnServiceImpl implements HymnService {
         return hymns;
     }
 
+    @Override
+    public Hymn updateHymn(long number, HymnUpdatePojo hymnUpdatePojo) {
+        Hymn hymn = hymnRepo.findById(number).orElseThrow();
+        hymn.setTitle(hymnUpdatePojo.getTitle());
+        hymn.setFirstVerse(hymnUpdatePojo.getFirstVerse());
+        hymn.setFirstChorus(hymnUpdatePojo.getFirstChorus());
+        hymn.setSecondChorus(hymnUpdatePojo.getSecondChorus());
+
+        Hymn savedHymn = hymnRepo.save(hymn);
+
+        hymnUpdatePojo.getOtherVerses().forEach((verseNumber, verse) -> {
+            HymnVerse hymnVerse = hymnVerseRepo.findHymnVerseByHymnAndNumber(savedHymn, verseNumber);
+            hymnVerse.setVerse(verse);
+
+            hymnVerseRepo.save(hymnVerse);
+        });
+
+        return hymnRepo.findById(number).orElseThrow();
+    }
+
     private Hymn saveSingleHymn(@NotNull HymnPojo hymnPojo) {
         Hymn hymn = Hymn.builder()
                 .id(hymnPojo.getNumber())
@@ -52,10 +73,9 @@ public class HymnServiceImpl implements HymnService {
         Hymn savedHymn = hymnRepo.save(hymn);
 
         List<HymnVerse> hymnVerseList = new ArrayList<>();
-        Hymn finalHymn = savedHymn;
         hymnPojo.getOtherVerses().forEach((number, verse) -> {
             HymnVerse hymnVerse = HymnVerse.builder()
-                    .hymn(finalHymn)
+                    .hymn(savedHymn)
                     .number(number)
                     .verse(verse)
                     .build();
@@ -77,7 +97,6 @@ public class HymnServiceImpl implements HymnService {
 
     @Override
     public List<Hymn> getAllHymns() {
-        List<Hymn> hymns = hymnRepo.findAll();
-        return hymns;
+        return hymnRepo.findAll();
     }
 }

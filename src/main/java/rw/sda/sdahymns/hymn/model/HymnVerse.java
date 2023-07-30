@@ -17,9 +17,11 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import lombok.Setter;
 
 @Entity
 @Table(name = "HYMN_VERSE")
+@Setter
 @Getter
 @Builder
 @RequiredArgsConstructor
