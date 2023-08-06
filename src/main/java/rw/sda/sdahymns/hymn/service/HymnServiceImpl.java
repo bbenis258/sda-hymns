@@ -5,12 +5,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.model.HymnVerse;
+import rw.sda.sdahymns.hymn.pojo.HymnComparator;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
 import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 import rw.sda.sdahymns.hymn.repo.HymnRepo;
 import rw.sda.sdahymns.hymn.repo.HymnVerseRepo;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 @Service
@@ -97,6 +99,8 @@ public class HymnServiceImpl implements HymnService {
 
     @Override
     public List<Hymn> getAllHymns() {
-        return hymnRepo.findAll();
+        List<Hymn> hymns = hymnRepo.findAll();
+        hymns.sort(new HymnComparator());
+        return hymns;
     }
 }
