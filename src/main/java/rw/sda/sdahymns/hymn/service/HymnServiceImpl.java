@@ -79,7 +79,7 @@ public class HymnServiceImpl implements HymnService {
             hymnVerseList.add(hymnVerse);
         });
 
-        savedHymn.setOtherVerses(hymnVerseList);
+        savedHymn.setHymnContent(hymnVerseList);
 
         hymnRepo.save(savedHymn);
 
