@@ -33,5 +33,5 @@ public class Hymn {
     private String title;
 
     @OneToMany(mappedBy = "hymn", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
-    private List<HymnVerse> otherVerses = new ArrayList<>();
+    private List<HymnVerse> hymnContent = new ArrayList<>();
 }
