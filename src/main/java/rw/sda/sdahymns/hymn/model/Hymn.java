@@ -32,16 +32,6 @@ public class Hymn {
     @NotNull
     private String title;
 
-    @NotNull
-    @Column(columnDefinition = "TEXT")
-    private String firstVerse;
-
-    @Column(columnDefinition = "TEXT")
-    private String firstChorus;
-
-    @Column(columnDefinition = "TEXT")
-    private String secondChorus;
-
     @OneToMany(mappedBy = "hymn", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private List<HymnVerse> otherVerses = new ArrayList<>();
 }

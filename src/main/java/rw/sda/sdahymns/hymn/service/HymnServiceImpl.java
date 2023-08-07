@@ -47,15 +47,12 @@ public class HymnServiceImpl implements HymnService {
     public Hymn updateHymn(long number, HymnUpdatePojo hymnUpdatePojo) {
         Hymn hymn = hymnRepo.findById(number).orElseThrow();
         hymn.setTitle(hymnUpdatePojo.getTitle());
-        hymn.setFirstVerse(hymnUpdatePojo.getFirstVerse());
-        hymn.setFirstChorus(hymnUpdatePojo.getFirstChorus());
-        hymn.setSecondChorus(hymnUpdatePojo.getSecondChorus());
 
         Hymn savedHymn = hymnRepo.save(hymn);
 
-        hymnUpdatePojo.getOtherVerses().forEach((verseNumber, verse) -> {
-            HymnVerse hymnVerse = hymnVerseRepo.findHymnVerseByHymnAndNumber(savedHymn, verseNumber);
-            hymnVerse.setVerse(verse);
+        hymnUpdatePojo.getHymnContent().forEach((subTitle, content) -> {
+            HymnVerse hymnVerse = hymnVerseRepo.findHymnVerseByHymnAndSubTitle(savedHymn, subTitle);
+            hymnVerse.setContent(content);
 
             hymnVerseRepo.save(hymnVerse);
         });
@@ -67,19 +64,16 @@ public class HymnServiceImpl implements HymnService {
         Hymn hymn = Hymn.builder()
                 .id(hymnPojo.getNumber())
                 .title(hymnPojo.getTitle())
-                .firstVerse(hymnPojo.getFirstVerse())
-                .firstChorus(hymnPojo.getFirstChorus())
-                .secondChorus(hymnPojo.getSecondChorus())
                 .build();
 
         Hymn savedHymn = hymnRepo.save(hymn);
 
         List<HymnVerse> hymnVerseList = new ArrayList<>();
-        hymnPojo.getOtherVerses().forEach((number, verse) -> {
+        hymnPojo.getHymnContent().forEach((subTitle, content) -> {
             HymnVerse hymnVerse = HymnVerse.builder()
                     .hymn(savedHymn)
-                    .number(number)
-                    .verse(verse)
+                    .subTitle(subTitle)
+                    .content(content)
                     .build();
 
             hymnVerseList.add(hymnVerse);

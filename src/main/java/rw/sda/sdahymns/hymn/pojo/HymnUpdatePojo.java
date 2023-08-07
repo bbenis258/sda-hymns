@@ -14,11 +14,5 @@ public class HymnUpdatePojo implements Serializable {
 
     private String title;
 
-    private String firstVerse;
-
-    private String firstChorus;
-
-    private String secondChorus;
-
-    private Map<Integer, String> otherVerses;
+    private Map<String, String> hymnContent;
 }

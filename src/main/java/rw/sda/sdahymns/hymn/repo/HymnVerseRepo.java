@@ -8,5 +8,5 @@ import rw.sda.sdahymns.hymn.model.HymnVerse;
 @Repository
 public interface HymnVerseRepo extends JpaRepository<HymnVerse, Long> {
 
-    HymnVerse findHymnVerseByHymnAndNumber(Hymn hymn, int number);
+    HymnVerse findHymnVerseByHymnAndSubTitle(Hymn hymn, String subTitle);
 }

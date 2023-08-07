@@ -34,11 +34,11 @@ public class HymnVerse {
     private long id;
 
     @NotNull
-    private int number;
+    private String subTitle;
 
     @NotNull
     @Column(columnDefinition = "TEXT")
-    private String verse;
+    private String content;
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "hymn_id")
