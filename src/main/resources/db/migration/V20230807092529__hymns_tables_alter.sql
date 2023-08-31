@@ -1,3 +1,3 @@
-ALTER TABLE hymn DROP COLUMN first_verse, DROP COLUMN first_chorus, DROP COLUMN second_chorus;
+ALTER TABLE hymn DROP COLUMN IF EXISTS first_verse, DROP COLUMN IF EXISTS first_chorus, DROP COLUMN IF EXISTS second_chorus;
 
-ALTER TABLE hymn_verse DROP COLUMN number, DROP COLUMN verse;
+ALTER TABLE hymn_verse DROP COLUMN IF EXISTS number, DROP COLUMN IF EXISTS verse;
