@@ -29,8 +29,7 @@ import lombok.Setter;
 public class HymnVerse {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "hymn_verse_generator")
-    @SequenceGenerator(name = "hymn_verse_generator", sequenceName = "hymn_verse_seq")
+    @GeneratedValue(strategy = GenerationType.AUTO)
     private long id;
 
     @NotNull
