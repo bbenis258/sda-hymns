@@ -19,4 +19,6 @@ public interface HymnService {
     Hymn getHymnById(@NotNull long id);
 
     List<Hymn> getAllHymns();
+
+    void deleteHymn(@NotNull long id);
 }

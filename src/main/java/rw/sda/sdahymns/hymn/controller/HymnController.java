@@ -4,6 +4,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import jakarta.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -52,5 +53,11 @@ public class HymnController {
     @PutMapping(value = ApiPaths.V1 + "/hymn/{number}")
     public ResponseEntity<Hymn> updateHymn(@NotNull @PathVariable(value = "number") long number, @NotNull @RequestBody HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException {
         return ResponseEntity.ok().body(hymnService.updateHymn(number, hymnUpdatePojo));
+    }
+
+    @DeleteMapping(value = ApiPaths.V1 + "/hymn/{number}")
+    public ResponseEntity<Boolean> deleteHymn(@NotNull @PathVariable(value = "number") long number) {
+        hymnService.deleteHymn(number);
+        return ResponseEntity.ok().body(Boolean.TRUE);
     }
 }

@@ -113,4 +113,11 @@ public class HymnServiceImpl implements HymnService {
         hymns.sort(new HymnComparator());
         return hymns;
     }
+
+    @Override
+    public void deleteHymn(long id) {
+        Hymn hymn = hymnRepo.findById(id).orElseThrow();
+        hymnVerseRepo.deleteAll(hymn.getHymnContent());
+        hymnRepo.delete(hymn);
+    }
 }
