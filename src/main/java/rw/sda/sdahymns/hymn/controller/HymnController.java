@@ -1,5 +1,6 @@
 package rw.sda.sdahymns.hymn.controller;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import jakarta.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -49,7 +50,7 @@ public class HymnController {
     }
 
     @PutMapping(value = ApiPaths.V1 + "/hymn/{number}")
-    public ResponseEntity<Hymn> updateHymn(@NotNull @PathVariable(value = "number") long number, @NotNull @RequestBody HymnUpdatePojo hymnUpdatePojo) {
+    public ResponseEntity<Hymn> updateHymn(@NotNull @PathVariable(value = "number") long number, @NotNull @RequestBody HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException {
         return ResponseEntity.ok().body(hymnService.updateHymn(number, hymnUpdatePojo));
     }
 }
