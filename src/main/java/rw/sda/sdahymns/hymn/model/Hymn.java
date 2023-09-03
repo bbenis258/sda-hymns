@@ -39,4 +39,8 @@ public class Hymn {
         hymnContent.sort(new HymnVerseComparator());
         return hymnContent;
     }
+
+    public void setHymnContent(List<HymnVerse> hymnContent) {
+        this.hymnContent = hymnContent;
+    }
 }
