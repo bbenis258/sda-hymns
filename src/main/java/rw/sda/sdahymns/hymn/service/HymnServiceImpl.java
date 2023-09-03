@@ -59,10 +59,14 @@ public class HymnServiceImpl implements HymnService {
         hymnUpdatePojo.getHymnContent().forEach((subTitle, content) -> {
             log.info("Hymn Verse to Update: {} - {}", subTitle, content);
             HymnVerse hymnVerse = hymnVerseRepo.findHymnVerseByHymnAndSubTitle(savedHymn, subTitle);
+            if (hymnVerse == null) {
+                hymnVerse = new HymnVerse();
+                hymnVerse.setHymn(savedHymn);
+                hymnVerse.setSubTitle(subTitle);
+            }
             try {
                 log.info("Hymn Verse to be Updated: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymnVerse));
-            } catch (JsonProcessingException e) {
-                throw new RuntimeException(e);
+            } catch (JsonProcessingException ignored) {
             }
             hymnVerse.setContent(content);
 
