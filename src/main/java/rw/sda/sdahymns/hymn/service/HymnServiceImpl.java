@@ -1,6 +1,9 @@
 package rw.sda.sdahymns.hymn.service;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.validation.constraints.NotNull;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import rw.sda.sdahymns.hymn.model.Hymn;
@@ -12,15 +15,17 @@ import rw.sda.sdahymns.hymn.repo.HymnRepo;
 import rw.sda.sdahymns.hymn.repo.HymnVerseRepo;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 @Service
+@Slf4j
 public class HymnServiceImpl implements HymnService {
 
     private final HymnRepo hymnRepo;
 
     private final HymnVerseRepo hymnVerseRepo;
+
+    private final ObjectMapper mapper = new ObjectMapper();
 
     @Autowired
     public HymnServiceImpl(HymnRepo hymnRepo, HymnVerseRepo hymnVerseRepo) {
@@ -44,14 +49,21 @@ public class HymnServiceImpl implements HymnService {
     }
 
     @Override
-    public Hymn updateHymn(long number, HymnUpdatePojo hymnUpdatePojo) {
+    public Hymn updateHymn(long number, HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException {
+        log.info("Hymn Update Object: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymnUpdatePojo));
         Hymn hymn = hymnRepo.findById(number).orElseThrow();
         hymn.setTitle(hymnUpdatePojo.getTitle());
 
         Hymn savedHymn = hymnRepo.save(hymn);
 
         hymnUpdatePojo.getHymnContent().forEach((subTitle, content) -> {
+            log.info("Hymn Verse to Update: {} - {}", subTitle, content);
             HymnVerse hymnVerse = hymnVerseRepo.findHymnVerseByHymnAndSubTitle(savedHymn, subTitle);
+            try {
+                log.info("Hymn Verse to be Updated: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymnVerse));
+            } catch (JsonProcessingException e) {
+                throw new RuntimeException(e);
+            }
             hymnVerse.setContent(content);
 
             hymnVerseRepo.save(hymnVerse);

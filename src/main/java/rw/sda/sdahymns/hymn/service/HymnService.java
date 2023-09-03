@@ -1,5 +1,6 @@
 package rw.sda.sdahymns.hymn.service;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import jakarta.validation.constraints.NotNull;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
@@ -13,7 +14,7 @@ public interface HymnService {
 
     List<Hymn> createMultipleHymns(@NotNull List<HymnPojo> hymnPojoList);
 
-    Hymn updateHymn(@NotNull long number, @NotNull HymnUpdatePojo hymnUpdatePojo);
+    Hymn updateHymn(@NotNull long number, @NotNull HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException;
 
     Hymn getHymnById(@NotNull long id);
 
