@@ -15,9 +15,7 @@ import rw.sda.sdahymns.hymn.repo.HymnRepo;
 import rw.sda.sdahymns.hymn.repo.HymnVerseRepo;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 @Service
 @Slf4j
@@ -125,9 +123,17 @@ public class HymnServiceImpl implements HymnService {
 
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
-        Set<Hymn> hymns = new HashSet<>();
-        hymns.addAll(hymnRepo.searchHymn(searchTerm.toLowerCase()));
-        hymns.addAll(hymnVerseRepo.searchHymn(searchTerm.toLowerCase()));
-        return hymns.stream().toList();
+        List<Hymn> hymns = new ArrayList<>();
+        hymnRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
+            if (!hymns.contains(hymn)) {
+                hymns.add(hymn);
+            }
+        });
+        hymnVerseRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
+            if (!hymns.contains(hymn)) {
+                hymns.add(hymn);
+            }
+        });
+        return hymns;
     }
 }
