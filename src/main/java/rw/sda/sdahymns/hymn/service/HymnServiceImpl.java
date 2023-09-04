@@ -136,7 +136,7 @@ public class HymnServiceImpl implements HymnService {
         });
         hymnVerseRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
             try {
-                log.info("Found hymns: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
+                log.info("Found hymns - from verses: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
                 log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
             } catch (JsonProcessingException ignored) {
             }
