@@ -126,8 +126,8 @@ public class HymnServiceImpl implements HymnService {
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
         Set<Hymn> hymns = new HashSet<>();
-        hymns.addAll(hymnRepo.searchHymn(searchTerm));
-        hymns.addAll(hymnVerseRepo.searchHymn(searchTerm));
+        hymns.addAll(hymnRepo.searchHymn(searchTerm.toLowerCase()));
+        hymns.addAll(hymnVerseRepo.searchHymn(searchTerm.toLowerCase()));
         return hymns.stream().toList();
     }
 }
