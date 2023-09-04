@@ -124,22 +124,22 @@ public class HymnServiceImpl implements HymnService {
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
         List<Hymn> hymns = new ArrayList<>();
+        try {
+            log.info("Found hymns: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
+        } catch (JsonProcessingException ignored) {
+        }
         hymnRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
-            try {
-                log.info("Found hymns: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
-                log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
-            } catch (JsonProcessingException ignored) {
-            }
+            log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
             if (!hymns.contains(hymn)) {
                 hymns.add(hymn);
             }
         });
+        try {
+            log.info("Found hymns - from verses: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
+        } catch (JsonProcessingException ignored) {
+        }
         hymnVerseRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
-            try {
-                log.info("Found hymns - from verses: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
-                log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
-            } catch (JsonProcessingException ignored) {
-            }
+            log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
             if (!hymns.contains(hymn)) {
                 hymns.add(hymn);
             }
