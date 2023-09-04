@@ -129,8 +129,8 @@ public class HymnServiceImpl implements HymnService {
         } catch (JsonProcessingException ignored) {
         }
         hymnRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
-            log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
-            if (!hymns.contains(hymn)) {
+            log.info("{} - Contains: {}", hymn.getId(), listContainsId(hymns, hymn.getId()));
+            if (!listContainsId(hymns, hymn.getId())) {
                 hymns.add(hymn);
             }
         });
@@ -139,11 +139,15 @@ public class HymnServiceImpl implements HymnService {
         } catch (JsonProcessingException ignored) {
         }
         hymnVerseRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
-            log.info("{} - Contains - from verses: {}", hymn.getId(), !hymns.contains(hymn));
-            if (!hymns.contains(hymn)) {
+            log.info("{} - Contains - from verses: {}", hymn.getId(), listContainsId(hymns, hymn.getId()));
+            if (!listContainsId(hymns, hymn.getId())) {
                 hymns.add(hymn);
             }
         });
         return hymns;
+    }
+
+    public boolean listContainsId(final List<Hymn> list, final long id) {
+        return list.stream().anyMatch(o -> o.getId() == id);
     }
 }
