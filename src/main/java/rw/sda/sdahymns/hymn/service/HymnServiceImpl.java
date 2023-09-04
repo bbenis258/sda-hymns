@@ -125,11 +125,21 @@ public class HymnServiceImpl implements HymnService {
     public List<Hymn> searchHymn(String searchTerm) {
         List<Hymn> hymns = new ArrayList<>();
         hymnRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
+            try {
+                log.info("Found hymns: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
+                log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
+            } catch (JsonProcessingException ignored) {
+            }
             if (!hymns.contains(hymn)) {
                 hymns.add(hymn);
             }
         });
         hymnVerseRepo.searchHymn(searchTerm.toLowerCase()).stream().forEach(hymn -> {
+            try {
+                log.info("Found hymns: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymns));
+                log.info("{} - Contains: {}", hymn.getId(), !hymns.contains(hymn));
+            } catch (JsonProcessingException ignored) {
+            }
             if (!hymns.contains(hymn)) {
                 hymns.add(hymn);
             }
