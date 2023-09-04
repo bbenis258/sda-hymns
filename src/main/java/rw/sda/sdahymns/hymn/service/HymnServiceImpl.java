@@ -144,6 +144,7 @@ public class HymnServiceImpl implements HymnService {
                 hymns.add(hymn);
             }
         });
+        hymns.sort(new HymnComparator());
         return hymns;
     }
 
