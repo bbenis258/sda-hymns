@@ -60,4 +60,9 @@ public class HymnController {
         hymnService.deleteHymn(number);
         return ResponseEntity.ok().body(Boolean.TRUE);
     }
+
+    @GetMapping(value = ApiPaths.V1 + "/hymn/search/{searchTerm}")
+    public ResponseEntity<List<Hymn>> searchHymns(@NotNull @PathVariable String searchTerm) {
+        return ResponseEntity.ok().body(hymnService.searchHymn(searchTerm));
+    }
 }

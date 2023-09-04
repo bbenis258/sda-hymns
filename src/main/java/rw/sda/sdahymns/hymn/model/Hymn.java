@@ -32,6 +32,7 @@ public class Hymn {
     @NotNull
     private String title;
 
+    @Builder.Default
     @OneToMany(mappedBy = "hymn", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     private List<HymnVerse> hymnContent = new ArrayList<>();
 

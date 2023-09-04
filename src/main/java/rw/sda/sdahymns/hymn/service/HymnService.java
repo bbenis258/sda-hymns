@@ -21,4 +21,6 @@ public interface HymnService {
     List<Hymn> getAllHymns();
 
     void deleteHymn(@NotNull long id);
+
+    List<Hymn> searchHymn(@NotNull String searchTerm);
 }
