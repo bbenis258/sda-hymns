@@ -1,20 +1,13 @@
 package rw.sda.sdahymns.hymn.controller;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import jakarta.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import rw.sda.sdahymns.config.ApiPaths;
 import rw.sda.sdahymns.hymn.model.Hymn;
-import rw.sda.sdahymns.hymn.pojo.HymnPojo;
-import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 import rw.sda.sdahymns.hymn.service.HymnService;
 
 import java.util.List;
@@ -29,15 +22,15 @@ public class HymnController {
         this.hymnService = hymnService;
     }
 
-    @PostMapping(value = ApiPaths.V1 + "/hymn/")
+    /*@PostMapping(value = ApiPaths.V1 + "/hymn/")
     public ResponseEntity<Hymn> createHymn(@NotNull @RequestBody HymnPojo hymnPojo) {
         return ResponseEntity.ok().body(hymnService.createHymn(hymnPojo));
-    }
+    }*/
 
-    @PostMapping(value = ApiPaths.V1 + "/hymn/multiple")
+    /*@PostMapping(value = ApiPaths.V1 + "/hymn/multiple")
     public ResponseEntity<List<Hymn>> createMultipleHymn(@NotNull @RequestBody List<HymnPojo> hymnPojoList) {
         return ResponseEntity.ok().body(hymnService.createMultipleHymns(hymnPojoList));
-    }
+    }*/
 
     @GetMapping(value = ApiPaths.V1 + "/hymn/{id}")
     public ResponseEntity<Hymn> getHymnById(@NotNull @PathVariable long id) {
@@ -50,16 +43,16 @@ public class HymnController {
         return ResponseEntity.ok().body(hymns);
     }
 
-    @PutMapping(value = ApiPaths.V1 + "/hymn/{number}")
+    /*@PutMapping(value = ApiPaths.V1 + "/hymn/{number}")
     public ResponseEntity<Hymn> updateHymn(@NotNull @PathVariable(value = "number") long number, @NotNull @RequestBody HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException {
         return ResponseEntity.ok().body(hymnService.updateHymn(number, hymnUpdatePojo));
-    }
+    }*/
 
-    @DeleteMapping(value = ApiPaths.V1 + "/hymn/{number}")
+    /*@DeleteMapping(value = ApiPaths.V1 + "/hymn/{number}")
     public ResponseEntity<Boolean> deleteHymn(@NotNull @PathVariable(value = "number") long number) {
         hymnService.deleteHymn(number);
         return ResponseEntity.ok().body(Boolean.TRUE);
-    }
+    }*/
 
     @GetMapping(value = ApiPaths.V1 + "/hymn/search/{searchTerm}")
     public ResponseEntity<List<Hymn>> searchHymns(@NotNull @PathVariable String searchTerm) {

@@ -1,0 +1,4287 @@
+[
+	{
+		"id": 1,
+		"title": "Murinzi We, Vuz' Impanda",
+		"hymnContent": [
+			{
+				"id": 152,
+				"subTitle": "1",
+				"content": "Murinzi, jy' uvuz' impanda, Uhan' umuntu wese;\nNg' uzumv' izo nkuru nziza, Yihan' akizw' ibyaha."
+			},
+			{
+				"id": 153,
+				"subTitle": "Gusubiramo",
+				"content": "Murinzi we vuz' impanda!\nYivuze cyane hose (hose),\nMenyesha bos' ubutumwa,\nImbohe zibohorwe."
+			},
+			{
+				"id": 154,
+				"subTitle": "2",
+				"content": "Yivugirize mu mpinga, Mw' ishyamba mu gisiza;\nNdetse no mu nyanja hose, Bameny' ako gakiza."
+			},
+			{
+				"id": 155,
+				"subTitle": "3",
+				"content": "Uyivugiriz' indembe, Na zo zikizw' ibyaha.\nYes' arabatumir' ati: Nimuze mbaboneze."
+			},
+			{
+				"id": 156,
+				"subTitle": "4",
+				"content": "Yivugirize mu nzira, Mu rwiherero hose.\nDat' arabategereje, Ntacy' ataringanije."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Umwam' Ageze Kw' Irembo",
+		"hymnContent": [
+			{
+				"id": 157,
+				"subTitle": "1",
+				"content": "Umwam' ageze kw' irembo, Wabambwe ku musaraba;\nYaje gukorany' abera, Babane mw' ijuru."
+			},
+			{
+				"id": 158,
+				"subTitle": "Gusubiramo",
+				"content": "Kw' irembo (Kw' irembo), Kw' irembo (Kw' irembo),\nKw' irembo, Ub' ari kw' irembo; Nukw' araje (araje),\nNukw' araje (araje), Kand' ageze kw' irembo."
+			},
+			{
+				"id": 159,
+				"subTitle": "2",
+				"content": "Ibyerekana kuza kwe, Birihuta kuboneka;\nKandi tugiye guhabwa, Kubaho kw' iteka."
+			},
+			{
+				"id": 160,
+				"subTitle": "3",
+				"content": "Ntabw' intambar' izashira, Ntabw' amahor' azahora,\nKerek' ibyaha n' urupfu, Byatsembwe na Yesu."
+			},
+			{
+				"id": 161,
+				"subTitle": "4",
+				"content": "Maze mw' isi yagizwe nshya, Niho tuzabahw' iteka;\nKudapfa kwakuye gupfa, Dushiz' agahinda."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Nzabona Yesu",
+		"hymnContent": [
+			{
+				"id": 162,
+				"subTitle": "1",
+				"content": "Nzabona Yesu mu maso, Umuns' azatujyana;\nNiho nzamwitegereza, Kw' ari we wampfiriye."
+			},
+			{
+				"id": 163,
+				"subTitle": "Gusubiramo",
+				"content": "Nzamurora mu maso ye,\nTuri kumwe mw' ijuru;\nMeny' uk' ubwiza bwe busa;\nNzamusingiz' iteka."
+			},
+			{
+				"id": 164,
+				"subTitle": "2",
+				"content": "Ubu ndamutekereza, Ariko simmurora;\nUmuns' uhiriw' uzaza, Nzamubonan' ubwiza."
+			},
+			{
+				"id": 165,
+				"subTitle": "3",
+				"content": "Tuzishimir' imbere ye, Ubw' ishavu rishize;\nIbigande biganduwe, N' ahijimye hakeye."
+			},
+			{
+				"id": 166,
+				"subTitle": "4",
+				"content": "Nzanezererw' imbere ye, Nzamurora mumenye;\nNzabana na Yes' unkunda, Niwe Mukiza wanjye."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "Har' Amakuru Meza",
+		"hymnContent": [
+			{
+				"id": 167,
+				"subTitle": "1",
+				"content": "Har' amakuru mez' amenywa n' abagenzi, Bazerera kure y' iwabo,\nKuk' Umukiz' agiye kuza mu bwiza bwe, Kand' agiye kwim' ingoma ye."
+			},
+			{
+				"id": 168,
+				"subTitle": "Gusubiramo",
+				"content": "Azaza, ndabizi kw' azagaruka, Nukw' azaza rwos' azaza.\nAbagenzi bose barembye, Bazakir' Umukiza n' aza kwima."
+			},
+			{
+				"id": 169,
+				"subTitle": "2",
+				"content": "Ibituro by' abera bos' uko bangana, Byose bizakingurwa rwose;\nKand' inteko z' abasinzira mu kuzimu, Bazongera gutura kw' isi."
+			},
+			{
+				"id": 170,
+				"subTitle": "3",
+				"content": "Nta kizadutanya mur' iyo si nshya nziza, Tuzaririmb' uko twakize.\nAbacunguwe bazaba bavuye hose, Baramy' Umwami wo mw' ijuru."
+			},
+			{
+				"id": 171,
+				"subTitle": "4",
+				"content": "Haleluy' amina, haleluya iteka; Nitwitonda tuzahatura.\nBa maso nezerwa, Kand' ujye wiringira, Maz' uzambar' ikamba ryiza."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "Murinzi We Menyesh' Igihe",
+		"hymnContent": [
+			{
+				"id": 172,
+				"subTitle": "1",
+				"content": "Murinzi we! Menyesh' igihe! Mbes' iwacu n' imuhero?\nAt' ijoro ryijimye cyane, Ariko buracya.\nNtukarire, Gumy' ugende, Nturorere kwiringira,\nKugez' igih' uzasohora, Mu muns' uhoraho."
+			},
+			{
+				"id": 173,
+				"subTitle": "2",
+				"content": "Murwanyi we! Tyo mbwira nawe! Ansubiza yitonz' ati:'nIntambar' igiye gushira. Guma ku rugamba.\nWibabara, Ihangane, Wirek' imirimo yawe,\nKuko tuzabon' ibihembo, Tumaze gutsinda."
+			},
+			{
+				"id": 174,
+				"subTitle": "3",
+				"content": "Ndacyabaz' ibyaremwe byose, Binsubiza bitya biti:\nIy' is' igiye guhanguka. Haz' ind' idashira.\nNtukarir' ibimenyetso, Byerekan' aho tugeze,\nKand' ibintu byose byaremwe, Biriteg' impanda."
+			},
+			{
+				"id": 175,
+				"subTitle": "4",
+				"content": "Imuhir' ubu ni bugufi, Tunezerwe mu mitima.\nDuhumure ko tuzakira, Dushir' agahinda.\nNtukarire tuzabana, Amakub' azab' ashize.\nNtabwo tuzabur' amahoro mu rugo rwa Data."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Mwebw' Abera Mube Maso",
+		"hymnContent": [
+			{
+				"id": 202,
+				"subTitle": "1",
+				"content": "Mwebw' abera mube maso, Ibyaremwe birahinda.\nMukomez' imuri zanyu, Mwiteg' Umwam' ari hafi."
+			},
+			{
+				"id": 203,
+				"subTitle": "Gusubiramo",
+				"content": "Araje Yes' araje! Azanye n' icyubahiro.\nYes' aje kwim' ingoma Ye, Araje, Yes' araje."
+			},
+			{
+				"id": 204,
+				"subTitle": "2",
+				"content": "Wibuk' Umuvunyi wave, Agakiza n' imbabazi,\nIkamba, icyubahiro. Jya wogez' ako gakiza."
+			},
+			{
+				"id": 205,
+				"subTitle": "3",
+				"content": "Nta bwami budahanguka; Wumv' amagare y' asuma.\nBwira bos' iby' imbabazi, Ubu n' igihe cy' impuhwe."
+			},
+			{
+				"id": 206,
+				"subTitle": "4",
+				"content": "Amoko yos' azashira; Krist' atebuts' Ubwami bwe;\nIs' igiye guhanguka; Nimwishim' abahiriwe."
+			},
+			{
+				"id": 207,
+				"subTitle": "5",
+				"content": "Banyabyaha mwe nimuze! Abitwarire kuri Se.\nMwese nimugire bwangu! Imbabazi zikiriho."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"title": "Ubwo Yes' Azagaruka",
+		"hymnContent": [
+			{
+				"id": 208,
+				"subTitle": "1",
+				"content": "Ubwo Yes' azagaruka, Kujyan' abe bose,\nBemeye kumuyoboka, N' abatoni be."
+			},
+			{
+				"id": 209,
+				"subTitle": "Gusubiramo",
+				"content": "Bazaka nk' inyenyeri,\nZitatse kw' ikamba rye;\nBazatangaza cyane,\nBakize rwose."
+			},
+			{
+				"id": 210,
+				"subTitle": "2",
+				"content": "Ubw' azaza gukorany' abo yatoye bose,\nBera baboneye rwose, b' abatoni be."
+			},
+			{
+				"id": 211,
+				"subTitle": "3",
+				"content": "Yemwe bana! Yemwe bana! Bakund' Umukiza;\nAbakunda, abakunda, Nk' abatoni be."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"title": "Abarokots' Ibyago Byo Hasi",
+		"hymnContent": [
+			{
+				"id": 212,
+				"subTitle": "1",
+				"content": "Abarokots' ibyago byo hasi bazakoranywa, Ab' azatumir' azajyana nabo.\nUmwami n' agaruk' ikondera rye rizavuga, Amatek' azab' agiye gucibwa."
+			},
+			{
+				"id": 213,
+				"subTitle": "Gusubiramo",
+				"content": "Azaba yabararitse, Ubw' azabahamagara (hamagara).\nAzaba yabararitse, Abazatumir' azajyana nabo."
+			},
+			{
+				"id": 214,
+				"subTitle": "2",
+				"content": "Uwo muns' abapfuye muri Kristo bazazurwa, Bazava mu bituro nka we rwose.\nAbo yitoreye bazimana nawe mw' ijuru, Ubw' azagenda, azajyana nabo."
+			},
+			{
+				"id": 215,
+				"subTitle": "3",
+				"content": "Niho tuzajya dukorer' Umwami tudahwema; Tuzajya dusingiz' urukundo rwe.\nMaz' ubwo tuzarangiz' imirimo yacu mw' isi, Tuzateranywa tujyanwe mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"title": "Vuz' Impanda Yumvikane Hose",
+		"hymnContent": [
+			{
+				"id": 216,
+				"subTitle": "1",
+				"content": "Vuz' impanda yumvikane hose, Yesu agiye kuza!\nMuririmbe bagenzi mwishima, Yesu agiye kuza."
+			},
+			{
+				"id": 217,
+				"subTitle": "Gusubiramo",
+				"content": "Ari hafi, Ari hafi,\nUmwam' agiye kuza."
+			},
+			{
+				"id": 218,
+				"subTitle": "2",
+				"content": "Mujye muhererekanya hose, Yesu agiye kuza!\nAzazan' icyubahiro cyinshi, Yesu agiye kuza."
+			},
+			{
+				"id": 219,
+				"subTitle": "3",
+				"content": "Yivugirize mu nyanja hose, Yesu agiye kuza!\nYivugirize no mu bikombe, Yesu agiye kuza."
+			},
+			{
+				"id": 220,
+				"subTitle": "4",
+				"content": "Mu misoz' uyihavugirize, Yesu agiye kuza!\nImiyag' ijyan' ayo makuru, Yesu agiye kuza."
+			},
+			{
+				"id": 221,
+				"subTitle": "5",
+				"content": "Amok' ubw' azasubiranamo, Yesu agiye kuza!\nUbwenge bwungukwa bwerekana, Ko Yes' agiye kuza."
+			}
+		]
+	},
+	{
+		"id": 10,
+		"title": "Duhurire Ku Mugezi",
+		"hymnContent": [
+			{
+				"id": 222,
+				"subTitle": "1",
+				"content": "Duhurire ku mugezi, Dusang' abamarayika;\nAmazi yaw' atunganye, Atemb' av' imbere y' Imana."
+			},
+			{
+				"id": 223,
+				"subTitle": "Gusubiramo",
+				"content": "Nuko tujye ku mugezi!\nDuhurire n' abera ku mugezi!\nKu mugez' utunganye w' Imana,\nUtemb' uv' imbere y' intebe."
+			},
+			{
+				"id": 224,
+				"subTitle": "2",
+				"content": "Ku nkombe y' uwo mugezi, Niho tuzatambagira,\nTuramy' Umwami w' iteka, Mu gihe cyiza kidashira."
+			},
+			{
+				"id": 225,
+				"subTitle": "3",
+				"content": "Tuzagera ku mugezi, Dutur' imitwaro yacu;\nTuzakirishw' imbabazi, Duhabw' umwambaro n' ikamba."
+			},
+			{
+				"id": 226,
+				"subTitle": "4",
+				"content": "Ubw' umugez' uri hafi, Urugendo ruzashira;\nTuzishima mu mitima, N' indirimbo z' umunezero."
+			}
+		]
+	},
+	{
+		"id": 11,
+		"title": "Mukiza Ngukurikire",
+		"hymnContent": [
+			{
+				"id": 227,
+				"subTitle": "1",
+				"content": "Mukiza ngukurikire, Ah' unshakira hose;\nAh' ujya ngukurikire, Mwami ngukurikire."
+			},
+			{
+				"id": 228,
+				"subTitle": "Gusubiramo",
+				"content": "Mukiza ngukurikire, Wamviriy' amaraso;\nNib' utagir' ukwita ho, Njye nkwikurikirire."
+			},
+			{
+				"id": 229,
+				"subTitle": "2",
+				"content": "Nahw' inzira yazitirwa, Naho yakukumuka,\nKo wayinyuzemo mbere, Nyicamo mfit' ishimwe."
+			},
+			{
+				"id": 230,
+				"subTitle": "3",
+				"content": "Naho naterwa n' ibyago, Nkageragezwa cyane,\nWarageragejwe nawe, Mwami ngukurikize."
+			},
+			{
+				"id": 231,
+				"subTitle": "4",
+				"content": "Nib' unyobora mw' ishavu, Niba nkena nkanenwa,\nWigeze kuba ruvumwa, Nanjye ngukurikize."
+			}
+		]
+	},
+	{
+		"id": 12,
+		"title": "Har' Isoko",
+		"hymnContent": [
+			{
+				"id": 232,
+				"subTitle": "1",
+				"content": "Har' isokw' ivamw' amaraso, Yo mu mitsi y' Imanuweri.\nNiy' atungany' abanyabyaha, Bagashirahw' inenge,\nBagatsembwahw' ibicumuro, Byose bikabacikaho.\nNiy' atungany' abanyabyaha, Bagashirahw' inenge."
+			},
+			{
+				"id": 233,
+				"subTitle": "2",
+				"content": "Igisambo ku musaraba, Kiyarabutswe cyarihannye;\nNanjye mbwiriza nkwizigire, Noye kujya ncumura;\nIbyaha mbicikeho rwose, Noye kujya nkugomera;\nNanjye mbwiriza nkwizigire, Noye kujya ncumura."
+			},
+			{
+				"id": 234,
+				"subTitle": "3",
+				"content": "Amaraso yaw' atunganye, Ahoran' imbaraga nyinshi;\nNiyo wacunguj' itorero, Aritsembamw' ibyaha;\nRyaganjij' imbaraga yabyo. Ryarabirokotse rwose.\nNiyo wacunguj' itorero, Yaritsembyemw' ibyaha."
+			},
+			{
+				"id": 235,
+				"subTitle": "4",
+				"content": "Mperey' igihe meny' isoko, Iva mu bikomere byawe.\nNogez' urwo rukundo rwawe, Nzahora ngusingiza;\nNzahora ngusingiz' iteka, Nzajya ngusingiz' iteka.\nNogez' urwo rukundo rwawe, Nzahora ngusingiza."
+			},
+			{
+				"id": 236,
+				"subTitle": "5",
+				"content": "Mwami mpora ngucumuraho, Mpa kwizer' imbabazi zawe!\nN' amaraso yaw' atunganye, Mpa kuramishwa nawe!\nMpa kuramishwa nawe Yesu! Mpa no kuramishwa nawe!\nN' amaraso yaw' atunganye, Mpa kuramishwa nawe!"
+			},
+			{
+				"id": 237,
+				"subTitle": "6",
+				"content": "Har' indirimbo zera ntazi, Nzaziririmbira mw' ijuru.\nNaho nagobw' ururim' ubu, Uzarugobotora;\nUzarugobotora Yesu, Ni wow' uzankiza rwose.\nNaho nagobw' ururim' ubu, Uzarugobotora."
+			}
+		]
+	},
+	{
+		"id": 13,
+		"title": "Mwami Yesu Ndifuza K' Umboneza",
+		"hymnContent": [
+			{
+				"id": 238,
+				"subTitle": "1",
+				"content": "Mwami Yesu ndifuza k' umboneza; Ndashaka k' umba mu mutim' iteka.\nNoye kujya nita ku bigirwamana. Umboneze rwose nere ndush' ingwa."
+			},
+			{
+				"id": 239,
+				"subTitle": "Gusubiramo",
+				"content": "Ngo nere de ndush' urubura!\nMpa kwer' ubu ngutunganire rwose!"
+			},
+			{
+				"id": 240,
+				"subTitle": "2",
+				"content": "Mwami jy' undebera ku ntebe yawe! Mpa gutamb' igitambo kiboneye!\nNdeke gushidikanya nitange rwose. Umboneze rwose nere ndush' ingwa."
+			},
+			{
+				"id": 241,
+				"subTitle": "3",
+				"content": "Yesu ndagutakambira nkomeje! Ngo mbon'uko nkwitega Mwami mwiza!\nNtunganish' umuvu w' amaraso yawe! Umboneze rwose nere ndush' ingwa."
+			},
+			{
+				"id": 242,
+				"subTitle": "4",
+				"content": "Mwami ngutegereje nihanganye, Yesu ngwin' ump' umutim' utunganye!\nNti wari wirengagiz' abagushaka. Umboneze rwose nere ndush'ingwa."
+			}
+		]
+	},
+	{
+		"id": 14,
+		"title": "Wumv' Amatur' Agwa",
+		"hymnContent": [
+			{
+				"id": 243,
+				"subTitle": "1",
+				"content": "Wumv' amatur' agwa, Ukw' ajegera.\nYose n' aya Yesu, Niwe dutura."
+			},
+			{
+				"id": 244,
+				"subTitle": "Gusubiramo",
+				"content": "Agwa, agwa, agwa, agwa, Amatur' agwa,\nYose n' aya Yesu, Niwe dutura."
+			},
+			{
+				"id": 245,
+				"subTitle": "2",
+				"content": "Ava mu tuganza, Wumv' agumy' agwa!\nN' ituro rya Yesu, Ryo mu twana twe."
+			},
+			{
+				"id": 246,
+				"subTitle": "3",
+				"content": "Ubu turi bato, Niyo dufite;\nUbwo tuzakura, Tuzasumbyaho."
+			},
+			{
+				"id": 247,
+				"subTitle": "4",
+				"content": "Nitugira bike, Tukwihe Mwami.\nByos' uzabyakira, Utwikirize."
+			}
+		]
+	},
+	{
+		"id": 15,
+		"title": "Urukundo Rwa Yesu",
+		"hymnContent": [
+			{
+				"id": 248,
+				"subTitle": "1",
+				"content": "Urukundo rwa Yesu, Rwageze kuri twebwe;\nRudukuraho rwose, Urubanza rwo gupfa."
+			},
+			{
+				"id": 249,
+				"subTitle": "Gusubiramo",
+				"content": "Aradukunda, Aradukunda,\nAradukunda, Yesu Mutabazi."
+			},
+			{
+				"id": 250,
+				"subTitle": "2",
+				"content": "Abatari bahabwa, Ubugingo bw' iteka,\nTwihute tubabwire, Urukundo rwa Yesu."
+			},
+			{
+				"id": 251,
+				"subTitle": "3",
+				"content": "Kuko yaradukunze, Yadupfiriye twese,\nNatwe dukunde dutyo, Abakiri mu byaha."
+			},
+			{
+				"id": 252,
+				"subTitle": "4",
+				"content": "Aho Yes' azazira, Aje kwim' ingoma ye,\nNi bwo tuzumv' ijwi rye, Ati: Mwakoze neza."
+			},
+			{
+				"id": 253,
+				"subTitle": "5",
+				"content": "Akir' uyu mutima, Weze maz' ub' uwawe,\nWambambiwe ku giti, Nzagukunda mb' uwawe."
+			}
+		]
+	},
+	{
+		"id": 16,
+		"title": "Mbonez' Intoke Zanjye",
+		"hymnContent": [
+			{
+				"id": 254,
+				"subTitle": "1",
+				"content": "Mbonez' intoke zanjye, Zibonere rwose;\nKo nazihaye Yesu, Ngo zimukorere."
+			},
+			{
+				"id": 255,
+				"subTitle": "Gusubiramo",
+				"content": "Nitondesh' intambwe,\nAho njya hose.\nNe kuyobok' undi,\nKeretse Yesu."
+			},
+			{
+				"id": 256,
+				"subTitle": "2",
+				"content": "Nteg' amatwi ngo numve, Nez' umunsi wose.\nNkor' ibikwiye numva, Ntagir' icyo mpuga."
+			},
+			{
+				"id": 257,
+				"subTitle": "3",
+				"content": "Mpang' amabokw' amaso, Ngo ndeb' iby' akora;\nNyabuze kwenderanya, Akorere Yesu."
+			}
+		]
+	},
+	{
+		"id": 17,
+		"title": "Njye Nsingiz' Urukundo",
+		"hymnContent": [
+			{
+				"id": 258,
+				"subTitle": "1",
+				"content": "Njye nsingiz' urukundo, Nirwo rumbwiriza,\nKugirir' abandi neza, Bakamenya Yesu."
+			},
+			{
+				"id": 259,
+				"subTitle": "Gusubiramo",
+				"content": "Data we ko nd' umwana wawe!\nData we Ngukurikize!\nNjye nsingiz' urukundo,\nNirwo rumbwiriza,\nKugirir' abandi neza, Bakamenya Yesu."
+			},
+			{
+				"id": 260,
+				"subTitle": "2",
+				"content": "Iyi s' ibamw' ishavu, N' ibyaha n' urupfu;\nNtibimbuza kuyobora, bamw' ibwami bwawe."
+			},
+			{
+				"id": 261,
+				"subTitle": "3",
+				"content": "Maz' ibyo nibishira, Tuzabe mw' ijuru,\nTuzajye tuguhimbaza, Mwami w' urukundo."
+			}
+		]
+	},
+	{
+		"id": 18,
+		"title": "Yemwe Ngabo Z' Umwami",
+		"hymnContent": [
+			{
+				"id": 262,
+				"subTitle": "1",
+				"content": "Yemwe ngabo z' Umwami! Nimutabare!\nTujyane na Yesu! Niw' utabaza.\nTwitwaz' umusaraba! Utujy' imbere!\nMwese nimuze tugabe! Tunesh' Umwanzi."
+			},
+			{
+				"id": 263,
+				"subTitle": "Gusubiramo",
+				"content": "Yemwe ngabo z' Umwami mwese!\nDutabare twese! Tujyane na Yesu,\nDutsind' Umwanzi."
+			},
+			{
+				"id": 264,
+				"subTitle": "2",
+				"content": "Ababisha bahunga, Babony' intwari.\nNimuze tuneshe, Ngabo z' Umwami!\nIntangiriro z' isi zinyeganyezwa,\nN' ibyishimo by' ab' Umwami, bamusingiza."
+			},
+			{
+				"id": 265,
+				"subTitle": "3",
+				"content": "Itorero ry' Imana, Rirafatanya;\nRirahaguruka, Kunesh' Umwanzi.\nNta kizaduteranya, Turakundana,\nDuhora duhuj' inama, Twizera kimwe."
+			},
+			{
+				"id": 266,
+				"subTitle": "4",
+				"content": "Nta ngoma zidashira, Zirahanguka.\nArikw' itorero, Rizahoraho.\nUkuzimu n' urupfu, Ntibiririnda.\nTwarazwe na Yesu Kristo, Ntabw' ahemuka."
+			},
+			{
+				"id": 267,
+				"subTitle": "5",
+				"content": "Nuko mugabe mwese! Tugerereze.\nTubumbire hamwe, Amajwi yacu,\nTuririmbe dushima, Umwami Yesu,\nKukw' afit' icyubahiro, Giheranije."
+			}
+		]
+	},
+	{
+		"id": 19,
+		"title": "Ba Mas' Udacumura",
+		"hymnContent": [
+			{
+				"id": 268,
+				"subTitle": "1",
+				"content": "Ba mas' udacumura! Ibyaha bigota,\nBihora bikwegera cyane, Ng' utajya mw' ijuru."
+			},
+			{
+				"id": 269,
+				"subTitle": "2",
+				"content": "Ba maso rwana senga! Nturek' urugamba!\nUrurasany' iminsi yose, Utabaz' Imama."
+			},
+			{
+				"id": 270,
+				"subTitle": "3",
+				"content": "Komeza nturanesha! Wirekur' intwaro!\nDor' intambara ntirashira, Udahaw' ikamba."
+			}
+		]
+	},
+	{
+		"id": 20,
+		"title": "Huguka Mutima Wanjye!",
+		"hymnContent": [
+			{
+				"id": 271,
+				"subTitle": "1",
+				"content": "Huguka mutima wanjye! Shishikarir' ibyiza!\nUkomez' urwan' ishyaka! Uzambikw' ikamba."
+			},
+			{
+				"id": 272,
+				"subTitle": "2",
+				"content": "N' Iman' iguhamagara, Gira bwangu witabe!\nNiy' iziher' ibihembo, Abatsinze bose."
+			},
+			{
+				"id": 273,
+				"subTitle": "3",
+				"content": "Inteko zikurebera, Ziragutegereje,\nNtutekerez' ah' uvuye, Reb' imbere yawe."
+			},
+			{
+				"id": 274,
+				"subTitle": "4",
+				"content": "Mukiza wacu dukunda, Twanesheje ku bwawe,\nUbu twaje kugushima, Turagusingiza."
+			}
+		]
+	},
+	{
+		"id": 21,
+		"title": "Ndeger' Umusaraba",
+		"hymnContent": [
+			{
+				"id": 302,
+				"subTitle": "1",
+				"content": "Ndeger' umusaraba, Naniwe nkennye mpumye,\nSingir' icyo nitaho, Rwose nshaka gukizwa."
+			},
+			{
+				"id": 303,
+				"subTitle": "Gusubiramo",
+				"content": "Mwami ndakwizigira,\nMukiza wanjye mwiza!\nNdicuz' imbere yawe,\nMwami Yes' unkiz’'ubu!"
+			},
+			{
+				"id": 304,
+				"subTitle": "2",
+				"content": "Nakwifujije kera, Njya mbabazwa n' ibyaha.\nYes' ambwira nez' ati: Ngukiz' ibicumuro."
+			},
+			{
+				"id": 305,
+				"subTitle": "3",
+				"content": "Ubu ndakwihereje, Simbuzwa n' iby' iyi si.\nMb' uwawe rwose Mwami, Nguhay' ibyanjye byose."
+			},
+			{
+				"id": 306,
+				"subTitle": "4",
+				"content": "Ndiringir' iby' uvuga, Wamviriy' amaraso.\nUbu ndicuza cyane, Mbambanywe n' Umukiza."
+			},
+			{
+				"id": 307,
+				"subTitle": "5",
+				"content": "Nezezwa n' uko nkize, Yesu niw' unkomeza.\nNta nenge nsigaranye, Mp' itam' icyubahiro."
+			}
+		]
+	},
+	{
+		"id": 22,
+		"title": "Mwami Mp' Umugisha Wawe",
+		"hymnContent": [
+			{
+				"id": 308,
+				"subTitle": "1",
+				"content": "Mwami mp' umugisha wawe, Uhera bos' ubusa.\nNdakwinginga ntumpiteho! Arik' umpire none."
+			},
+			{
+				"id": 309,
+				"subTitle": "Gusubiramo",
+				"content": "Umpire! Umpire! Ngo ntatahan' ubusa."
+			},
+			{
+				"id": 310,
+				"subTitle": "2",
+				"content": "Ntunsige mubyeyi mwiza, Ibyaha byandembeje;\nNkwiriye gucibwa rwose, Arik' umbabarire."
+			},
+			{
+				"id": 311,
+				"subTitle": "3",
+				"content": "Niba natinze mu byaha, Njya nkubabaza, cyane;\nNiba ngoswe n' iby' iyi si, Ubinkuremo rwose."
+			},
+			{
+				"id": 312,
+				"subTitle": "4",
+				"content": "Ntumpiteho Mwuka Wera! Niw' uhumur' impumyi.\nUnyemez' uhamya Yesu! Mbwir' ibimpumuriza."
+			}
+		]
+	},
+	{
+		"id": 23,
+		"title": "Untambe Hejuru Mwuka Wera",
+		"hymnContent": [
+			{
+				"id": 313,
+				"subTitle": "1",
+				"content": "Untambe hejuru Mwuka Wera, Ngo mpirwe nawe!\nNyuzuz' umugisha wawe, Ngwino ngwin' unyuzure!"
+			},
+			{
+				"id": 314,
+				"subTitle": "Gusubiramo",
+				"content": "Nyuzura! nyuzura! Yesu ngwin' unyuzure!\nNyuzuz' umugisha wawe! Ngwino ngwin' unyuzure!"
+			},
+			{
+				"id": 315,
+				"subTitle": "2",
+				"content": "Ushobora kunyuzura, Ariko sinz' uburyo.\nNdagushaka Mwuka Wera, Ngwino ngwin' unyuzure!"
+			},
+			{
+				"id": 316,
+				"subTitle": "3",
+				"content": "Sinkomeye ndababaye, Ndunam' imbere yawe.\nMwuka mwiza wo mw' ijuru, Mp' urukundo nyuzura."
+			},
+			{
+				"id": 317,
+				"subTitle": "4",
+				"content": "Ngwin' unyeze kand' unkize! Tuz' umutima wanjye!\nNiw' umpumuriz' unkiza, Unyuzure rwos' ubu."
+			}
+		]
+	},
+	{
+		"id": 24,
+		"title": "Ndagushak' Iteka",
+		"hymnContent": [
+			{
+				"id": 318,
+				"subTitle": "1",
+				"content": "Ndagushak' iteka, Mwami mwiza cyane.\nIjwi ryawe ryiza, Rizan' amahoro."
+			},
+			{
+				"id": 319,
+				"subTitle": "Gusubiramo",
+				"content": "Ku manywa na n' ijoro,\nNdagushak' iteka.\nMpir' ubu Mukiza we!\nTwigumanire."
+			},
+			{
+				"id": 320,
+				"subTitle": "2",
+				"content": "Ndagushak' iteka, Jy' ungum' iruhande.\nNtsind' amoshya yose, Iyo turi kumwe."
+			},
+			{
+				"id": 321,
+				"subTitle": "3",
+				"content": "Ndagushak' iteka, Ntuje n' iyo nganya.\nNgwin' ubu tubane! Mbone gutungana."
+			},
+			{
+				"id": 322,
+				"subTitle": "4",
+				"content": "Ndagushak' iteka, Nyigish' iby' ushaka!\nNkwinging' unsohorez' amasezerano!"
+			},
+			{
+				"id": 323,
+				"subTitle": "5",
+				"content": "Ndagushak' iteka, Mwami Wera rwose,\nNyobora mb' uwawe, Wowe munyahirwe!"
+			}
+		]
+	},
+	{
+		"id": 25,
+		"title": "Yesu Nd' Uwawe Nyakira",
+		"hymnContent": [
+			{
+				"id": 324,
+				"subTitle": "1",
+				"content": "Yesu nd' uwawe nyakira, N' ibyanjye mfite byose!\nNjye ngukunda nkwizigire, Nkomeze nkuyoboke."
+			},
+			{
+				"id": 325,
+				"subTitle": "Gusubiramo",
+				"content": "Nguhaye byose, Nguhaye byose.\nMucunguzi wanjye mwiza, Nguhaye byose."
+			},
+			{
+				"id": 326,
+				"subTitle": "2",
+				"content": "Yesu nd' uwawe nyakira! Niyoroshye nkuramye.\nMpaz' ibyishimo byo hasi, Ubu Yesu nyakira!"
+			},
+			{
+				"id": 327,
+				"subTitle": "3",
+				"content": "Yesu nd' uwawe nyakira! Mukiza ngir' uwawe!\nTum' Umwuka Wer' ambwire, Kuko naw' ur' uwanjye!"
+			},
+			{
+				"id": 328,
+				"subTitle": "4",
+				"content": "Yesu nguhaye byos' ubu, Umwuk' ampay' umwete!\nNsingiz' imbabazi zawe, Nkuramye bihimbaje."
+			}
+		]
+	},
+	{
+		"id": 26,
+		"title": "Ubu Nj' Uko Ndi",
+		"hymnContent": [
+			{
+				"id": 352,
+				"subTitle": "1",
+				"content": "Ubu nj' uko ndi nta kindi cyankiza.\nNdokoresh' amaraso yawe.\nNitaby' ijwi ryawe rimpamagaye,\nNdaje, Ntama y' Imana ndaje."
+			},
+			{
+				"id": 353,
+				"subTitle": "2",
+				"content": "Nj' uko ndi nyakir' ubu ngubu Yesu!\nNyez' umutima nkir' ibyaha!\nWowe Nyir' amaras' akiza rwose,\nNdaje, Ntama y' Imana ndaje."
+			},
+			{
+				"id": 354,
+				"subTitle": "3",
+				"content": "Nj' uko ndi mbuyerezwa n' ubugome.\nNjya nanizwa nuko nd' intebyi,\nMfit' ibindwanya byinshi bincogoza,\nNdaje, Ntama y' Imana ndaje."
+			},
+			{
+				"id": 355,
+				"subTitle": "4",
+				"content": "Nj' uko ndi nd' umuhanya, ndi n' impumyi.\nGutungana mbikesha wowe,\nIbyamboneza nabibon' iwawe.\nNdaje, Ntama y' Imana ndaje."
+			},
+			{
+				"id": 356,
+				"subTitle": "5",
+				"content": "Nj' uko ndi nizigiye k' unyakira,\nNizey' isezerano ryawe;\nYuk' uzankiza kand' uzamboneza.\nNdaje, Ntama y' Imana ndaje."
+			},
+			{
+				"id": 357,
+				"subTitle": "6",
+				"content": "Nj' uko ndi guhamy' urukundo rwawe,\nKo rwambohoy' ingoyi zose.\nUherey' ubu mbay' uwawe rwose.\nNdaje, Ntama y' Imana ndaje."
+			}
+		]
+	},
+	{
+		"id": 27,
+		"title": "Dushim' Imana",
+		"hymnContent": [
+			{
+				"id": 358,
+				"subTitle": "1",
+				"content": "Dushim' Imana kubw' Umwana wayo,\nKubw' Umukiza waducunguye twese."
+			},
+			{
+				"id": 359,
+				"subTitle": "Gusubiramo",
+				"content": "Haleluya Nyirigira, Haleluy' amina;\nHaleluya Nyirigira, Twonger' umwete."
+			},
+			{
+				"id": 360,
+				"subTitle": "2",
+				"content": "Dushim' Imana kubw' Umwuka Wera;\nAtubwiriza kumvir' Iyaturemye."
+			},
+			{
+				"id": 361,
+				"subTitle": "3",
+				"content": "Dushim' Intama yatambwe ku bwacu,\nYatway' ibyaha byac' adukiza rwose."
+			},
+			{
+				"id": 362,
+				"subTitle": "4",
+				"content": "Dushimir' Iman' imbabazi zayo,\nYaratuguz' itugir' abana bayo."
+			},
+			{
+				"id": 363,
+				"subTitle": "5",
+				"content": "Twonger' umwete, Twuzuz' urukundo;\nUmuntu wes' akuyobokan' ubwira."
+			}
+		]
+	},
+	{
+		"id": 28,
+		"title": "Shaka Gutungana",
+		"hymnContent": [
+			{
+				"id": 1,
+				"subTitle": "1",
+				"content": "Shaka gutungana, Jy' uhor' usenga;\nBana n' Uwiteka, Ujy' umwumvira;\nJy' ukund' Abakristo, Fash' abarembye;\nNtuhuge na hato, Gushak' ihirwe."
+			},
+			{
+				"id": 2,
+				"subTitle": "2",
+				"content": "Shaka gutungana, Hagomye benshi;\nHorana na Yesu, Mu rwiherero.\nN' umwitegereza, Uzaba nka we;\nBose bazamenya, K' umeze nka we."
+			},
+			{
+				"id": 3,
+				"subTitle": "3",
+				"content": "Shaka gutungana, Akuyobore.\nTy' itond' imbere ye, N' ugir' ibyago,\nUk' umera kose, Jy' umwiyambaza.\nJy' uyoboka Yesu, Mwumvire rwose."
+			},
+			{
+				"id": 4,
+				"subTitle": "4",
+				"content": "Shaka gutungana, Tuz' umutima.\nTekerez' ibyiza, Wihutiraho.\nJya wumvir' Umwuka, Gwiz' urukundo;\nUzatunganira, Kuba mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 29,
+		"title": "Ungumane",
+		"hymnContent": [
+			{
+				"id": 52,
+				"subTitle": "1",
+				"content": "Ungumane ko bugiye kwira,\nHaj' umwijima Mwam' ungumane.\nUbwo bagenzi banjye bansiga,\nNkaba jyenyine, Mwam' ungumane."
+			},
+			{
+				"id": 53,
+				"subTitle": "2",
+				"content": "Mur' iyi si byose birashira,\nNta munezer' uhaba na hato;\nNta kidapfa, nta kidahinduka;\nWow' udahinyuka, ungumane."
+			},
+			{
+				"id": 54,
+				"subTitle": "3",
+				"content": "Mwami niwe nshak' iteka ryose,\nNta moshya ntsinda tutari kumwe.\nNta wabasha kunyobora nkawe.\nMwam' iteka ryose, ungumane."
+			},
+			{
+				"id": 55,
+				"subTitle": "4",
+				"content": "N' ungumana, nta mubisha ntinya;\nIshavu rizab' umunezero;\nImbori z' urupfu zizashira;\nNtabwo ntazanesha n' ungumana."
+			}
+		]
+	},
+	{
+		"id": 30,
+		"title": "Ngah' Umuns' Urakuze",
+		"hymnContent": [
+			{
+				"id": 56,
+				"subTitle": "1",
+				"content": "Ngah' umuns' urakuze, Burije turuhuke;\nKand' ubw' imuri z' ijoro zaka turamy' Uwiteka,\nTwebwe twese."
+			},
+			{
+				"id": 57,
+				"subTitle": "Gusubiramo",
+				"content": "Wera, Wera, Wera, Mwam' Imana.\nWigwij' ahantu hose,\nNta kitaguh' ishimwe, Mwam' Imana."
+			},
+			{
+				"id": 58,
+				"subTitle": "2",
+				"content": "Mwami nyir' ubugingo, Terany' abagushaka;\nBuzuze bos' urukundo, Ubagir' ubwoko bwawe,\nBakuramye."
+			},
+			{
+				"id": 59,
+				"subTitle": "3",
+				"content": "Umwijima n' ugwira, Dukingir' imbabazi;\nTukwegerez' imitima, Hirya y' ubwiza bw' ijuru,\nNgo duhirwe."
+			},
+			{
+				"id": 60,
+				"subTitle": "4",
+				"content": "Duhe kukwiringira, Ng' ubwo tuzapfa Mwami,\nTwongere kubon' umucyo, Ijoro rishir' iteka,\nTugushime."
+			}
+		]
+	},
+	{
+		"id": 31,
+		"title": "Mukiza We Niwe Mucyo Waka",
+		"hymnContent": [
+			{
+				"id": 102,
+				"subTitle": "1",
+				"content": "Mukiza we! Niwe mucyo waka.\nNtabw' umwijim' uhangar' ah' uri,\nNyamururahw' ibinyoshya,\nBituma nanduranya nawe."
+			},
+			{
+				"id": 103,
+				"subTitle": "2",
+				"content": "Mukiza mu gihe njya kuryama,\nNgo nduhuk' imirimo nakoze,\nUmpe kugutekereza,\nNgo nsinzire ndi kumwe nawe."
+			},
+			{
+				"id": 104,
+				"subTitle": "3",
+				"content": "Umpagarik' umunsi n' ijoro;\nNtabwo nabaho tutari kumwe;\nUngumane mu makuba,\nKuko ntinya gupf' utahari."
+			},
+			{
+				"id": 105,
+				"subTitle": "4",
+				"content": "N' ubwo nkanguk' ungume bugufi;\nN' aho ndibujye gukora hose,\nKugez' ubwo nzaz' iwawe,\nMeny' urukundo rwawe rwose."
+			}
+		]
+	},
+	{
+		"id": 32,
+		"title": "Yesu N' Urutare Rwacu",
+		"hymnContent": [
+			{
+				"id": 106,
+				"subTitle": "1",
+				"content": "Yesu n' urutare rwacu, N' ubwugamo bw' umugaru;\nNiw' udukiz' amakuba, N' ubwugamo bw' umugaru."
+			},
+			{
+				"id": 107,
+				"subTitle": "Gusubiramo",
+				"content": "Rutare rwisungwa n' abantu!\nGicucu cy' uburuhukiro!\nMuyobozi mwiz' utayobya!\nUbwugamo bw' umugaru."
+			},
+			{
+				"id": 108,
+				"subTitle": "2",
+				"content": "Ankiz' amakub' iteka, N' ubwugamo bw' umugaru.\nNtacyo ntinya turi kumwe, N' ubwugamo bw' umugaru."
+			},
+			{
+				"id": 109,
+				"subTitle": "3",
+				"content": "Imivu n' isum' itera, N' ubwugamo bw' umugaru.\nN' Umukiza wacu mwiza, N' ubwugamo bw' umugaru."
+			},
+			{
+				"id": 110,
+				"subTitle": "4",
+				"content": "Rutare rwiza rushimwa! Ubwugamo bw' umugaru!\nJy' utuvuna mu makuba! Ubwugamo bw' umugaru."
+			}
+		]
+	},
+	{
+		"id": 33,
+		"title": "Ndanezerwa Kw' Anyobora",
+		"hymnContent": [
+			{
+				"id": 111,
+				"subTitle": "1",
+				"content": "Ndanezerwa kw' anyobora, Arampumurish' Ijambo rye.\nMu byo nkora, n' aho ngenda, N'ukoboko kwa Yesu kunyobora."
+			},
+			{
+				"id": 112,
+				"subTitle": "Gusubiramo",
+				"content": "Aranyobora nkanezerwa,\nN' ukw' anyoboresh' ukuboko kwe.\nNshaka kumukorera neza,\nYuk' ukuboko kwe kunyobora."
+			},
+			{
+				"id": 113,
+				"subTitle": "2",
+				"content": "Niba ngir' ishavu ryinshi, Cyangwa nubwo nezerwa cyane.\nMu mahoro n' amakuba, N' ukuboko kwa Yesu kunyobora."
+			},
+			{
+				"id": 114,
+				"subTitle": "3",
+				"content": "Mwami nshaka ko tubana; Ntabwo nzinuba nitotomba;\nNzagumya nishime cyane, K' ukuboko kwa Yesu kunyobora."
+			},
+			{
+				"id": 115,
+				"subTitle": "4",
+				"content": "Ndangij' imirimo yanjye, Nesheje kubw' imbabazi ze;\nNtacyo nzatinya n' urupfu, K' ukuboko kwa Yesu kunyobora."
+			}
+		]
+	},
+	{
+		"id": 34,
+		"title": "Nimbon' Amahoro",
+		"hymnContent": [
+			{
+				"id": 116,
+				"subTitle": "1",
+				"content": "Nimbon' amahoro yomboka nk' uruzi, Naho naba mfit' ishavu,\nUko mba kose, Njya nkunda kuvuga Nti: Nguwe neza mu mutima."
+			},
+			{
+				"id": 117,
+				"subTitle": "Gusubiramo",
+				"content": "Ni neza (ni neza) ndatuje (ndatuje);\nKo nguwe neza mu mutima."
+			},
+			{
+				"id": 118,
+				"subTitle": "2",
+				"content": "Satani n' antera, Nkagira n' ibyago, Nkomezwa no kwiringira,\nKuko Kristo yabonye ko nd' intebyi; Ni ko kumvir' amaraso ye."
+			},
+			{
+				"id": 119,
+				"subTitle": "3",
+				"content": "Nshima cyane kuko mbabariw' ibyaha, Nta na kimwe cyasigaye;\nByabambanywe nawe ku musaraba; Mutima wanjye shim' Umwami."
+			},
+			{
+				"id": 120,
+				"subTitle": "4",
+				"content": "Mwami tebuts' umuns' uzagarukaho, Ubw' ibicu bizarundwa,\nImpand' ivuze, Umwam' amanuke Nti: Nguwe neza mu mutima."
+			}
+		]
+	},
+	{
+		"id": 35,
+		"title": "Nkund' Ubucuti",
+		"hymnContent": [
+			{
+				"id": 121,
+				"subTitle": "1",
+				"content": "Nkund' ubucuti buva mw' ijuru, Nisung' amaboko y' iteka.\nNgiz' amahirwe, mbony' amahoro, Nisunz' amaboko y' iteka."
+			},
+			{
+				"id": 122,
+				"subTitle": "Gusubiramo",
+				"content": "S. na A.:\n\nNkiza! Nkiza! Ndokor' amakuba yose!\nNkiza! Nkiza! Nisunz' amaboko y' iteka.\n\nT. na B.:\n\nNkiza Yesu! Nkiza Yesu nkiza!\nNdokor' amakuba yose!\nNkiza Yesu! Nkiza Yesu nkiza!\nNisunz' amaboko y' iteka."
+			},
+			{
+				"id": 123,
+				"subTitle": "2",
+				"content": "Nezerwa n' uko Yes' anyobora; Nisung' amaboko y' iteka.\nNunguk' ishimwe, Ngakiranuka; Nisunz' amaboko y' iteka."
+			},
+			{
+				"id": 124,
+				"subTitle": "3",
+				"content": "Nta bwoba mfite, Nshiz' agahinda, Nisunz' amaboko y' iteka.\nNguwe nez' ubu, Ndatunganiwe. Nisunz' amaboko y' iteka."
+			}
+		]
+	},
+	{
+		"id": 36,
+		"title": "Ni Wowe Nizeye",
+		"hymnContent": [
+			{
+				"id": 329,
+				"subTitle": "1",
+				"content": "Ni wowe nizeye, Ntama y' i Kalwari,\nWe Mukiza! Ngusab' unyumvire,\nNkiz' ibicumuro, Mperey' ubu Mwami,\nNkuyoboke."
+			},
+			{
+				"id": 330,
+				"subTitle": "2",
+				"content": "Nyuzuz' imbabazi, Ngir' inama nziza,\nNter' umwete; Kuko wampfiriye,\nNkwerek' urukundo, Rudatuba rwaka,\nNk' umuriro."
+			},
+			{
+				"id": 331,
+				"subTitle": "3",
+				"content": "Ni ngotwa n' ibyaha, Nkagira n' ishavu,\nUnyobore. Nkura mu mwijima,\nNtsembahw' amaganya, Kandi ntundekere,\nKure yawe."
+			}
+		]
+	},
+	{
+		"id": 37,
+		"title": "Nkuyoboke Mwami",
+		"hymnContent": [
+			{
+				"id": 332,
+				"subTitle": "1",
+				"content": "Nkuyoboke Mwami, Nkuyoboke.\nN' aho natendekwa ku musaraba,\nNaba nkiririmba: Nkuyoboke Mwami,\nNkuyoboke Mwami, Nkube bugufi."
+			},
+			{
+				"id": 333,
+				"subTitle": "2",
+				"content": "Nkuyoboke Mwami, Nkuyoboke.\nMu makuba yose, Mpagarikira!\nNi nterwa n' ibyago, Umpe kwihangana,\nNkuyoboke Mwami, Nkube bugufi."
+			},
+			{
+				"id": 334,
+				"subTitle": "3",
+				"content": "Nkuyoboke Mwami, Nkuyoboke.\nJy' untabar' iteka ngumye nkwizere!\nUmwanzi n' antera, Ujy' undwanirira!\nNkuyoboke Mwami, Nkube bugufi."
+			},
+			{
+				"id": 335,
+				"subTitle": "4",
+				"content": "Nkuyoboke Mwami, Nkuyoboke.\nWakinguy' ijuru, Nyobor' ah' uri.\nMugenzi komera, Urenda gukira!\nNkuyoboke Mwami, Nkube bugufi."
+			}
+		]
+	},
+	{
+		"id": 38,
+		"title": "Unambe Ku Mana",
+		"hymnContent": [
+			{
+				"id": 336,
+				"subTitle": "1",
+				"content": "Unambe ku Mana, ntuyimure; Bona n' uterwa n' impagarara,\nUzagarukirwa na Rutare, Iyo tugoswe n' ibyaha."
+			},
+			{
+				"id": 337,
+				"subTitle": "Gusubiramo",
+				"content": "Dukomerera kuri Kristo Rutare,\nNiwe Rutare twisunga.\nNitwihangana tuzab' amahoro,\nTugez' imbere y' Imana."
+			},
+			{
+				"id": 338,
+				"subTitle": "2",
+				"content": "Nambir' ukuri jya wihangana, Komez' ubutwari no kwizera!\nRutar' aduha kuganziriza, Mur' iy' isi y' igomero."
+			},
+			{
+				"id": 339,
+				"subTitle": "3",
+				"content": "Nambir' ukuri birakwiriye, We kurambirw' uzagororerwa.\nRutare niw' uduh' amahoro, Tumaze gutsind' ibyago."
+			}
+		]
+	},
+	{
+		"id": 39,
+		"title": "Nkomeze Njye Niringira",
+		"hymnContent": [
+			{
+				"id": 340,
+				"subTitle": "1",
+				"content": "Nkomeze njye niringira, Amaraso y' Umukiza.\nSinagir' undi nigana, Keretse Yesu wenyine."
+			},
+			{
+				"id": 341,
+				"subTitle": "Gusubiramo",
+				"content": "Nikomeze ku Rutare,\nNahw' ahandi n' umusenyi;\nNahw' ahandi n' umusenyi."
+			},
+			{
+				"id": 342,
+				"subTitle": "2",
+				"content": "Umwijima n' umpumisha, Niringir' imbabazi ze.\nMu makuba no mu byago, Ntagir' ubw' anzibukira."
+			},
+			{
+				"id": 343,
+				"subTitle": "3",
+				"content": "Mbonezwa n' amaraso ye, Ampa kumukurikira.\nNiyo nababaye rwose, Aramfasha ngakomera."
+			},
+			{
+				"id": 344,
+				"subTitle": "4",
+				"content": "N' aza kw' ijwi ry' ikondera, Azasanga mwiteguye;\nNambaye gukiranuka, Nta nenge nzaba ngifite."
+			}
+		]
+	},
+	{
+		"id": 40,
+		"title": "Tubane N' Uwami",
+		"hymnContent": [
+			{
+				"id": 345,
+				"subTitle": "1",
+				"content": "Tubane n' Umwami, Twumvir' ijambo rye;\nAtujyana mu nzira nziza,\nTumwumviye rwose. Akabana natwe,\nN' abamwizer' uko bangana."
+			},
+			{
+				"id": 346,
+				"subTitle": "Gusubiramo",
+				"content": "Jy' umwumvira, Nta kandi gakiza,\nKeretse Yesu gusa; Mwizigire rwose."
+			},
+			{
+				"id": 347,
+				"subTitle": "2",
+				"content": "Ntihakingirizwa, Nta gicu gikuba,\nByeyurwa no kumwenyura kwe.\nNta shiti n' ubwoba, Bona n' igishyika,\nBimarwa n' uko tumwizeye."
+			},
+			{
+				"id": 348,
+				"subTitle": "3",
+				"content": "Nta kitubabaza, Nta shavu tugira;\nNiw' uduhembur' imbu zose;\nNta bworo n' isari, Nta n' umubabaro;\nTuzahirwa ni tumwizera."
+			},
+			{
+				"id": 349,
+				"subTitle": "4",
+				"content": "Ntabwo twiyungura, Kugir' ibyishimo,\nKugeza ko tureka byose,\nKubw' imbabazi ze; Impan' ajy' atanga,\nN' ingororano z' abizeye."
+			},
+			{
+				"id": 350,
+				"subTitle": "5",
+				"content": "Tuzajya twishima, Turi kumwe nawe.\nTuzagendana naw' iteka,\nTumwumvira rwose; Azajy' adutuma,\nNtacyo tuzaba tugitinya."
+			}
+		]
+	},
+	{
+		"id": 41,
+		"title": "Yes' Abe Hamwe Nawe Hose",
+		"hymnContent": [
+			{
+				"id": 366,
+				"subTitle": "1",
+				"content": "Yes' abe hamwe nawe hose! Akugir' inama nziza!\nAgucyure mu bushyo bwe! Yes' abe hamwe nawe hose!"
+			},
+			{
+				"id": 367,
+				"subTitle": "Gusubiramo",
+				"content": "Kugez' ubwo (ubwo) tuzabonana,\nUbwo tuzabana na Yesu (na Yesu).\nKugez' ubwo (ubwo) tuzabonana,\nYes' abe hamwe nawe hose."
+			},
+			{
+				"id": 368,
+				"subTitle": "2",
+				"content": "Yes' abe hamwe nawe hose! Akurinde mu makuba!\nAkwongere man' iteka! Yes' abe hamwe nawe hose!"
+			},
+			{
+				"id": 369,
+				"subTitle": "3",
+				"content": "Yes' abe hamwe nawe hose! Ubuyerezwa n' ibyaha,\nAgukingir' ukuboko! Yes' abe hamwe nawe hose!"
+			},
+			{
+				"id": 370,
+				"subTitle": "4",
+				"content": "Yes' abe hamwe nawe hose! Jy' uguman' urukundo rwe!\nTsind' urupf' imbere yawe! Yes' abe hamwe nawe hose!"
+			}
+		]
+	},
+	{
+		"id": 42,
+		"title": "Iyo Turi Kumwe N' Inshuti",
+		"hymnContent": [
+			{
+				"id": 371,
+				"subTitle": "1",
+				"content": "Iyo turi kumwe n' inshuti, Nta kitubabaza,\nArikw' iyo dutandukanye, Tugir' agahinda."
+			},
+			{
+				"id": 372,
+				"subTitle": "Gusubiramo",
+				"content": "Mw' ijuru ntituzatana, Tuzahahorana.\nMur' iyo si y' amahoro, Ntabwo tuzatana."
+			},
+			{
+				"id": 373,
+				"subTitle": "2",
+				"content": "Iyo twibuts' inshuti zacu, Turishima cyane.\nNitumar' imirimo yacu, Tuzaban' iteka."
+			},
+			{
+				"id": 374,
+				"subTitle": "3",
+				"content": "Ntabwo tuzasezeranaho, Tugeze mw' ijuru;\nTuzahahoran' ibyishimo, Turirimb' iteka."
+			}
+		]
+	},
+	{
+		"id": 43,
+		"title": "Gupfa Twiringiye Yesu",
+		"hymnContent": [
+			{
+				"id": 375,
+				"subTitle": "1",
+				"content": "Gupfa twiringiye Yesu,\nKubera n' ugusinzira.\nNta wukangurwamw arira,\nNtaw' umwanz' ashukirayo."
+			},
+			{
+				"id": 376,
+				"subTitle": "2",
+				"content": "Gusinzira muri Yesu,\nN' uburuhukiro bwiza,\nN' amahirwe y' abizeye,\nKo bazahabw' ubugingo."
+			},
+			{
+				"id": 377,
+				"subTitle": "3",
+				"content": "Gusinzira muri Yesu,\nNo gukangurwamo nawe,\nN' imbaraga y' Umukiza;\nNtabw' izabuzwa n' ibyago."
+			},
+			{
+				"id": 378,
+				"subTitle": "4",
+				"content": "Gusinzira muri Yesu,\nKuzurwa n' ijwi ry' impanda.\nMaz' ibituro bivemo,\nAbera bose barame."
+			}
+		]
+	},
+	{
+		"id": 44,
+		"title": "Ibyo Nkora Nkiriho",
+		"hymnContent": [
+			{
+				"id": 379,
+				"subTitle": "1",
+				"content": "Ibyo nkora nkirihw' aho bizarangirira, Ubwo kudapfa kuzakura gupfa;\nNi mara gukira nzabon' Umukiza wanjye, Kand' azab' anyakiran' ibyishimo."
+			},
+			{
+				"id": 380,
+				"subTitle": "Gusubiramo",
+				"content": "Nzamumenya, Nzamumenya; Nzahagarar' imbere Ye nkize.\nNzamumenya, Nzamumenya, Mbony' inkovu zo mu biganza bye."
+			},
+			{
+				"id": 381,
+				"subTitle": "2",
+				"content": "Nzanezerwa mbony' uburanga bwe buhebuje, N' amaso y' akey' arabagirana;\nNzajya musingiza mpimbawe n' urukundo rwe, Ko yambonerej' aheza mw' ijuru."
+			},
+			{
+				"id": 382,
+				"subTitle": "3",
+				"content": "Ntabwo mpug' abadusezeyeho bajya kure, Ubwo twatandukaniye ku cyambu.\nNi tujya mw' ijuru nta kizadutandukanya, Cyane nifuza kubon' Umukiza."
+			},
+			{
+				"id": 383,
+				"subTitle": "4",
+				"content": "Azanjyana mu mudugudu utabamw' ishavu, Niho nzambarir' imyambaro yera,\nNzaririmbana n' aber' indirimbo ya Mose; Cyane ndifuza kubon' Umukiza."
+			}
+		]
+	},
+	{
+		"id": 45,
+		"title": "Umpe Bibiliya",
+		"hymnContent": [
+			{
+				"id": 384,
+				"subTitle": "1",
+				"content": "Umpe Bibiliya kukw' ari y' inezeza, Uyinyoboresh' iteka Mwami.\nNta kibasha kuzimy' umucyo wayo, Ko Yesu yaje kuyitwumvisha."
+			},
+			{
+				"id": 385,
+				"subTitle": "Gusubiramo",
+				"content": "Umpe Bibiliya kukw' ariy' inezeza,\nNyoborwe nayo mu nzira ntoya.\nAmategeko yawe niyo meza,\nAgaragaz' inzira y' ukuri."
+			},
+			{
+				"id": 386,
+				"subTitle": "2",
+				"content": "Umpe Bibiliya mu kababaro kanjye, Igihe mpigwa n' ibyaha byanjye.\nUmpe n' amagambo Yesu yavuze, Kukw' ariyo mez' ampumuriza."
+			},
+			{
+				"id": 387,
+				"subTitle": "3",
+				"content": "Umpe Bibiliya ngw' imurikir' iteka; Kand' indind' imitego yo hasi;\nNiyo rumuri rwaka mu mwijima, Runyerek' inzira y' amahoro."
+			},
+			{
+				"id": 388,
+				"subTitle": "4",
+				"content": "Umpe Bibiliya ngw' imbwir' iby' ubugingo, Kand' udukomerez' uwo mucyo.\nNgo tumeny' inzir' igana mw' ijuru, Unyerek' ubwiza bwawe Data."
+			}
+		]
+	},
+	{
+		"id": 46,
+		"title": "Jy' Uhor' Undinganirije",
+		"hymnContent": [
+			{
+				"id": 389,
+				"subTitle": "1",
+				"content": "Jy' uhor' undinganirije, Amagamb' atunganye.\nUmpugure meny' ukuri, Kw' amagambo yawe.\nNkund' amagambo yawe, Kw' ampa kukwizigira."
+			},
+			{
+				"id": 390,
+				"subTitle": "Gusubiramo",
+				"content": "Amagambo meza cyane, Anter' ibyishimo byinshi;\nNiyo meza, ndayakunda; Ntabw' atanezeza."
+			},
+			{
+				"id": 391,
+				"subTitle": "2",
+				"content": "Krist' ahet' abantu bose, Amagamb' atunganye.\nNimwitabe banyabyaha! Mwumv' iby' ubugingo!\nAbayoboz' ituza, N' amagamb' atunganye."
+			},
+			{
+				"id": 392,
+				"subTitle": "3",
+				"content": "Menyesha bos' ubutumwa! N' amagamb' atunganye!\nNimuze mubabarirwe! Mwumv' iby' ubugingo!\nYesu niwe Mukiza, Utwonger' ubugingo."
+			}
+		]
+	},
+	{
+		"id": 47,
+		"title": "Mpagaze Ku Nkengero Ya Yorodani",
+		"hymnContent": [
+			{
+				"id": 393,
+				"subTitle": "1",
+				"content": "Mpagaze ku nkengero ya Yor'dani nubur' amaso,\nNdor' igihugu cyiza cy' i Kanani, nihw' ibyanjye biri."
+			},
+			{
+				"id": 394,
+				"subTitle": "Gusubiramo",
+				"content": "N' igihugu cyiza cy' amahoro,\nHakurya ku nkengero haratoshye;\nTuzahavugir' indirimbo ya Mose,\nTubane na Yes' iteka."
+			},
+			{
+				"id": 395,
+				"subTitle": "2",
+				"content": "Hakurya mur' ibyo bibaya, Hahor' umucy' iteka.\nYesu Kristo niw' uzahaber' umucy' ahakur' ijoro."
+			},
+			{
+				"id": 396,
+				"subTitle": "3",
+				"content": "Aho heza nzahagera ryari ngo mpabe mpiriwe?\nNzareba Data mu maso ryari nduhukiy' ibwami bwe?"
+			},
+			{
+				"id": 397,
+				"subTitle": "4",
+				"content": "Mfit' ibyishimo mu mutima, Sinshaka kugum' aha.\nYor' dan' isumira hos' ariko ntinyuka kuyambuka."
+			}
+		]
+	},
+	{
+		"id": 48,
+		"title": "Tuzishim' Imirim' Ishize",
+		"hymnContent": [
+			{
+				"id": 398,
+				"subTitle": "1",
+				"content": "Tuzishim' imirim' ishize, Abasarurir' Imana,\nBashohoj' umusaruro, I Yerusalemu nshya."
+			},
+			{
+				"id": 399,
+				"subTitle": "Gusubiramo",
+				"content": "Ishimwe hazabahw' ishimwe,\nNtabw' ishimwe rizahashira,\nUmunsi w' ishimw' uri hafi,\nDuteranir' iwacu."
+			},
+			{
+				"id": 400,
+				"subTitle": "2",
+				"content": "Tuzishima no kuririmba, Tuzajya dushima Kristo.\nTuzamuhimbariza rwos' i Yerusalemu nshya."
+			},
+			{
+				"id": 401,
+				"subTitle": "3",
+				"content": "Tuzahishimira by' ukuri, Tuzaba mu mazu yera;\nYesu yaduteguriye, I Yerusalemu nshya."
+			}
+		]
+	},
+	{
+		"id": 49,
+		"title": "Ntabwo Ndatekereza",
+		"hymnContent": [
+			{
+				"id": 402,
+				"subTitle": "1",
+				"content": "Ntabwo ndatekereza, Kw' iwac' ari bugufi.\nUko bukeye negereza, Gusohora mw ijuru."
+			},
+			{
+				"id": 403,
+				"subTitle": "Gusubiramo",
+				"content": "Hafi y' iwacu, Hafi yaho;\nUbu ngeze hafi y' iwacu,\nNgiye gusohorayo."
+			},
+			{
+				"id": 404,
+				"subTitle": "2",
+				"content": "Ku rurembo rwa Data, Hariy' amazu menshi;\nYateguriy' abera bose, Ngo babane na Yesu."
+			},
+			{
+				"id": 405,
+				"subTitle": "3",
+				"content": "Ninjya kuger' iwacu, Nzururuts' umutwaro;\nNzoroherwa n' umubabaro, Nambar' ikamba ryiza."
+			},
+			{
+				"id": 406,
+				"subTitle": "4",
+				"content": "Ningera ku nkengero, Nzaba ngeze bugufi;\nNzaba negerey' i muhira, Ngiye kuger' iwacu."
+			}
+		]
+	},
+	{
+		"id": 50,
+		"title": "Har' Igihugu Cyiza Cyane",
+		"hymnContent": [
+			{
+				"id": 407,
+				"subTitle": "1",
+				"content": "Har' igihugu cyiza cyane, Twasezeraniwe n' Imana;\nTugitegereze twizera, Ko Dat' akitubonereza."
+			},
+			{
+				"id": 408,
+				"subTitle": "Gusubiramo",
+				"content": "Aheza (aheza) mw' ijuru (mw' ijuru),\nTuzahurirayo bagenzi.\nAheza (aheza) mw' ijuru (mw' ijuru),\nTuzahurirayo bagenzi."
+			},
+			{
+				"id": 409,
+				"subTitle": "2",
+				"content": "Tuzaririmbira mw' ijuru, Indirimbo z' abanyahirwe.\nNtituzongera kubabara, Tuzaba dushiz' agahinda."
+			},
+			{
+				"id": 410,
+				"subTitle": "3",
+				"content": "Tuzasingiza Data cyane, Ku mbabazi yatugiriye,\nNo ku buntu bw' urukundo rwe, N' umugisha yatwungukiye."
+			}
+		]
+	},
+	{
+		"id": 51,
+		"title": "Tubatirish' Umwuka Wera",
+		"hymnContent": [
+			{
+				"id": 411,
+				"subTitle": "1",
+				"content": "Tubatirishe Umwuka Wera,\nMukiza twegere, duh' urukundo."
+			},
+			{
+				"id": 412,
+				"subTitle": "Gusubiramo 1, 2, 3",
+				"content": "Ubu Mwami Yesu turakwinginga,\nTubatirish' Umwuka, Duh' urukundo."
+			},
+			{
+				"id": 413,
+				"subTitle": "2",
+				"content": "Turatakamba, Twazize byinshi,\nUdukiz' utweze, Twishwe n' ibyaha."
+			},
+			{
+				"id": 414,
+				"subTitle": "3",
+				"content": "Mwuka Wera we, Tumanukire!\nDuhire rwos' ubu, Duh' imbabazi."
+			},
+			{
+				"id": 415,
+				"subTitle": "4",
+				"content": "Ngir' ijwi ryiza, Ryavuze riti:\nUr' Umwana wanjye, ni wowe nkunda."
+			},
+			{
+				"id": 416,
+				"subTitle": "Gusubiramo 4",
+				"content": "Turagusingiza, turakuramya\nTuraguhimbaz' ubu, Mwami Amina."
+			}
+		]
+	},
+	{
+		"id": 52,
+		"title": "Ngwino Soko Y ' Umugisha",
+		"hymnContent": [
+			{
+				"id": 417,
+				"subTitle": "1",
+				"content": "Ngwino soko y' umugisha, Mp' umutim' ugushima.\nMigez' idakama myiza, Tugusingize cyane.\nUnyigishe kukuramy' iteka, Kandi meny' ubwiza bwawe.\nKwiringir' ubwami bwawe, Kunyuzuz' urukundo."
+			},
+			{
+				"id": 418,
+				"subTitle": "2",
+				"content": "Nshyirahw' icyibutso cyanjye, Niho ngeze kubwawe.\nNdizeye yuk' uzanjyana, Nger' iwaw' amahoro.\nYesu yantaruye nazimiye, Nari ndi kure y' Imana;\nAshaka kunkiz' urupfu, Yatanz' ubugingo bwe."
+			},
+			{
+				"id": 419,
+				"subTitle": "3",
+				"content": "Ndimw' ubwishyu bwawe Mwami, Bw' imbabaz' ungiriye.\nNyigiza bugufi bwawe, Meny' urukundo rwawe.\nNgoswe n' ibingerageza byinshi, Ngo ndek' iyo Mana nkunda.\nAkir' umutima wanjye Undinde nkire rwose."
+			}
+		]
+	},
+	{
+		"id": 53,
+		"title": "Mwuka Wera Muyobozi",
+		"hymnContent": [
+			{
+				"id": 420,
+				"subTitle": "1",
+				"content": "Mwuka Wera Muyobozi, Ube hafi y' abakristo!\nMfat' ukuboko nyobora, Nd' umugenzi ku gahinga.\nAbananiwe bishima, Ubwo bumv' ijwi ryiza,\nRibabwira: Bagenzi mwe, Nimuze mbagez' iwanyu!"
+			},
+			{
+				"id": 421,
+				"subTitle": "2",
+				"content": "Ntuduhemukir' iteka, Ntabwo wanga kudufasha.\nDukomeze tukwizere, Dukabakabe hijimye.\nAmakuba n' aboneka, Imitima nikuka,\nIjwi riti: Bagenzi mwe, Nimuze mbagez' iwanyu!"
+			},
+			{
+				"id": 422,
+				"subTitle": "3",
+				"content": "Tumaz' imirimo yacu, Dutegereze gukizwa,\nDusigarany' iby' ijuru, Twibaze ko twanditsweyo.\nTwikingir' ibidutera, No kwiringira Yesu.\nIjwi riti: Bagenzi mwe, Nimuze mbagez' iwanyu!"
+			}
+		]
+	},
+	{
+		"id": 54,
+		"title": "Harihw' Icyo Nkwaka Mwami",
+		"hymnContent": [
+			{
+				"id": 423,
+				"subTitle": "1",
+				"content": "Harihw' icyo nkwaka Mwami,\nNubwo mpora ngucumuraho,\nUnyejeshe, unyejeshe!\nAmazi cyangw' umuriro."
+			},
+			{
+				"id": 424,
+				"subTitle": "Gusubiramo",
+				"content": "Mpanagurwe hose Mwami!\nN' umuriro nib' ushaka.\nNkir' ibyaha, birimburwe.\nNkir' ibyaha, birimburwe."
+			},
+			{
+				"id": 425,
+				"subTitle": "2",
+				"content": "N' untunganiriz' ubwenge,\nNzanezerwa nzagusingiza;\nArik' umutima wera,\nUrutaho, urutaho."
+			},
+			{
+				"id": 426,
+				"subTitle": "3",
+				"content": "Ninezw' umutima wanjye,\nNiho nzunguk' ubwenge bwose,\nMbubwirijwe nawe Mwami,\nBwo mw' ijuru, bwo mw' ijuru."
+			},
+			{
+				"id": 427,
+				"subTitle": "4",
+				"content": "Njya nirind' ibicumuro,\nNkitonder' ibyo ntekereza.\nMwami n' ibyo nkora byose,\nNtabwo nera, Ntabwo nera."
+			}
+		]
+	},
+	{
+		"id": 55,
+		"title": "Har' Ubwo Wasanze Yesu?",
+		"hymnContent": [
+			{
+				"id": 428,
+				"subTitle": "1",
+				"content": "Har' ubwo wasanze Yesu ng' ukire? Se wuhagijw' amaraso ye?\nUbu wizeye rwos' imbabazi ze? Se wuhagijw' amaraso ye?"
+			},
+			{
+				"id": 429,
+				"subTitle": "Gusubiramo",
+				"content": "Wogejwe (wogejwe) na Yesu (na Yesu)?\nWatunganijwe n' amaraso (maraso)?\nHar' ubwo yakwuhagij' amaraso?\nMbes' imyambaro yaw' irera?"
+			},
+			{
+				"id": 430,
+				"subTitle": "2",
+				"content": "Mbes' ugendana na Yesu iteka? Se wuhagijw' amaraso ye?\nMbes' ujy' ubana n' uwari wabambwe? Se wuhagijw' amaraso ye?"
+			},
+			{
+				"id": 431,
+				"subTitle": "3",
+				"content": "Umukwe n' az' uzab' umwiteguye? Se wuhagijw' amaraso ye?\nMbes' uzakundirwa kujya mw' ijuru? No gukizwa n' amaraso ye?"
+			},
+			{
+				"id": 432,
+				"subTitle": "4",
+				"content": "Hung' ibyaha jy‘ ukor' ibitunganye! Wejeshw' amaraso ya Yesu!\nHar' isokw' itemb' ikiz' imitima, Wejeshw' amaraso ya Yesu!"
+			}
+		]
+	},
+	{
+		"id": 56,
+		"title": "Nahabiye Kure Y' Imana",
+		"hymnContent": [
+			{
+				"id": 433,
+				"subTitle": "1",
+				"content": "Nahabiye kure y' Imana, Ndahabuts' ubu.\nNari naratinze mu byaha, Noneho ndaje."
+			},
+			{
+				"id": 434,
+				"subTitle": "Gusubiramo",
+				"content": "Reka nze, reka nze! Ntabwo nzongera.\nNyemerer' umbabarire! Mwami nyakira!"
+			},
+			{
+				"id": 435,
+				"subTitle": "2",
+				"content": "Narapfapfany' imyaka myinshi, Ndahabuts' ubu.\nNdakwitwaraho cyane nkiza, Noneho ndaje."
+			},
+			{
+				"id": 436,
+				"subTitle": "3",
+				"content": "Ndembejwe n' ibyaha no kugwa, Ndahabuts' ubu.\nNiringiy' urukundo rwawe, Noneho ndaje."
+			},
+			{
+				"id": 437,
+				"subTitle": "4",
+				"content": "Yesu yamviriy' amaraso, Ndahabuts' ubu.\nUbwe niwe wankiza gusa, Noneho ndaje."
+			},
+			{
+				"id": 438,
+				"subTitle": "5",
+				"content": "Wumv' amaganya yanjy' unkize, Ndahabuts' ubu.\nNyeza Mwami nse n' urubura, Noneho ndaje."
+			}
+		]
+	},
+	{
+		"id": 57,
+		"title": "Bayoboke Nimurangurure",
+		"hymnContent": [
+			{
+				"id": 439,
+				"subTitle": "1",
+				"content": "Bayoboke nimurangurure, Mwamamaz' ubutumwa mw' isi yose!\nNimukwiz' ayo makuru mu bantu! Abashaka nibaze."
+			},
+			{
+				"id": 440,
+				"subTitle": "Gusubiramo",
+				"content": "Uwemey' aze! Uwemey' aze!\nNimubimenyesh' abatuye hasi!\nUmubyey' aratarur' abana be,\nAbashaka nibaze."
+			},
+			{
+				"id": 441,
+				"subTitle": "2",
+				"content": "Ushaka kuza yitindiganya, Niyinjir' irembo riruguruye.\nUmwami niwe nzira y' ubugingo, Abashaka nibaze."
+			},
+			{
+				"id": 442,
+				"subTitle": "3",
+				"content": "Ushaka wese n' agire bwangu! Kand' agir' ubutwari yihangane.\nUshaka wes' azahabw' ubugingo, Abashaka nibaze."
+			}
+		]
+	},
+	{
+		"id": 58,
+		"title": "Jy' Uganza Mwami W' Iteka",
+		"hymnContent": [
+			{
+				"id": 443,
+				"subTitle": "1",
+				"content": "Jy' uganza Mwami w' iteka, Bose bakuramye!\nNimuzan' ikamba ry' ubwami bwe, Ab' Umwami wa bose!\nNimuzan' ikamba ry' ubwami bwe, Kw' ariwe Mwami wa bose."
+			},
+			{
+				"id": 444,
+				"subTitle": "2",
+				"content": "Batowe mwe b' Israeli, Mwa nkehwe mwe nkeya,\nMuramy' ubakirish' imbabazi, Ab' Umwami wa bose!\nMuramy' ubakirish' imbabazi, Kw' ariwe Mwami wa bose."
+			},
+			{
+				"id": 445,
+				"subTitle": "3",
+				"content": "Amoko yose yo hasi, N' imiryango yose,\nBose bajye bamwubaha cyane! Ab' Umwami wa bose.\nBose bajye bamwubaha cyane! Kw' ariwe Mwami wa bose."
+			},
+			{
+				"id": 446,
+				"subTitle": "4",
+				"content": "Muze tumuririmbire, Tumupfukamire,\nTumusingize no kumushima, Ab' Umwami wa bose.\nTumusingize no kumushima, Kw' ariwe Mwami wa bose."
+			}
+		]
+	},
+	{
+		"id": 59,
+		"title": "Yesu Mukunzi Wanjye",
+		"hymnContent": [
+			{
+				"id": 447,
+				"subTitle": "1",
+				"content": "Yesu mukunzi wanjye, Mpa kuguhungiraho.\nUbw' umurab' usuma, N' umugar' ugwa cyane,\nUmpishe Mukiza we! Kugez' ah' uhitira.\nUnyobor' ahikinze, Nuk' unkiz' unyakire!"
+			},
+			{
+				"id": 448,
+				"subTitle": "2",
+				"content": "Nta bundi buhungiro, Mwam' unyirokorere!\nNtunzibukire rwose, Komez' ujy' undengera!\nNkwizigire wenyine! Ni wow' ump' imbaraga,\nUhashy' abanzi banjye, Simpugane na hato."
+			},
+			{
+				"id": 449,
+				"subTitle": "3",
+				"content": "Ngushime Mwami Yesu, K' utagir' icy' unyima,\nUsindagiz' urushye, N' urway' uramukiza;\nUrera bihebuje, Ntabwo ngutunganiye,\nNdi mubi bikabije, Wow' urakiranutse."
+			},
+			{
+				"id": 450,
+				"subTitle": "4",
+				"content": "Ubabarira cyane, Kand' imbabazi zawe,\nZirut' ibyaha byanjye. Nyeza nkomeze nere,\nWe soko y' ubugingo! Nkundira nkuvomemo!\nUnyuzur' umutima, Nzagere ku bugingo."
+			}
+		]
+	},
+	{
+		"id": 60,
+		"title": "Yesu Utunezeza Twese",
+		"hymnContent": [
+			{
+				"id": 451,
+				"subTitle": "1",
+				"content": "Yes' utunezeza twese,\nSoko y' ubuging' ur' umucyo w' abantu;\nIbyishimo byose byo hasi,\nTubicitseho tugukurikire."
+			},
+			{
+				"id": 452,
+				"subTitle": "2",
+				"content": "Tuvune turakwisunze.\nUkuri kwawe ntikugir' impinduka;\nDutabare turakwizeye,\nTukwiyeguriye tumaramaje."
+			},
+			{
+				"id": 453,
+				"subTitle": "3",
+				"content": "Mutsima w' ubugingo we!\nDushaka guhazwa naw' iteka ryose.\nSoko nziz' idakam' iteka!\nTumar' inyota mu mitima yacu!"
+			},
+			{
+				"id": 454,
+				"subTitle": "4",
+				"content": "Mu midugararo yacu,\nTukwifuz' iteka, Mwami mwiza rwose.\nTunezerwa cyan' umwenyuye;\nN' amahirwe yac' ubwo duhorana."
+			},
+			{
+				"id": 455,
+				"subTitle": "5",
+				"content": "Yesu bana natw' iteka!\nDuh' amahoro twishim' iteka ryose!\nDukiz' ibibi bitugota!\nMurika kw is' umucyo wawe wera!"
+			}
+		]
+	},
+	{
+		"id": 61,
+		"title": "Nkunda Kunguk' Ibya Yesu",
+		"hymnContent": [
+			{
+				"id": 456,
+				"subTitle": "1",
+				"content": "Nkunda kunguk' ibya Yesu, Kwerekan' imbabazi ze;\nKwunguk' ubwenge bw' ukuri, N' urukundo rw' Umukiza."
+			},
+			{
+				"id": 457,
+				"subTitle": "Gusubiramo",
+				"content": "Nunguk' ibya Yesu, Nunguk' ibya Yesu.\nKwunguk' ubwenge bw' ukuri,\nN' urukundo rw' Umukiza."
+			},
+			{
+				"id": 458,
+				"subTitle": "2",
+				"content": "Nshishikarir' ibya Yesu, Mmeny' iby' ashaka binkwiye,\nMwuka Wera mfuturira! Mbwir' uko Yesu yankunze!"
+			},
+			{
+				"id": 459,
+				"subTitle": "3",
+				"content": "Nunguk' ijambo rya Yesu, Mbane n' Umwam' antoneshe;\nNumvir' iby' ambwira byose, Mpuze nawe muyoboke."
+			},
+			{
+				"id": 460,
+				"subTitle": "4",
+				"content": "Meny' iby' ingoma ya Yesu, Menye n' ubwiza bwe bwose,\nMenye n' ukw' agiye kwima, Niwe Mwami w' amahoro."
+			}
+		]
+	},
+	{
+		"id": 62,
+		"title": "Yesu Ndagukunze Rwose",
+		"hymnContent": [
+			{
+				"id": 461,
+				"subTitle": "1",
+				"content": "Yesu ndagukunze rwose, Ndakwihaye.\nIngeso mbi zose, Nzanz' uko zingana.\nNi wowe Mukiza wanjye mwiza, Nkuyoboke.\nNtabwo nigeze kugukunda, Nk' ubu ngubu."
+			},
+			{
+				"id": 462,
+				"subTitle": "2",
+				"content": "Ndagukunze kuko wabanje, Kunkunda,\nWaranyiguriy' unkiriz' i Kalwari.\nNgukundiy' ikamba ry' amahwa, Wahambikiwe,\nNtabwo nigeze kugukunda, Nk' ubu ngubu."
+			},
+			{
+				"id": 463,
+				"subTitle": "3",
+				"content": "Mperey' ubu ngukunda, Nzageza gupfa.\nNzajya ngusingiz' iteka Ngihumeka;\nNah' urupfu ruzanyegurira, Nzavuga nti:\nNtabwo nigeze kugukunda, Nk' ubu ngubu."
+			},
+			{
+				"id": 464,
+				"subTitle": "4",
+				"content": "Ubwo nzager' aho, Waduteguriye,\nNzajya mpaguhamiriz' itek' iteka.\nNzaguhimbaza nambay' ikamba, Ritunganye;\nNtabwo nigeze kugukunda, Nk' ubu ngubu."
+			}
+		]
+	},
+	{
+		"id": 63,
+		"title": "N' Iki Cyankiz' Ibyaha?",
+		"hymnContent": [
+			{
+				"id": 465,
+				"subTitle": "1",
+				"content": "N' iki cyankiz' ibyaha? N' amaraso yawe Yesu.\nN' iki cyanyeza rwose? N' amaraso yawe Yesu."
+			},
+			{
+				"id": 466,
+				"subTitle": "Gusubiramo",
+				"content": "Maras' atunganye, Niy' amboneza rwose.\nNta cyampa gukira, Nk' amaraso y' Umukiza."
+			},
+			{
+				"id": 467,
+				"subTitle": "2",
+				"content": "Nta kindi cyantunganya, N' amaraso yawe Yesu.\nNta kindi cyiru mfite, N' amaraso yawe Yesu."
+			},
+			{
+				"id": 468,
+				"subTitle": "3",
+				"content": "Nta cyantsembahw ibyaha, N' amaraso yawe Yesu.\nNta byanjye byamboneza, N' amaraso yawe Yesu."
+			},
+			{
+				"id": 469,
+				"subTitle": "4",
+				"content": "Ni wowe niringira, N' amaraso yawe Yesu.\nNi wow' ump' amahoro, N' amaraso yawe Yesu."
+			},
+			{
+				"id": 470,
+				"subTitle": "5",
+				"content": "Njye ngusingiza cyane, Ku maraso yawe Yesu.\nMukiz' urakarama, Ku maraso wamviriye."
+			}
+		]
+	},
+	{
+		"id": 64,
+		"title": "S' Uhagarik' Ik' Umutima?",
+		"hymnContent": [
+			{
+				"id": 471,
+				"subTitle": "1",
+				"content": "S' uhagarikiy' ik' umutima? Bibwire Yesu! Bibwire Yesu!\nUbabajwe no kubur' ituza? Ihererane Yesu!"
+			},
+			{
+				"id": 472,
+				"subTitle": "Gusubiramo",
+				"content": "Bibwire Yesu! Bibwire Yesu!\nNiwe nshuti y' ukuri;\nNtugir' indi nshut' ihwanye nawe,\nJy' ubana nawe cyane."
+			},
+			{
+				"id": 473,
+				"subTitle": "2",
+				"content": "Mbes' ub' urabogoz' amarira? Bibwire Yesu! Bibwire Yesu!\nUtotezwa n' ibyaha wahishe? Ihererane Yesu!"
+			},
+			{
+				"id": 474,
+				"subTitle": "3",
+				"content": "Ujy' utinya guterwa n' ibyago? Bibwire Yesu! Bibwire Yesu!\nMbes' ub' uraganyishwa n' iby' ejo? Ihererane Yesu!"
+			},
+			{
+				"id": 475,
+				"subTitle": "4",
+				"content": "Mbes' ujy' ugir' ubwoba bwo gupfa? Bibwire Yesu! Bibwire Yesu!\nMbes' urashak' ingoma ya Kristo? Ihererane Yesu!"
+			}
+		]
+	},
+	{
+		"id": 65,
+		"title": "Nkunda Kwiringira Yesu",
+		"hymnContent": [
+			{
+				"id": 476,
+				"subTitle": "1",
+				"content": "Nkunda kwiringira Yesu, Nkajya mwumvira rwose,\nNo kwizer' umurage we, N' amateka y' Imana."
+			},
+			{
+				"id": 477,
+				"subTitle": "Gusubiramo",
+				"content": "Nkoyoboke Mwami rwose;\nNajyaga nshidikanya,\nYesu Yesu mwiza nkunda,\nMfasha nkwumvire rwose!"
+			},
+			{
+				"id": 478,
+				"subTitle": "2",
+				"content": "Nkunda kwiringira Yesu; Nkizwa n' amaraso ye.\nAnsendahw ibicumuro, Niy' antunganya rwose."
+			},
+			{
+				"id": 479,
+				"subTitle": "3",
+				"content": "Nimenya kumwiringira, Sinzaba ngicumura.\nNiho nzagir' ubuhoro, N' ubugingo bw' iteka."
+			},
+			{
+				"id": 480,
+				"subTitle": "4",
+				"content": "Mpimbawe no kukumenya, Yesu Mukiza nkunda.\nNizeye k' umpora hafi, Nuko nguman' iteka."
+			}
+		]
+	},
+	{
+		"id": 66,
+		"title": "Nshim' Umunsi Nakwemeye",
+		"hymnContent": [
+			{
+				"id": 481,
+				"subTitle": "1",
+				"content": "Nshim' umunsi nakwemeye, Mwami Yesu Mukiza we!\nNshima cyane n' umutima, Ndabwiriz' ibinezeza."
+			},
+			{
+				"id": 482,
+				"subTitle": "Gusubiramo",
+				"content": "Mpimbaze, mpimbaze; Yesu wankijij' ibyaha.\nAnyigisha kumuramya, Ngo nezerw' iminsi yose;\nMpimbaze, mpimbaze Yesu wankijij' ibyaha."
+			},
+			{
+				"id": 483,
+				"subTitle": "2",
+				"content": "Biramaze, napfiriwe, Nd' uwa Yesu wandokoye;\nYangiz' uwe, Nkurikire, Nshima yuko ntowe nawe."
+			},
+			{
+				"id": 484,
+				"subTitle": "3",
+				"content": "Mutima wanjye ruhuka; Reba mw ijur' ahejejwe,\nNtugasig' Umwami wawe, Bana nawe mwumvikane."
+			},
+			{
+				"id": 485,
+				"subTitle": "4",
+				"content": "Iteka nzagukorera, Iby' isi ndabizinutswe.\nNkugarutseho noneho, Sinzarorera kwishima."
+			},
+			{
+				"id": 486,
+				"subTitle": "5",
+				"content": "Ubw' umucyo wo mw' ijuru uzamurikir' iyi si.\nNsanganir' Umwami wanjye, Tuzibanire mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 67,
+		"title": "Abatoni B' Umwami",
+		"hymnContent": [
+			{
+				"id": 487,
+				"subTitle": "1",
+				"content": "Abatoni b' Umwami! Nimuze dusakaze hos' umunezero wacu,\nTurangururire rimwe, Dukikij' intebe, Dukikij' intebe."
+			},
+			{
+				"id": 488,
+				"subTitle": "Gusubiramo",
+				"content": "Turajy' i Siyoni, Ku murwa mwiz' utunganye.\nTurajy' i Siyoni, Ku murwa mwiz' utunganye w' Imana."
+			},
+			{
+				"id": 489,
+				"subTitle": "2",
+				"content": "Murek' ibyigomeke, Byanga gushim' Umwami. Arikw' abana b' Imana,\nArikw' abana b' Imana, Muhore mwishima, Muhore mwishima."
+			},
+			{
+				"id": 490,
+				"subTitle": "3",
+				"content": "Twishimir' i Siyoni, N' umudugudu wera; Tuzahahurira twese,\nTuzahahurira twese. Hazahor' ituza, Hazahor' ituza."
+			},
+			{
+				"id": 491,
+				"subTitle": "4",
+				"content": "Turirimbe cyan' ubu, Hataba n' umw' urira. Tugiye kuger' iwacu,\nTugiye kuger' iwacu, Mu gihugu cyiza, Mu gihugu cyiza."
+			}
+		]
+	},
+	{
+		"id": 68,
+		"title": "Naguzw' Amaraso Y ' Intama",
+		"hymnContent": [
+			{
+				"id": 492,
+				"subTitle": "1",
+				"content": "Naguzw' amaraso y' Intama, Ncunguzw' imbabazi zayo.\nUbu nd' umwana wayo rwose, Ntaho ntazabyamamaza."
+			},
+			{
+				"id": 493,
+				"subTitle": "Gusubiramo",
+				"content": "Nkiza (nkiza), nkiza (nkiza),\nN' amaraso yawe Yesu.\nMboneza, mboneza!\nNd' umwana wawe rwos' ubu."
+			},
+			{
+				"id": 494,
+				"subTitle": "2",
+				"content": "Mpimbaze Yesu wankijije, Nta wuz' uko nezerewe.\nNiwe mucyo mwiz' unyobora, Ahorana nanjy' iteka."
+			},
+			{
+				"id": 495,
+				"subTitle": "3",
+				"content": "Ntabwo mpung' Umukiza wanjye, Njya mutekerez' iteka.\nNtabwo ndambirwa kumurata, Njya nsingiz' urukundo rwe."
+			},
+			{
+				"id": 496,
+				"subTitle": "4",
+				"content": "Nzi ko nzamubonan' ubwiza, Nezerwa n' amateka ye.\nAndinda nez' aho njya hose, Mmutaramira ndirimba."
+			},
+			{
+				"id": 497,
+				"subTitle": "5",
+				"content": "Nizeye kw' ambikiy' ikamba, Mu rugo rwe rwo mw' ijuru.\nMaze tuzahoran' iteka, N' abamuyobotse bose."
+			}
+		]
+	},
+	{
+		"id": 69,
+		"title": "Tuzaramban' Amazi Yera",
+		"hymnContent": [
+			{
+				"id": 498,
+				"subTitle": "1",
+				"content": "Tuzaramban' amazi yera, Y' isokw' ibeshaho.\nNiho Yes' azadutegera, N' ihuriro ryiza."
+			},
+			{
+				"id": 499,
+				"subTitle": "Gusubiramo",
+				"content": "Tuzaramban' amazi yera,\nKuramban' amazi yera,\nKuramban' amazi yera,\nTuzatinda kw isoko."
+			},
+			{
+				"id": 500,
+				"subTitle": "2",
+				"content": "Imirimo n' iducogoza, Turuhuke hato!\nKu mazi y' urubogobogo, Ku masoko meza."
+			},
+			{
+				"id": 501,
+				"subTitle": "3",
+				"content": "Tyo nimuze mwisunge Kristo! Abah' imbaraga,\nKandi mumeny' ubury' akiza! Munywe mwic' inyota!"
+			}
+		]
+	},
+	{
+		"id": 70,
+		"title": "Igihe Yes' Azakorany' Amoko",
+		"hymnContent": [
+			{
+				"id": 502,
+				"subTitle": "1",
+				"content": "Igihe Yes' azakorany' amoko, Ngw' ahagarar' imbere Ye,\nTwese tuzagenzwa dute mu manza, Dutumiwe gutegekwa?"
+			},
+			{
+				"id": 503,
+				"subTitle": "Gusubiramo",
+				"content": "Azahunik' ingano mu bigega,\nArik' umuram' azawusesa.\nTwese tuzagenzwa dute mu manza,\nZ' uwo munsi wo kuzurwa?"
+			},
+			{
+				"id": 504,
+				"subTitle": "2",
+				"content": "Nind' uzumv' Umukiz' amubwir' ati: Ur' umugaragu mwiza?\nCyangw' uzamarwa n' ubwob' ubwiwe ngo: Hoshi genda ndaguciye?"
+			},
+			{
+				"id": 505,
+				"subTitle": "3",
+				"content": "Azamwenyur' abonany' abana be, Icyitegererezo Cye,\nAzabambik' ibyiza byo mw' ijuru, Ubwo bamupfukamire."
+			},
+			{
+				"id": 506,
+				"subTitle": "4",
+				"content": "Tube maso dutegerez' Umwami, N' imuri zigumye zake!\nKugira ng' Umukwe n' az' azasange, Tumaze kumwitegura."
+			},
+			{
+				"id": 507,
+				"subTitle": "5",
+				"content": "Tujye dutekerez' ibyo mw' ijuru, Urugendo nirushira,\nTuzahagarar' imbere y' Imana, Niba tutagamburura."
+			}
+		]
+	},
+	{
+		"id": 71,
+		"title": "Sinita Ku Butunzi",
+		"hymnContent": [
+			{
+				"id": 552,
+				"subTitle": "1",
+				"content": "Sinita ku butunzi, Feza na zahabu. Ndashak' ibyo mw' ijuru; Nzajyane n' abera.\nYesu Mukiza mbwira: Igitabo cyawe, Cyera cy' ubwami bwawe, Mbese nanditswemo?"
+			},
+			{
+				"id": 553,
+				"subTitle": "Gusubiramo",
+				"content": "Mbese nanditswemo, Ku mpapuro zera?\nMu gitabo cy' ubwami, Mbese nanditswemo?"
+			},
+			{
+				"id": 554,
+				"subTitle": "2",
+				"content": "Ibyaha byanjye Mwami, Birut' umusenyi. Ngwino Mwam' ubinkirish' amaraso yawe!\nWadusezeraniye, Yukw ibyaha byacu, Nibisa n' umuhemba, Ng' uzabyeza rwose."
+			},
+			{
+				"id": 555,
+				"subTitle": "3",
+				"content": "Mu mudugudu mwiza, N' amazu yera de, N' abera bawurimo, Barimban' ibyera,\nNta bibi biwegera, Byakwanduz' ibyiza, Niho hab' amahoro, Mbese nanditswemo?"
+			}
+		]
+	},
+	{
+		"id": 72,
+		"title": "Har' Imanz' ubu",
+		"hymnContent": [
+			{
+				"id": 556,
+				"subTitle": "1",
+				"content": "Har' imanz' ubu; Nta kitarondorwa, Mbese tuzamera dute?\nTugez' imbere y' umucamanza, Abony' ibyo twakoze byose?"
+			},
+			{
+				"id": 557,
+				"subTitle": "Gusubiramo",
+				"content": "Tuzakizwa n' ik' uwo munsi?\nTuzakizwa n' ik' uwo munsi?\nMbese tuzaba twiringanije?\nCyangwa tuzatsindwa n' ibyaha?"
+			},
+			{
+				"id": 558,
+				"subTitle": "2",
+				"content": "Zatangiriye mu basinziriye, Zizaza no mu bariho.\nTuzasuzumirwa mu byanditswe, Nibyo bizaduhamya rwose."
+			},
+			{
+				"id": 559,
+				"subTitle": "3",
+				"content": "Tuzavug' iki tugeze mu manza, Ibitabo bibumbuwe,\nUmuntu wes' abwirw' imanza ze, Atakibon' umurokora?"
+			}
+		]
+	},
+	{
+		"id": 73,
+		"title": "Umwami Yaradutumiye",
+		"hymnContent": [
+			{
+				"id": 560,
+				"subTitle": "1",
+				"content": "Umwami niw' udutumira, Ngw' aduteranye n' ubwoko bwe.\nAzasanga tumeze dute, Ahw' azazira?"
+			},
+			{
+				"id": 561,
+				"subTitle": "Gusubiramo",
+				"content": "Mwana wa Data we tyo se :\nUbw' Umwam' azaza,\nTwebwe tuzamera dute? Umwami n' aza?"
+			},
+			{
+				"id": 562,
+				"subTitle": "2",
+				"content": "Tuzatamirizw' amakamba, Uwaducunguye yimitswe,\nTuzahorana naw' iteka, Ahw' azazira."
+			},
+			{
+				"id": 563,
+				"subTitle": "3",
+				"content": "Nkuk' umuraby' ugaragara, Nikw' azagaragaza byose;\nAzerekan' ibyo twakoze, Ahw azazira."
+			},
+			{
+				"id": 564,
+				"subTitle": "4",
+				"content": "Azishim' ubw' azabon' abe, Bambay' imyambaro yera de.\nNituganza tuzanezerwa, Ahw' azazira."
+			},
+			{
+				"id": 565,
+				"subTitle": "5",
+				"content": "Ntabwo tuzongera gutana, Abanga kumwumvira bose,\nBazataka no kuboroga, Yes' agarutse."
+			},
+			{
+				"id": 566,
+				"subTitle": "6",
+				"content": "Mwami ni wowe twiringiye; Twigishe kugutegereza,\nTutazatinya kukubona, Ah' uzazira."
+			}
+		]
+	},
+	{
+		"id": 74,
+		"title": "Biba Mu Gitondo",
+		"hymnContent": [
+			{
+				"id": 567,
+				"subTitle": "1",
+				"content": "Biba mu gitondo, Imbuto z' ineza!\nJy' ubiba ku manywa n' ikigoroba!\nRindira ko zera! Hazaz' usarura,\nTuzishima cyane, Dutund' imiba."
+			},
+			{
+				"id": 568,
+				"subTitle": "Gusubiramo",
+				"content": "Dutund' imiba, Dutund' imiba.\nTuzishima cyane, Dutund' imiba."
+			},
+			{
+				"id": 569,
+				"subTitle": "2",
+				"content": "Bib' izuba riva! Biba mu gitundwe!\nNtugatiny' ibihu, N' imbeho nyinshi!\nMaz' umusaruro, N' imirim' ishize,\nTuzishima cyane, Dutund' imiba."
+			},
+			{
+				"id": 570,
+				"subTitle": "3",
+				"content": "Tugende turira, Tubibir' Umwami,\nNiba tubabazwa N' abazimira,\nUbwo tuzahozwa, Tuzakizwa nawe.\nTuzishima cyane, Dutund' imiba."
+			}
+		]
+	},
+	{
+		"id": 75,
+		"title": "Ni Ijwi Ry' Umwungeri Numva",
+		"hymnContent": [
+			{
+				"id": 571,
+				"subTitle": "1",
+				"content": "N' ijwi ry' Umwungeri numva, Ritabariza mw ishyamba;\nKw intama ze zazimiye; Mu bushyo niho zavuye."
+			},
+			{
+				"id": 572,
+				"subTitle": "Gusubiramo",
+				"content": "Nimuze, nimuze, Tuzikurikire mw ishyamba!\nNimuze, nimuze, Tuzigarurire Yesu!"
+			},
+			{
+				"id": 573,
+				"subTitle": "2",
+				"content": "Dutabar' uwo Mwungeri, Dushakan' izo nzimizi!\nTuzigarure mu bushyo, Niho zikirir' imbeho!"
+			},
+			{
+				"id": 574,
+				"subTitle": "3",
+				"content": "Ziratakira mw' ishyamba, Zigeze habi mu manga.\nUmwam' arababwir' ati: Munshakir' intama zanjye!"
+			}
+		]
+	},
+	{
+		"id": 76,
+		"title": "Kiz' Abanyabyaha",
+		"hymnContent": [
+			{
+				"id": 575,
+				"subTitle": "1",
+				"content": "Kiz' abanyabyaha, Rwaz' abarwayi!\nUbarokor' ibyago n' urupfu!\nHabur' abahabye! Byuts' abaguye!\nBabwire ko Yes' azi gukiza!"
+			},
+			{
+				"id": 576,
+				"subTitle": "Gusubiramo",
+				"content": "Kiz' abanyabyaha, Rwaz' abarwayi!\nYes' umunyambabaz' arakiza."
+			},
+			{
+				"id": 577,
+				"subTitle": "2",
+				"content": "Abamushungera, Nabo ntabanga.\nAtegerez' abicuza rwose,\nBahate bihane, Jy' ubasabira!\nNibizer' azabababarira."
+			},
+			{
+				"id": 578,
+				"subTitle": "3",
+				"content": "Toz' abazimiye! Be kuzuyaza.\nBarek' irari ry' ibidakwiye!\nBuzur' urukundo, Bagire neza.\nBagarukir' uwabacunguye!"
+			},
+			{
+				"id": 579,
+				"subTitle": "4",
+				"content": "Kiz' abanyabyaha! Biragukwiye.\nUmwam' azaguhet' imbaraga,\nBos' ubayobore mu nzira ntoya!\nMenyesh' indushyi ko zarokowe!"
+			}
+		]
+	},
+	{
+		"id": 77,
+		"title": "Nkunda Kwogez' Amagambo",
+		"hymnContent": [
+			{
+				"id": 580,
+				"subTitle": "1",
+				"content": "Nkunda kwogez' amagambo, Y' ubwami bwo mw' ijuru;\nYa Yesu n' ishimwe rye, Ya Yesu n' urukundo rwe.\nNiyo nkunda kwogeza, Kuko nzi kw' ar' ukuri;\nNiy' amp' ibyo nifuza, Nta handi mbibona."
+			},
+			{
+				"id": 581,
+				"subTitle": "Gusubiramo",
+				"content": "Niyo nkunda kwogeza;\nNkize nzaba nkivuga,\nUkw' ab' isi bahoranye,\nImpuhwe za Yesu."
+			},
+			{
+				"id": 582,
+				"subTitle": "2",
+				"content": "Nkunda kwogez' amagambo, Arut' ibintu byose;\nAhebuz' umurimbo; N' ibyo turigira byose,\nNiyo nkunda kwogeza. Yangiriy' umumaro;\nSimpwema kuyarata, Ngw abakize namwe."
+			},
+			{
+				"id": 583,
+				"subTitle": "3",
+				"content": "Nkunda kwogez' amagambo, Nkomeze njye nyavuga;\nAranogera cyane, Kukw' ambwiriz' iby' ijuru;\nNiyo nkunda kwogeza, Nyabwir' abatayazi,\nBameny' ako gakiza, Kava mu nzandiko."
+			},
+			{
+				"id": 584,
+				"subTitle": "4",
+				"content": "Nkunda kwogez' amagambo, Nyabwira n' abayazi,\nN' abayakennye nabo, Bose bashaka kuyumva.\nUbwo nzaba mw' ijuru, Ndirimb' indirimbo nshya,\nNay' izab' impimbaye, Nk' amagambo nkunda."
+			}
+		]
+	},
+	{
+		"id": 78,
+		"title": "Tujye Dusabir' Abazimiye",
+		"hymnContent": [
+			{
+				"id": 585,
+				"subTitle": "1",
+				"content": "Tujye dusabir' abazimiye, Bahabiye kure y' Imana!\nTubahinduz' ubutumwa bwiza, Bamenye k' Umwam' abakunda!"
+			},
+			{
+				"id": 586,
+				"subTitle": "Gusubiramo",
+				"content": "S.,A. na T.:\n\nTujye hose dusang' abantu bose!\nTugarurir' Iman' abazimiye!\nTubane mu bushyo bw' Umucunguzi,\nYesu watambiy' abanyabyaha.\n\nB.:\n\nTujye hose ...sang' abantu bose!\nTugarurir' ...man' abazimiye!\nTubane mu ...shyo bw' Umucunguzi,\nYesu watambiy' abanyabyaha."
+			},
+			{
+				"id": 587,
+				"subTitle": "2",
+				"content": "Tugarurire Yes' abahabye, Intebyi zidafit' intege!\nTuzerek' aho zizakirira, Zimeny' inzira y' ubugingo!"
+			},
+			{
+				"id": 588,
+				"subTitle": "3",
+				"content": "Tugend' uko Yesu yadutoye, Tujye tumuyobok' iteka!\nRwaz' abarwayi byuts' abaguye! Yobor' abahabye kwa Yesu."
+			}
+		]
+	},
+	{
+		"id": 79,
+		"title": "Imirim' Irez' Ahantu Hose",
+		"hymnContent": [
+			{
+				"id": 589,
+				"subTitle": "1",
+				"content": "Imirim' irez' ahantu hose; N' igihe cyo gusarura.\nUbu n' igihe cyo gusarura, Mu bibaya n' imusozi."
+			},
+			{
+				"id": 590,
+				"subTitle": "Gusubiramo",
+				"content": "Mwam' oherez' abasaruzi!\nTuvune turagutabaza!\nBohereze baterany' imiba!\nIgihe kiracyariho."
+			},
+			{
+				"id": 591,
+				"subTitle": "2",
+				"content": "Bohereze mu gitondo kare! Ubohereze ku manywa!\nN' igih' izuba ryenda kurenga, Bategeke basarure!"
+			},
+			{
+				"id": 592,
+				"subTitle": "3",
+				"content": "Tyo ntumwa y' Umwami gir' umwete! Uterany' ibisarurwa!\nMaz' ah' uzarangiriza rwose, Uzishimira mw ijuru!"
+			}
+		]
+	},
+	{
+		"id": 80,
+		"title": "Dukoran' Umwete",
+		"hymnContent": [
+			{
+				"id": 593,
+				"subTitle": "1",
+				"content": "Dukoran' umwete, dukorer' Imana! Twihute dukurikiz' Umwami wacu!\nIjambo rye niryo riduh' imbaraga; Tugir' umwete mwinshi tumuyoboke!"
+			},
+			{
+				"id": 594,
+				"subTitle": "Gusubiramo",
+				"content": "Dukore (dukore), dukore (dukore), dukore (dukore),\nDukore (dukore). Twizere (twizere), twitonde (twitonde),\nDuhore twitez' Umwami!"
+			},
+			{
+				"id": 595,
+				"subTitle": "2",
+				"content": "Dukoran' umwete! duhaz' abashonje! Tuyobor' abaremby' aho bakirira.\nNiko kwamamaz' inkuru y' Umukiza, Dukomeze twiratan' umusaraba."
+			},
+			{
+				"id": 596,
+				"subTitle": "3",
+				"content": "Dukoran' umwete, dutarure bose! Kukw' ingoma zo hasi zizahanguka.\nKand' Uwitek' azasingizwa na bose, Abera bazaririmba ko bakize."
+			},
+			{
+				"id": 597,
+				"subTitle": "4",
+				"content": "Dukoran' umwete, Dutebuts' Umwami! Kukw' igihe cy' isarura kiri hafi.\nTujye gutur' iwabo w' abacunguwe, Tuzahora turirimb' uko twakize."
+			}
+		]
+	},
+	{
+		"id": 81,
+		"title": "Kor' Ugifit' Uburyo",
+		"hymnContent": [
+			{
+				"id": 598,
+				"subTitle": "1",
+				"content": "Kor' ugifit' uburyo, Kora hakibona!\nJy' ukora no mu kime, Jy' ushir' ubute!\nKora no ku manyw' akaze! Ntucogore rwose!\nKora bugiye kwira, Mar' imirimo!"
+			},
+			{
+				"id": 599,
+				"subTitle": "2",
+				"content": "Kora bugiye kwira! Kor' amanywa yose!\nKomez' ukor' iteka, Ntukaruhuke!\nMu bihe byos' ukiriho, Ntugahweme rwose!\nKomeza butarira, Mar' imirimo!"
+			},
+			{
+				"id": 600,
+				"subTitle": "3",
+				"content": "Kora bugiye kwira! Ubu harabona.\nBugiye kugoroba, Gira n' ingoga!\nUgeze ko bwira rwose, Izuba rirenze,\nNtugatuze gukora, Mar' imirimo!"
+			}
+		]
+	},
+	{
+		"id": 82,
+		"title": "Mu Gitondo Njya Ndirimba",
+		"hymnContent": [
+			{
+				"id": 601,
+				"subTitle": "1",
+				"content": "Mu gitondo njya ndirimba,\nNguhimbaza Mwami,\nNguh' amasengesho,\nKuko nkwiringiye."
+			},
+			{
+				"id": 602,
+				"subTitle": "2",
+				"content": "Ku misozi niho Yesu,\nYajyag' asabira;\nNo gutakambira Data,\nNgw adukiz' ibyago."
+			},
+			{
+				"id": 603,
+				"subTitle": "3",
+				"content": "Mwam' unyoboresh' Umwuka.\nMu nzir' itunganye.\nUntunganiriz' ubwenge,\nMeny' ibikwiriye."
+			},
+			{
+				"id": 604,
+				"subTitle": "4",
+				"content": "Abubah' izina ryawe,\nUrajy' ubumvira.\nUbakingir' imbabazi.\nBakir'amakuba."
+			}
+		]
+	},
+	{
+		"id": 83,
+		"title": "Mwese Musingiz' Umwami",
+		"hymnContent": [
+			{
+				"id": 605,
+				"subTitle": "1",
+				"content": "Mwese musingiz' Umwami muti: Izina ryawe ryubahwe.\nMwami niw' ugir' ishimwe ryose, Izina ryawe ryubahwe."
+			},
+			{
+				"id": 606,
+				"subTitle": "Gusubiramo",
+				"content": "Mwubah' izina, Mwubah' izina!\nMwubah' izina ry' Umwami!\nMwubah' izina, Mwubah' izina!\nMwubah' izina ry' Umwami!"
+			},
+			{
+				"id": 607,
+				"subTitle": "2",
+				"content": "Yesu zina ritumar' ubwoba, Mwubah' izina ry' Umwami!\nNi nk' inanga ku bafit' ibyaha, Mwubah' izina ry' Umwami!"
+			},
+			{
+				"id": 608,
+				"subTitle": "3",
+				"content": "Adukiz' imbaraga y' ibyaha, Mwubah' izina ry' Umwami!\nAmaraso y' adukiza rwose. Mwubah' izina ry' Umwami!"
+			}
+		]
+	},
+	{
+		"id": 84,
+		"title": "Dushime Nyir' Umugisha",
+		"hymnContent": [
+			{
+				"id": 609,
+				"subTitle": "1",
+				"content": "Dushime Nyir' Umugisha,\nTumushime hasi twese;\nN' abo mw' ijuru dushime,\nDat' Umwan' Umwuka Wera."
+			}
+		]
+	},
+	{
+		"id": 85,
+		"title": "Nsingiz' Imana Rurema",
+		"hymnContent": [
+			{
+				"id": 610,
+				"subTitle": "1",
+				"content": "Nsingiz' Imana Rurema, Yaremy' imisozi;\nYadendej' inyanja zose, Yahanits' ijuru;\nNsingiz' iyahay' izuba, Kumurika mu munsi.\nIh' ukwezi kubonesha, N' inyenyer' umucyo."
+			},
+			{
+				"id": 611,
+				"subTitle": "2",
+				"content": "Nsingiz' ibambe ry' Umwami, Wujuj' is' imyaka;\nYaremeshej' ijambo rye, Ibizima byose.\nMwami mbon' ibitangaza, Byaw' aho ndeba hose,\nHano hasi no hejuru, Ntabwo bihinyuka."
+			},
+			{
+				"id": 612,
+				"subTitle": "3",
+				"content": "Nta kiriho na gitoya, Kitakwerekana.\nImvura n' izuba biba, Kw' itegeko ryawe.\nUh' ibizima kubaho, Kand' ubitunga byose.\nNtaho twahungir' Imana, Kuko ntahw' itaba."
+			}
+		]
+	},
+	{
+		"id": 86,
+		"title": "Muramy' Umwami",
+		"hymnContent": [
+			{
+				"id": 613,
+				"subTitle": "1",
+				"content": "Muramy' Umwami waremye byose,\nNimuhimbaze mwes' urukundo rwe,\nN' umuvunyi wacu niw' uhoraho,\nAgoswe n' ibyiza birabagirana."
+			},
+			{
+				"id": 614,
+				"subTitle": "2",
+				"content": "Mumwamamaze! Nyir' imbabazi!\nYihunz' umucyo, Akwiriye hose,\nIbicu bikoranywa, N' icyusa cye,\nAcyahish' abant' urusaku rw' inkuba."
+			},
+			{
+				"id": 615,
+				"subTitle": "3",
+				"content": "Agir' ubuntu bukwira hose,\nBwuj' ikirere, Buba no mu mucyo,\nButemba mu misozi n' ibisiza,\nNibw' ikime n' imvura biturukamo."
+			},
+			{
+				"id": 616,
+				"subTitle": "4",
+				"content": "Tur' igitaka, Tworoshye twese.\nTurakwizera kuk' udahemuka;\nImbabazi zawe n' akamenyero.\nMubyey' ugir' ibambe, Mukiza mwiza."
+			}
+		]
+	},
+	{
+		"id": 87,
+		"title": "Data Tuj' Ah' Uri",
+		"hymnContent": [
+			{
+				"id": 617,
+				"subTitle": "1",
+				"content": "Data tuj' ah' uri, Ko tudafit' undi, Ni wow' udukiza, Niko kuza.\nNiba tutabana, Is' irimw' ishavu. Uduhumurize, Data mwiza."
+			},
+			{
+				"id": 618,
+				"subTitle": "Gusubiramo",
+				"content": "Data tuj' ah' uri, Ntutubuze.\nNiw' uzi gukiza, Twumvir' ubu."
+			},
+			{
+				"id": 619,
+				"subTitle": "2",
+				"content": "Dukiz' ababisha, Dukize n' ibyago, Dutuz' imitima, Mu makuba.\nNtitugir' intege, Twuzuz' imbaraga, Dutiz' amaboko, Ngo tuneshe."
+			},
+			{
+				"id": 620,
+				"subTitle": "3",
+				"content": "Twuzuz' imbabazi, Tur' abawe rwose, Tuyobor' iteka, Twang' ibyaha.\nTugumane Mwami, Kand' ubwo tuzapfa, Ntuzatwibagirwe, Tuzabane."
+			}
+		]
+	},
+	{
+		"id": 88,
+		"title": "Ntumpiteho Mukiza We",
+		"hymnContent": [
+			{
+				"id": 621,
+				"subTitle": "1",
+				"content": "Ntumpiteho Mukiza we! Wumv' uko nganya.\nUbw' ugenderer' abandi, Nanjye ntunsige."
+			},
+			{
+				"id": 622,
+				"subTitle": "Gusubiramo",
+				"content": "Yewe Mukiza! Umv' uko nganya.\nUbw' ugenderer' abandi, Nanjye ntunsige."
+			},
+			{
+				"id": 623,
+				"subTitle": "2",
+				"content": "Njye neger' intebe yawe, Mpabw' imbabazi.\nNgupfukamire, mbabaye, Mpa kukwizera."
+			},
+			{
+				"id": 624,
+				"subTitle": "3",
+				"content": "Ntaw' undi nakwiringira, Ni wowe nshaka.\nMvur' ibikomere byanjye, Umbabarire."
+			},
+			{
+				"id": 625,
+				"subTitle": "4",
+				"content": "Ur' isoko y' amahoro, Nyir' ubugingo.\nSingir' undi niyambaza, Keretse wowe."
+			}
+		]
+	},
+	{
+		"id": 89,
+		"title": "Gihe Cyiza Cyo Gusenga",
+		"hymnContent": [
+			{
+				"id": 626,
+				"subTitle": "1",
+				"content": "Gihe cyiza cyo gusenga, Kintarura mu mpagarara;\nNgo nigir' aho Dat' ari, Muganyir' ibyo nkennye byose.\nMu bihe by' umubabaro, Nabony' ibimpumuriza.\nNtsind' ubukana bw' Umwanzi , Mu bihe byiza byo gusenga."
+			},
+			{
+				"id": 627,
+				"subTitle": "2",
+				"content": "Gihe cyiza cyo gusenga, Jy' unsohorez' amasengesho,\nK' Uwiteka ntahemuka , Aratwiteze ngw aduhire,\nNdamwihereje rwos' ubu, Y ' uk' ubwe yampamagaye,\nNiringiy' imbabazi ze, Nogez' ibihe byo gusenga."
+			},
+			{
+				"id": 628,
+				"subTitle": "3",
+				"content": "Gihe cyiza cyo gusaba, Urajy' uhor' umpumuriza,\nUgez' aho nger' iwacu, Nzataha nzamuwe mu bicu,\nMpembw' ibihembo by' abera, Nibyo bizaramb' iteka.\nUbwo nibwo nzasezera ku bihe byiza byo gusenga."
+			}
+		]
+	},
+	{
+		"id": 90,
+		"title": "Imins' Itandat' Ishize",
+		"hymnContent": [
+			{
+				"id": 629,
+				"subTitle": "1",
+				"content": "Imins' itandat' ishize, Indi Sabat' itangiye.\nNezezwa no kuruhuka, Mur' uyu muns' uhiriwe."
+			},
+			{
+				"id": 630,
+				"subTitle": "2",
+				"content": "Nimuze mushim' Umwami, Wabahaye kuruhuka.\nUmugisha w' uyu munsi, Urut' uw' iyindi yose."
+			},
+			{
+				"id": 631,
+				"subTitle": "3",
+				"content": "Tunezerwe mu mitima, Twishimir' ibyo mw' ijuru.\nMu buruhukiro bwacu, Ku Mwami nyir' Isabato."
+			},
+			{
+				"id": 632,
+				"subTitle": "4",
+				"content": "Ituza riva mw' ijuru, Ritwuzure twebwe twese,\nHos' itorero ry' Imana, Rikir' imitima myinshi."
+			}
+		]
+	},
+	{
+		"id": 91,
+		"title": "Wicogora Muri Gihe",
+		"hymnContent": [
+			{
+				"id": 633,
+				"subTitle": "1",
+				"content": "Wicogora mur' iki gihe, Ba maso n' imperuka.\nRind' udatsindwa n' iby' iyi si, Mukristo jy' usaba.\nUz' uk' umubir' uremba, Kand' umwanz' arakaze.\nUtegereze nyir' ubukwe, Ba mas' utarambirwa."
+			},
+			{
+				"id": 634,
+				"subTitle": "Gusubiramo",
+				"content": "Komez' ujy' usaba, Komez' ujy' usaba.\nJya wirind' iteka ku manywa na n' ijoro,\nNtugahweme gusaba."
+			},
+			{
+				"id": 635,
+				"subTitle": "2",
+				"content": "Tsemb' ibishukw' imbere yawe, Rek' imitima myinshi.\nUzaruhukira mw' ijuru, Nihw' uzaturiza.\nJy' uhor' usaba Mukristo, Umwam' arakwiteze.\nIbuk' uko yaguhorewe, Bamuvush' amaraso."
+			},
+			{
+				"id": 636,
+				"subTitle": "3",
+				"content": "Ntugahweme kwambaza Yesu, Jy' ubana naw' iteka\nNtugahug' ibitum' utsinda, Tegerez' Umwami.\nWirushy' uzuyaza rwose, Reka gushidikanya.\nN' igihe cyo kumwitegura, Ntugahweme kwambaza."
+			}
+		]
+	},
+	{
+		"id": 92,
+		"title": "Wibuk' Isabato",
+		"hymnContent": [
+			{
+				"id": 637,
+				"subTitle": "1",
+				"content": "Wibuk' Isabato, Umwami yahiriye.\nN' umus' urut' iyindi, N' umuns' unezeza.\nTuruhukamw' imirimo, Tubwirwamw iby' ijuru.\nNiwo mucy' umurika, Uva ku Mwam' Imana."
+			},
+			{
+				"id": 638,
+				"subTitle": "Gusubiramo",
+				"content": "Utuzanir' amahoro, Sabato nziza rwose.\nUtuzanir' amahoro, Sabato nziza."
+			},
+			{
+				"id": 639,
+				"subTitle": "2",
+				"content": "Jya wez' Isabato, Maz' uramy' uwo Mwami,\nWabwiy' intumwa z' ati: Ndi nyir' ubugingo.\nNiba twicisha bugufi, Dukorer' Umukiza,\nTuzajyanwa kw' isoko, Y' amazi y' ubugingo."
+			},
+			{
+				"id": 640,
+				"subTitle": "3",
+				"content": "Twishime, twezwemo, Turirimbire Yesu,\nInshuti yacu nziza, Tumutekereze.\nMukiza mwiz' udukunda, Isezerano ryawe,\nNg' uzaba muri twebwe, Niryo ritunezeza."
+			}
+		]
+	},
+	{
+		"id": 93,
+		"title": "N' Umunsi Wera Wo Kuruhuka",
+		"hymnContent": [
+			{
+				"id": 641,
+				"subTitle": "1",
+				"content": "N' umunsi wera wo kuruhuka, Muns' uhiriwe w' amahoro;\nUkiz' intebyi n' ufit' ishavu, Mwiz' ushimwa mu yindi yose.\nMwami mur' uwo munsi, Bose bagusingiza,\nNgo weze, weze, weze, Kukw' ariw' uhorahw' iteka."
+			},
+			{
+				"id": 642,
+				"subTitle": "2",
+				"content": "N' icyambu kibamw' ituza ryinshi, Ntikibamw' imidugararo.\nNi nk' umurima w' Iparadiso, Imigezi myiz' inyuramo.\nUsa n' isokw' ifuka, Iy' amapfa yacanye.\nNi nkaho tubonera, Igihugu cy' isezerano."
+			},
+			{
+				"id": 643,
+				"subTitle": "3",
+				"content": "N' umunsi twongerwamw' imbaraga, N' umuns' uduter' urukundo.\nNi w' utuma turek' iby' iyi si, Tukegukir' ibyo mw' ijuru.\nTuboner' imbabazi, Mur' uyu munsi mwiza.\nDushake kuruhuka, No ku rurembo rwo mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 94,
+		"title": "Nkunda Guterana Kw' Isabato",
+		"hymnContent": [
+			{
+				"id": 644,
+				"subTitle": "1",
+				"content": "Nkunda guterana kw' Isabato,\nKwig' Ijambo ry' Imana.\nTeraniro ryiza ry' abigishwa,\nUndutira byose."
+			},
+			{
+				"id": 645,
+				"subTitle": "Gusubiramo",
+				"content": "Huriro (huriro) rishimwa (rishimwa),\nHuriro (huriro) rishimwa (rishimwa).\nTeraniro ryiza ry' abigishwa,\nUndutira byose."
+			},
+			{
+				"id": 646,
+				"subTitle": "2",
+				"content": "Niho namenyey' iby' ubugingo,\nMbon' uburyo nihana,\nNitoraniriz' ibitunganye,\nNibyo binnezeza."
+			},
+			{
+				"id": 647,
+				"subTitle": "3",
+				"content": "Aho niho Yesu yantoreye,\nAmbwiz' ijwi rye ryiza.\nUbwo nibwo namwitoraniye,\nMw' ihuriro ryiza."
+			}
+		]
+	},
+	{
+		"id": 95,
+		"title": "Dukoze Gatandatu",
+		"hymnContent": [
+			{
+				"id": 648,
+				"subTitle": "1",
+				"content": "Dukoze gatandatu, Tubwirizwa n' Imana.\nNone dushak' ihirwe, Mu rusengero rwayo.\nN' umuns' urut' iyindi, Unshuz' ibyo mw' ijuru.\nN' umuns' urut' iyindi, Niw' unshuz' ibyo mw' ijuru."
+			},
+			{
+				"id": 649,
+				"subTitle": "2",
+				"content": "Tugusab' umugisha, Mw' izina ry' Umukiza.\nTugirir' imbabazi, Udutsembehw' ibyaha.\nDucike ku by' iyi si, Turuhukane nawe.\nDucike ku by' iyi si, Uruhukire muri twe."
+			},
+			{
+				"id": 650,
+				"subTitle": "3",
+				"content": "Twaje kugusingiza, Ngwino dusaban' ubu,\nTubon' ubwiza bwawe, Mu rusengero rwawe.\nMwam' uduhe kumenya, Ibyiza byo mw' ijuru.\nMwam' uduhe kumenya, Uko bizaba mw' ijuru."
+			},
+			{
+				"id": 651,
+				"subTitle": "4",
+				"content": "Ubutumwa bugwire, Bukiz' abanyabyaha.\nImbabazi zihoza, Abagutakambira.\nDuhe kugusingiza, Twez' Isabato nziza.\nDuhe kugusingiza, Tuguman' itek' iteka."
+			}
+		]
+	},
+	{
+		"id": 96,
+		"title": "Nshim' Isabato Yera",
+		"hymnContent": [
+			{
+				"id": 652,
+				"subTitle": "1",
+				"content": "Nshim' Isabato yera, Imana yaduhaye.\nNgo tujye turuhuka, Tuwunezererwemo."
+			},
+			{
+				"id": 653,
+				"subTitle": "2",
+				"content": "N' umuns' ubamw' ituza, Uhoramw' ibyishimo.\nBiduhuz' agahinda, Kugeza ku mperuka."
+			},
+			{
+				"id": 654,
+				"subTitle": "3",
+				"content": "N' umuns' uduhimbara, Tukawizihirwamo,\nTwongerwamw' imbaraga, Tukuzuzw' umugisha."
+			},
+			{
+				"id": 655,
+				"subTitle": "4",
+				"content": "Kaze Sabato nziza, Munsi w' ikiruhuko,\nDuhabwamw' umugisha, Tukamererwa neza."
+			}
+		]
+	},
+	{
+		"id": 97,
+		"title": "Twumvis' Inkuru Nziza",
+		"hymnContent": [
+			{
+				"id": 656,
+				"subTitle": "1",
+				"content": "Twumvis' inkuru nziza, Ko Yesu akiza.\nKwiz' uwo munezero, Ko Yesu akiza.\nBibwir' abantu bose, Uzambuke n' inzuzi.\nUmwami ngo jya hose, Ni Yesu ukiza."
+			},
+			{
+				"id": 657,
+				"subTitle": "2",
+				"content": "Ukwize no mu nyanja, Ko Yesu akiza.\nTyo bwir' abacumuye, Ko Yesu akiza.\nHimbaz' abo mu birwa, Kukw' amakuru meza.\nAzumvikana hose, Ko Yesu akiza."
+			},
+			{
+				"id": 658,
+				"subTitle": "3",
+				"content": "Mw irasaniro muti: Ni Yesu ukiza.\nYaducunguye twese, Ni Yesu ukiza.\nRirimbir' abatebye, Bashak' ubatabara.\nRirimba ku bituro, Ko Yesu akiza."
+			},
+			{
+				"id": 659,
+				"subTitle": "4",
+				"content": "N' imiyag' ivug' iti: Ni Yesu ukiza.\nAmoko yos' ashime, Ko Yesu akiza.\nJy' urangurur' ijw' uti: Mwese muze mukizwe!\nDusingiz' ubutwari, Ko Yesu akiza."
+			}
+		]
+	},
+	{
+		"id": 98,
+		"title": "Ndagushaka Mukiza We",
+		"hymnContent": [
+			{
+				"id": 660,
+				"subTitle": "1",
+				"content": "Ndagushaka Mukiza we! Ntabwo mbasha kwigenza.\nNdifuza k' umpora hafi, Gumy' unyikomereze."
+			},
+			{
+				"id": 661,
+				"subTitle": "Gusubiramo",
+				"content": "Sinzagir' icyo ntinya,\nUmbwiriz' iby' ushaka.\nNta cyambuza kuz' ah' uri,\nNgukurikir' ah' ujya."
+			},
+			{
+				"id": 662,
+				"subTitle": "2",
+				"content": "Ndagushaka Mukiza we! Kuko noroshye cyane.\nNiw' umbwir' ibinkomeza, Nta wundi mbitezeho."
+			},
+			{
+				"id": 663,
+				"subTitle": "3",
+				"content": "Ndagushaka Mukiza we! Aho ndi mur' iyi si.\nMu muvumbi no ku zuba, Mu bimbabaza byose."
+			},
+			{
+				"id": 664,
+				"subTitle": "4",
+				"content": "Ndagushaka Mukiza we! Mbwiriz' ibitunganye.\nUngeze kuri Yor'dani, Umpe no kuyambuka."
+			}
+		]
+	},
+	{
+		"id": 99,
+		"title": "Iyo Nibuts' Umusarab' Utangaza",
+		"hymnContent": [
+			{
+				"id": 665,
+				"subTitle": "1",
+				"content": "Iyo nibuts' umusarab' utangaza,\nUmwami nyir' ishema yatangiyeho,\nIbyo nungukaga, ntabwo mba nkibyitayeho.\nNzinukw' ibyo niratanaga."
+			},
+			{
+				"id": 666,
+				"subTitle": "2",
+				"content": "Reb' inkovu zo ku mubiri we wose,\nZituma ngir' ishavu n' umunezero.\nHar' ubw' ishavu n' ibyishimo bijya bihura.\nHar' utak' ikamba mu mahwa?"
+			},
+			{
+				"id": 667,
+				"subTitle": "3",
+				"content": "Nari narazimiye meze nk' impabe.\nAriko narokotse kubw' ibyago bye;\nNtunzibukira ntagir' ikindi niratana,\nKerets' umusaraba wawe."
+			},
+			{
+				"id": 668,
+				"subTitle": "4",
+				"content": "Nahw' ibyaremwe byose byab' ar' ibyanjye,\nNtacyo nabona nakugereranyaho;\nUrukundo, n' ubuntu byaturutse mw' ijuru,\nBituma ndek' ibyanjye byose."
+			}
+		]
+	},
+	{
+		"id": 100,
+		"title": "Nta Nshuti Nziza Nka Yesu",
+		"hymnContent": [
+			{
+				"id": 669,
+				"subTitle": "1",
+				"content": "Nta nshuti nziza nka Yesu, Atsemb' ibyaha byacu.\nN' amahirwe kumwizera, Kukw' atwuzuza na Se.\nIyo tubabaye rwose, Dufit' ishavu ryinshi,\nAdusohoza ku Mana, Yumv' amaganya yacu."
+			},
+			{
+				"id": 670,
+				"subTitle": "2",
+				"content": "Nitugir' ibyago byinshi, Tugatotezwa cyane,\nByoye kuduter' ubwoba, Tumwiringire rwose;\nNta wundi wabidukiza, Abiduhemuraho.\nYes' az' intege nke zacu, Jya wisung' Uwiteka."
+			},
+			{
+				"id": 671,
+				"subTitle": "3",
+				"content": "Nitugir' ishavu ryinshi, Tukababara rwose,\nYesu niw' uturokora; Komez' umwizigire.\nNibakugira ruvumwa, Wisung' Umwami Yesu.\nNtazagir' ubw' aguhana, Jy' uhor' umwizigiye."
+			}
+		]
+	},
+	{
+		"id": 101,
+		"title": "Yesu Araguhamagara None",
+		"hymnContent": [
+			{
+				"id": 702,
+				"subTitle": "1",
+				"content": "Yes' araguhamagara none, Arakwifuz' uyu munsi;\nN' iki gituma wanga kwitaba, Ukayobagurika?"
+			},
+			{
+				"id": 703,
+				"subTitle": "Gusubiramo",
+				"content": "S. na A.:\n\nUyu munsi, uyu munsi ;\nYes' araguhamagaran' imbabazi ze.\n\nT. na B.:\n\nUyu munsi, none, none;\nUyu munsi, none, none;\nYesu Yes' Umwami ni w'\nUguhamagaran' imbabazi ze."
+			},
+			{
+				"id": 704,
+				"subTitle": "2",
+				"content": "Yes' arahamagar' abarushye, Ngw' abaruhur' uyu munsi;\nUmwikorez' umutwaro wawe; Ntazagushor' inshucu."
+			},
+			{
+				"id": 705,
+				"subTitle": "3",
+				"content": "Yes' aragutegereje none, Musange non' uyu munsi;\nZan' ibyaha byaw' ubyicujije, Ngwino witindiganya."
+			},
+			{
+				"id": 706,
+				"subTitle": "4",
+				"content": "Yes' arakwinginga, wumv' ijwi rye; Mwumvire non' uyu munsi.\nAbamwiringira bazishima; Haguruk' umusange!"
+			}
+		]
+	},
+	{
+		"id": 102,
+		"title": "Hanze Har' Umushyitsi",
+		"hymnContent": [
+			{
+				"id": 707,
+				"subTitle": "1",
+				"content": "Hanze har' umushyitsi, Kingura! ( Mukingurire, mukingurire! )\nYahoz' ategereje, Kingur' ubu! ( Mukingurire, mukingurire! )\nKingurir' Umukiza, Ataraguhitaho; Yes' Umwana w' Imana;\nKingur' ubu ! ( Mukingurire, mukingurire! )"
+			},
+			{
+				"id": 708,
+				"subTitle": "2",
+				"content": "Ugurur' umutima, Kingura ! ( Mukingurire, mukingurire! )\nN' uzuyaz' aragenda, Kingur' ubu! ( Mukingurire, mukingurire! )\nNiwe nshuti - magara; Azajy' akurengera, Kand' akurind' iteka:\nKingur' ubu! ( Mukingurire, mukingurire! )"
+			},
+			{
+				"id": 709,
+				"subTitle": "3",
+				"content": "Ntiwumv' ukw' akwinginga? Kingura! ( Mukingurire, mukingurire! )\nMuhitemw‘ ubu ngubu, Kingur' ubu! ( Mukingurire, mukingurire! )\nAhagaze ku rugi; Azaguhesh' ihirwe, Maz' ujy' umuhimbaza;\nKingur' ubu! ( Mukingurire, mukingurire! )"
+			},
+			{
+				"id": 710,
+				"subTitle": "4",
+				"content": "Akir' uwo mushyitsi, Kingura! ( Mukingurire, mukingurire! )\nAzasangira nawe, Kingur' ubu! ( Mukingurire, mukingurire! )\nAzakubabarira; Iby' isi nibishira, Akujyane mw' ijuru;\nKingur' ubu! ( Mukingurire, mukingurire! )"
+			}
+		]
+	},
+	{
+		"id": 103,
+		"title": "Ubyarw' Ubwa Kabiri",
+		"hymnContent": [
+			{
+				"id": 711,
+				"subTitle": "1",
+				"content": "Harih' uwasanze Yesu n' ijoro, Amubaz' iby' inzira y' agakiza.\nYes' amusubiz' amweruriy' ati : N' ukuri nkubwire :"
+			},
+			{
+				"id": 712,
+				"subTitle": "Gusubiramo",
+				"content": "Ubyarw' ubwa kabiri (rwose);\nUbyarw' ubwa kabiri (rwose);\nN' ukuri, n' ukuri, ndakubwir' ubu\nKw' aribw' uzarama (rwose)."
+			},
+			{
+				"id": 713,
+				"subTitle": "2",
+				"content": "Namwe nimwite kur' iryo jambo rye, Kuko Yesu yarivuz' aryeruye;\nNibyo bizabagirir' umumaro, Dor' aravug' ati :"
+			},
+			{
+				"id": 714,
+				"subTitle": "3",
+				"content": "Abashak' uburuhukiro bose, No kuririmbana n' abacunguwe,\nNo guhabw' ubugingo buhoraho, Mwite kur' ibi ngo:"
+			}
+		]
+	},
+	{
+		"id": 104,
+		"title": "Mucunguzi Wanjye",
+		"hymnContent": [
+			{
+				"id": 715,
+				"subTitle": "1",
+				"content": "Mucunguzi wanjye, wumv' uko ntaka; Ngwin' unyirokorere.\nUmutima wanjy' ugoswe n' ibyago; Ngwin' unyirokorere."
+			},
+			{
+				"id": 716,
+				"subTitle": "Gusubiramo",
+				"content": "Nahabiye kure, nd' akahebwe;\nNahabiye kure y' iwacu.\nNyakira none, maz' ungez' iwacu;\nNgwin' unyirokorere."
+			},
+			{
+				"id": 717,
+				"subTitle": "2",
+				"content": "Mwami, singira shinge na rugero; Ngwin' unyirokorere.\nKwitabwaho nawe nibyo byanyura; Ngwin' unyirokorere."
+			},
+			{
+				"id": 718,
+				"subTitle": "3",
+				"content": "Dore ndi jyenyine, nabay' impabe; Ngwin' unyirokorere.\nNubuy' amaso ngo mbeshweho nawe; Ngwin' unyirokorere."
+			},
+			{
+				"id": 719,
+				"subTitle": "4",
+				"content": "Ntuhinyur' umutim' ushenjaguwe; Ngwin' unyirokorere,\nNyamunek' ita ku gusenga kwanjye, Ngwin' unyirokorere."
+			}
+		]
+	},
+	{
+		"id": 105,
+		"title": "Ashobora Gukiza",
+		"hymnContent": [
+			{
+				"id": 720,
+				"subTitle": "1",
+				"content": "Ashobora gukiza! Mubyamamaze hose;\nAshobora gukiz' umwumvira wese,\nAkamwarura mu murir' ugurumana.\nYes' ashobora gukiza ushaka wese."
+			},
+			{
+				"id": 721,
+				"subTitle": "Gusubiramo",
+				"content": "Ashobora kugukiza, No kukurokor' ubu;\nMwene Data n' umwizera, azagukiza."
+			},
+			{
+				"id": 722,
+				"subTitle": "2",
+				"content": "Ashobora gukiza! Mbese n' ukuri koko?\nAhw' afit' imbarag' ibasha kunkiza?\nMbwira, nyamuna mbwira, Mbese Kristo wishwe,\nYashobora kumbohora, akandokora?"
+			},
+			{
+				"id": 723,
+				"subTitle": "3",
+				"content": "Ashobora gukiza! Mugenzi we komera!\nN' uyoboka Yesu azakurokora.\nNtugatinye Satani, Jy' ugundira Yesu;\nReka kujy' ushidikanya, Jy' umwiringira."
+			}
+		]
+	},
+	{
+		"id": 106,
+		"title": "Twubake Ku Rutare Rw' Iteka",
+		"hymnContent": [
+			{
+				"id": 724,
+				"subTitle": "1",
+				"content": "Twubake ku Rutare rw' iteka, Nirwo Yes' umucunguzi;\nNibwo tuzabasha gushikama, Umugaru n' utera."
+			},
+			{
+				"id": 725,
+				"subTitle": "Gusubiramo",
+				"content": "Sop :\n\nTwubake kuri we, Twubake kuri we;\nTwubake ku Rutare rw' iteka,\nNirwo Yes' Umwami.\n\nA.T.B :\n\nTwubake kuri we, Niwe Rutare;\nTwubake kuri we, Niwe Rutare;\nTwubake ku Rutare rw' iteka,\nNirwo Yes' Umwami."
+			},
+			{
+				"id": 726,
+				"subTitle": "2",
+				"content": "Harihw' abubaka ku musenyi, Barangamiy' iby' iyi si;\nAbandi bubaka ku muraba w' ibyaha no kwikuza."
+			},
+			{
+				"id": 727,
+				"subTitle": "3",
+				"content": "Twubake ku Rutare rw' ukuri, Nirwo rushikam' iteka.\nKurwiringira kuzahoraho, Nirwo gakiza kacu."
+			}
+		]
+	},
+	{
+		"id": 107,
+		"title": "Menyesh' Ibya Yesu Byose",
+		"hymnContent": [
+			{
+				"id": 728,
+				"subTitle": "1",
+				"content": "Menyesh' ibya Yesu byose, Maz' ubinyandikemo;\nMbwir' ibye by' ingenzi byose, Nezezwa no kubyumva.\nMbwir' ukw' abamarayika baririmbye yavutse,\nNgw' Icyubahiro ku Mana, Amahoro abe mu b' isi."
+			},
+			{
+				"id": 729,
+				"subTitle": "Gusubiramo",
+				"content": "Menyesh' ibya Yesu byose, Maz' ubinyandikemo.\nMbwir' ibye by' ingenzi byose, Nezezwa no kubyumva."
+			},
+			{
+				"id": 730,
+				"subTitle": "2",
+				"content": "Mbwira n' ibyo mu butayu, N' iminsi yahamaze;\nN' uburyo yageragejwe, Agatsind' ibishuko;\nMbwira n' iby' imirimo ye, Vug' uko yababajwe;\nAgahemurwa bamwanze, Agahinyurwa nk' impabe."
+			},
+			{
+				"id": 731,
+				"subTitle": "3",
+				"content": "Mbwir' iby' umusaraba we, Uwo bamubambyeho,\nMbwira n' aho bamuhambye, Mbwira n' uko yazutse,\nN' urukundo ruhebuje, Ntacyo narugeraho.\nDore, ndababaye, mbwira iby' urukundo rwancunguye."
+			}
+		]
+	},
+	{
+		"id": 108,
+		"title": "Yes' Umwungeri Mwiza",
+		"hymnContent": [
+			{
+				"id": 732,
+				"subTitle": "1",
+				"content": "Yes' Umwungeri mwiza, Aragutarura,\nNgo winjire mw' ishyo rye; Nih' uzaruhukira.\nNgwin' ugif' ubusore, Ngwin' ukiri muto;\nInjir' uzarindwa rwose, Ntuzagir' icy' uganya."
+			},
+			{
+				"id": 733,
+				"subTitle": "Gusubiramo",
+				"content": "Aragutaruran' urukundo, ati:\nWa mpabe we, ngwino nsanga.\nDor' Umukiz' arategereje,\nYes' Umwungeri wanjye."
+			},
+			{
+				"id": 734,
+				"subTitle": "2",
+				"content": "Yes' Umwungeri mwiza, Yarakwitangiye;\nAraguhamagara ati: Nyabuna ngwino,\nGira bwang' uve mu kaga, Ntugumye, kwijyana.\nInjir' uzarindwa rwose, Wibere mu mahoro."
+			},
+			{
+				"id": 735,
+				"subTitle": "3",
+				"content": "Reka kuragiriza, Isega yateye,\nIshak' intama zose, Zazimiriye kure.\nArik' Umwungeri mwiza, Arakuburira;\nInjir' uzarindwa rwose, Muban' akaramata."
+			}
+		]
+	},
+	{
+		"id": 109,
+		"title": "Naratuwe Mu Gipimo",
+		"hymnContent": [
+			{
+				"id": 736,
+				"subTitle": "1",
+				"content": "Umucamanza n' agera, Akarondor' ibyacu,\nTuzamera nk' izahabu, Cyangwa s' inkamb' itabwa?"
+			},
+			{
+				"id": 737,
+				"subTitle": "Gusubiramo",
+				"content": "Naratuwe mu gipimo,\nNsangwa ntashyitse;\nNaratuwe n' ijambo rye,\nNsangwa ntashyitse."
+			},
+			{
+				"id": 738,
+				"subTitle": "2",
+				"content": "Mbese tuzumv' ishimwe ngo: Nuko, wakoze neza;\nCyangw' iteka ryo gupfa ngo: Mwasanzwe mudashyitse?"
+			},
+			{
+				"id": 739,
+				"subTitle": "3",
+				"content": "Nimutyo twite kw' ijwi rye, Igihe kikiriho.\nTureke gutindiganya, Tumaramaze rwose."
+			}
+		]
+	},
+	{
+		"id": 110,
+		"title": "Wumv' Amagambo Y' Umukiza",
+		"hymnContent": [
+			{
+				"id": 740,
+				"subTitle": "1",
+				"content": "Wumv' amagambo y' Umukiza; Niy' aguhesh' ubugingo.\nWa munyabyaha we, menya ko hahirw' abakomez' amategeko."
+			},
+			{
+				"id": 741,
+				"subTitle": "Gusubiramo",
+				"content": "Hahirw' abayakomeza yose,\nNibo bahirwa, barahirwa;\nHahirw' abayakomeza yose,\nBarahirwa, barahirwa."
+			},
+			{
+				"id": 742,
+				"subTitle": "2",
+				"content": "Kuyumva gusa nta kamaro, N'ukutugwabiza rwose;\nKuyumva dutinya, ntibyadukiza, Hahirw' abayumvira yose."
+			},
+			{
+				"id": 743,
+				"subTitle": "3",
+				"content": "Bazinjiran' umunezero mu mudugudu w' Imana,\nAhatab' ishavu n' umubabaro, Beger' igiti cy' ubugingo."
+			}
+		]
+	},
+	{
+		"id": 111,
+		"title": "Nta Nshuti Nziz' Ihwanye Na Yesu",
+		"hymnContent": [
+			{
+				"id": 744,
+				"subTitle": "1",
+				"content": "Nta nshuti nziz' ihwanye na Yesu; Nta n' imwe! nta n' imwe!\nNta wundi wabasha kudukiza; Nta wundi! nta wundi!"
+			},
+			{
+				"id": 745,
+				"subTitle": "Gusubiramo",
+				"content": "Yes' az' ibiturushya byose;\nAzabana natw' iteka.\nNta ncuti nziz' ihwanye na Yesu,\nNta n' imwe! nta n' imwe!"
+			},
+			{
+				"id": 746,
+				"subTitle": "2",
+				"content": "Nta nshut' ibahw' ikomeye nka we; Nta n' imwe! nta n' imwe!\nNyamara nta wiyoroshya nka we; Nta n' umwe! nta n' umwe!"
+			},
+			{
+				"id": 747,
+				"subTitle": "3",
+				"content": "Nta kanya na gato tutabana; Ye nta ko! ye nta ko!\nNta joro ryira tutari kumwe; Ye nta ryo! ye nta ryo!"
+			},
+			{
+				"id": 748,
+				"subTitle": "4",
+				"content": "Mbese har' uwo yigez' ahana? Nta n' umwe! Nta n' umwe!\nMbese har' umunyabyah' aheza? Nta n' umwe! nta n' umwe!"
+			},
+			{
+				"id": 749,
+				"subTitle": "5",
+				"content": "Harihw' impano yahwana nawe? Nta n' imwe! nta n' imwe!\nMbese har' uwo yavuts' ijuru? nta n' umwe! nta n' umwe!"
+			}
+		]
+	},
+	{
+		"id": 112,
+		"title": "Kurabukw' Umusaraba Wawe",
+		"hymnContent": [
+			{
+				"id": 750,
+				"subTitle": "1",
+				"content": "Kurabukw' umusaraba wawe, Mwami nibyo byambeshaho;\nSinita ku manjwe y' iby' isi, Ntez' agakiza ku musaraba."
+			},
+			{
+				"id": 751,
+				"subTitle": "Gusubiramo",
+				"content": "S. :\n\nKurabukw' i Golgota,\nNibyo bizambeshaho.\nMbeg' amahirwe yanjye,\nYo kurabukwa Yesu!\nA., T. na B. :\n\nKurabu … Go… Golgota,\nNibyo bi … mbe … mbeshaho.\nMbeg' amahirwe yanjye…rwe yanjye,\nYo kurabukwa Yesu! …rabukwa Yesu."
+			},
+			{
+				"id": 752,
+				"subTitle": "2",
+				"content": "Ubwo nari nkibon' Umukiza, Yanyakirany' ibyishimo;\nNa n' ubu ningir' ibindwanya, Kumurabukwa nibyo byankiza."
+			},
+			{
+				"id": 753,
+				"subTitle": "3",
+				"content": "Nzajya mpang' amas' umusaraba, Kandi mwiringire rwose.\nNta wutumbir' umusaraba, Wari wiger' aneshwa n' Umwanzi."
+			}
+		]
+	},
+	{
+		"id": 113,
+		"title": "Yesu Araguhamagaran' Ituza",
+		"hymnContent": [
+			{
+				"id": 754,
+				"subTitle": "1",
+				"content": "Yes' araguhamagaran' ituza, Ub' arahamagara;\nAtegereje k' umwiyegurira, We kuzuyaza; ngwino."
+			},
+			{
+				"id": 755,
+				"subTitle": "Gusubiramo",
+				"content": "Ngwino ( ngwino); Ngwino (ngwino);\nAbarushye mwese nimuze.\nYes' araguhamagaran' ituza, ati:\nMukundwa, ngwino."
+			},
+			{
+				"id": 756,
+				"subTitle": "2",
+				"content": "Twatinzwa n' iki, kand' ategereje kuturokora twese?\nTwahinyuzwa n' ik' imbabazi zose adufitiye twese?"
+			},
+			{
+				"id": 757,
+				"subTitle": "3",
+				"content": "Twakererew' ibihe birahita, Aradutegereje;\nTurarindagirira mu mwijima; Nimutyo tumusange."
+			},
+			{
+				"id": 758,
+				"subTitle": "4",
+				"content": "Zirikan' urukundo ruhebuje, Yadusezeranije;\nN' ubwo twagomye, Tuzababarirwa; Aradutegereje."
+			}
+		]
+	},
+	{
+		"id": 114,
+		"title": "Har' Irembo Ryuguruye",
+		"hymnContent": [
+			{
+				"id": 759,
+				"subTitle": "1",
+				"content": "Har' irembo ryuguruwe, Ryatumye mpishurirwa.\nUmusaraba wa kure, Yesu yatangiyeho."
+			},
+			{
+				"id": 760,
+				"subTitle": "Gusubiramo",
+				"content": "Mbeg' ineza n' imbabazi byatumye nugururirwa!\nNugururiwe, Iman' ihimbazwe!"
+			},
+			{
+				"id": 761,
+				"subTitle": "2",
+				"content": "Irembo ryugururiwe abashak' agakiza;\nNgw' abakire n' abakene bose barinyuremo."
+			},
+			{
+				"id": 762,
+				"subTitle": "3",
+				"content": "Nshuti komez' utwaran' irembo ricyuguruwe.\nIkorer' umusaraba; Nibw' uzahabw' ikamba."
+			},
+			{
+				"id": 763,
+				"subTitle": "4",
+				"content": "Tumaze kwambuk' uruzi, Dute wa musaraba;\nTwambikw' amakamba meza, Twitahire mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 115,
+		"title": "Umukiz' Ageze Hafi",
+		"hymnContent": [
+			{
+				"id": 764,
+				"subTitle": "1",
+				"content": "Umukiz' ageze hafi, Yes' Umukunzi wanjye.\nYazanywe no guhembura; Mwese nimumwumvire."
+			},
+			{
+				"id": 765,
+				"subTitle": "Gusubiramo",
+				"content": "Nta wuhwany' izina nawe,\nRirut' amazina yose.\nNta wusingizwa nkawe;\nYesu mwiza rwose."
+			},
+			{
+				"id": 766,
+				"subTitle": "2",
+				"content": "Icyubahiro kib' icye; Mutyo twizere Yesu.\nNkund' izina ry' Umukiza; Nkund' izina rya Yesu."
+			},
+			{
+				"id": 767,
+				"subTitle": "3",
+				"content": "Izina rye rirankiza, Rikamar' agahinda.\nNta kinezeza nko kumva, Iryo zina rya Yesu."
+			},
+			{
+				"id": 768,
+				"subTitle": "4",
+				"content": "N' az' azatugororera, Ikamba ry' ubugingo.\nUbwo nibwo tuzicara, Tuvug' iby' agakiza."
+			}
+		]
+	},
+	{
+		"id": 116,
+		"title": "Ntacyo Wasigiye Yesu",
+		"hymnContent": [
+			{
+				"id": 769,
+				"subTitle": "1",
+				"content": "Dor' umutima wawe, Wuzuyemw' amaganya.\nNta mwanya wasigiye Yesu ngo yinjiremo?\nUb' ahagaze ku rugi, Arakomanga yinginga.\nNta mwanya wasigiye Yesu ngo yinjiremo?"
+			},
+			{
+				"id": 770,
+				"subTitle": "2",
+				"content": "Upfush' igih' ubusa, Kand' ar' ingenzi rwose.\nMbese nta mwany' ufite wo gukorera Yesu?\nNturarushy' ugerageza gutarur' abazimiye;\nMbese nta mwany' ufite wo gukorera Yesu?"
+			},
+			{
+				"id": 771,
+				"subTitle": "3",
+				"content": "Mbese k' umaranira kwishakir' ubutunzi,\nNta gih' ufite washishikarir' ibya Yesu?\nDor' uharanira kwikubir' ibinezeza by' isi;\nNta gih' ufite washishikarir' ibya Yesu?"
+			},
+			{
+				"id": 772,
+				"subTitle": "4",
+				"content": "Wabay' ingumba nk' igiti cy' ibibabi gusa.\nMbese ntabwo wazerer' Umwami Yes' imbuto?\nNtacy' ufite cyo kuzamumurikira n' agaruka;\nMbese ntabwo wazerer' Umwami Yes' imbuto?"
+			}
+		]
+	},
+	{
+		"id": 117,
+		"title": "Mwami Ndumv' Ijwi Ryawe",
+		"hymnContent": [
+			{
+				"id": 773,
+				"subTitle": "1",
+				"content": "Mwami ndumv' ijwi ryawe, Rindarika ngo nze,\nNuhagizwe ya maraso, Wamviriye kera."
+			},
+			{
+				"id": 774,
+				"subTitle": "Gusubiramo",
+				"content": "Mukiza ndaje, Ubu nj' ah' uri!\nNyejesha ya maraso, Wamviriye kera."
+			},
+			{
+				"id": 775,
+				"subTitle": "2",
+				"content": "N' ubwo nje nahindanye, Ntunyirengagize;\nAhubw' umboneze rwose, Mb' umweru waka de."
+			},
+			{
+				"id": 776,
+				"subTitle": "3",
+				"content": "Yesu niw' unkomeza, Niw' umpa gutsinda;\nNg' urukundo n' amahoro, Binsabemo rwose."
+			},
+			{
+				"id": 777,
+				"subTitle": "4",
+				"content": "Mwese nimwishimire! Ya maras' akiza,\nYatwujuje na Rurema, Ngo tub' abana be."
+			}
+		]
+	},
+	{
+		"id": 118,
+		"title": "Ndumv' Umukiz' Ambwira",
+		"hymnContent": [
+			{
+				"id": 778,
+				"subTitle": "1",
+				"content": "Ndumv' Umukiz' ambwira, Ko mbuz' imbaraga;\nNgo: Njye museng' iteka, Ntacyo nzamuburana."
+			},
+			{
+				"id": 779,
+				"subTitle": "Gusubiramo",
+				"content": "Yanndihiriye imyenda yose;\nYambabariy' ibyaha, Bihinduk' umweru."
+			},
+			{
+				"id": 780,
+				"subTitle": "2",
+				"content": "Niw' ufit' imbaraga, Zihagije rwose;\nZo gukiz' ababembe, Zikoroshy' umutima."
+			},
+			{
+				"id": 781,
+				"subTitle": "3",
+				"content": "Ubwo nta cyiza nkora, Nibesherejweho;\nN' ubuntu bwawe gusa, Ni wowe nkesha byose."
+			},
+			{
+				"id": 782,
+				"subTitle": "4",
+				"content": "Imbere ya ya ntebe, Nzahahagarara;\nNzaba njyany' iminyago, Nyishyikirize Yesu."
+			}
+		]
+	},
+	{
+		"id": 119,
+		"title": "Harihw' Isokw' Itukura",
+		"hymnContent": [
+			{
+				"id": 783,
+				"subTitle": "1",
+				"content": "Harihw' isokw' itukura, Ivamw' amaraso;\nNiy' Umwami yamviriye, Ngw' ayandokoreshe."
+			},
+			{
+				"id": 784,
+				"subTitle": "Gusubiramo",
+				"content": "Nduz' umuvu w' amaraso;\nNdayogamo nere rwose!\nHaleluya! Aranyeza,\nAranyeza, Aranyeza!"
+			},
+			{
+				"id": 785,
+				"subTitle": "2",
+				"content": "Mpinduts' icyaremwe gishya, Mbyaw' ubwa kabiri.\nNtsinze kamere ya kera, Nzahora ndi mushya."
+			},
+			{
+				"id": 786,
+				"subTitle": "3",
+				"content": "Nsigaye mvirwa n' umucyo, Sinkirindagira;\nNshitse ku ngoyi z' umwanzi, Mbatuwe na Yesu."
+			},
+			{
+				"id": 787,
+				"subTitle": "4",
+				"content": "Mbeg' ubuntu butangaje! Kwejeshw' amaraso!\nByanyujuje n' Umukiza, Yesu wambambiwe."
+			}
+		]
+	},
+	{
+		"id": 120,
+		"title": "Data Ndambuy' Amaboko",
+		"hymnContent": [
+			{
+				"id": 788,
+				"subTitle": "1",
+				"content": "Data, ndambuy' amaboko; Nta wundi wamfasha;\nIy' unyivumburiy' ukamvaho, Mbes' ahandi najya ni he?"
+			},
+			{
+				"id": 789,
+				"subTitle": "2",
+				"content": "Nizey' Umwana waw' ubu, Undem' umutima;\nUjy' unkenur' umar' ubukene, Nkomeze nemerwe nawe."
+			},
+			{
+				"id": 790,
+				"subTitle": "3",
+				"content": "Nyir' ukwizera ni wowe, Nuburiy' amaso;\nIcyamp' ukangwiriza kwizera, Kuko ntagufite napfa."
+			},
+			{
+				"id": 791,
+				"subTitle": "4",
+				"content": "Ntuzantererane ngo mpfe, Ahubw' umbesheho;\nNibwo nzacika ku kinyoma, Mbishobojwe n' Umwuka wawe."
+			},
+			{
+				"id": 792,
+				"subTitle": "5",
+				"content": "Nakwishima cyane rwose, Nibaniye nawe;\nMaze nkakumv' umpumuriz' umbwira ko nagiriw' ubuntu."
+			},
+			{
+				"id": 793,
+				"subTitle": "6",
+				"content": "Nizeye rwos' ubu yuko, Yesu yampfiriye;\nKandi kubw' amaraso ye yeza, Nzabaturwa mve mu byaha."
+			}
+		]
+	},
+	{
+		"id": 121,
+		"title": "Nzasingiz' Urukundo Rwa Yesu",
+		"hymnContent": [
+			{
+				"id": 794,
+				"subTitle": "1",
+				"content": "Nzasingiz' urukundo rwa Yesu, Wambambiwe;\nYemeye kumanuka, Azanywe no kumpfira."
+			},
+			{
+				"id": 795,
+				"subTitle": "Gusubiramo",
+				"content": "Nzasingiz' urukundo rwe;\nMpimbaze, Yaramfiriye,\nAshaka kumbeshaho;\nNzahora muhimbaza."
+			},
+			{
+				"id": 796,
+				"subTitle": "2",
+				"content": "Yesu yambabarijwe, Ntararushya mbabara;\nYahoze ansabira, Ntarameny' iyo bijya."
+			},
+			{
+				"id": 797,
+				"subTitle": "3",
+				"content": "Urukundo rw' Imana, Mbega ngo rurankiza!\nIbyaha byanjye byose, Bikantamururwaho!"
+			},
+			{
+				"id": 798,
+				"subTitle": "4",
+				"content": "Nta cyiza nakoreye, Umwami wankunz' atyo;\nNone maze kwemezwa, Mwami nguhaye byose."
+			}
+		]
+	},
+	{
+		"id": 122,
+		"title": "Nyigiza Hafi",
+		"hymnContent": [
+			{
+				"id": 799,
+				"subTitle": "1",
+				"content": "Nyigiza hafi, mbane nawe; Nta cyandutira kubana nawe.\nNgumisha mu gituza cyawe; Mpisha nibere mu buhungiro;\nMpisha nibere mu buhungiro."
+			},
+			{
+				"id": 800,
+				"subTitle": "2",
+				"content": "Nyigiza hafi, ntacyo mfite; Ntacyo nzanyehw' ituro ry' Umwami,\nKerets' umutim' ushavuye; Mpa kuhagizw' amaraso yawe;\nMpa kuhagizw' amaraso yawe."
+			},
+			{
+				"id": 801,
+				"subTitle": "3",
+				"content": "Nyigiza hafi, Mwami wanjye; Nishimiye gucika ku byaha.\nNdeke kwikuza n' ubwibone; Umpe Yes' Umwami wambambiwe;\nUmpe Yes' Umwami wambambiwe."
+			},
+			{
+				"id": 802,
+				"subTitle": "4",
+				"content": "Nyigiza hafi, ngihumeka; Kugez' ubwo nzager' i Budapfa;\nMaze mu bihe bidashira, Nzibere hafi y' Umwami wanjye;\nNzibere hafi y' Umwami wanjye."
+			}
+		]
+	},
+	{
+		"id": 123,
+		"title": "Har' Izina Rihebuje",
+		"hymnContent": [
+			{
+				"id": 803,
+				"subTitle": "1",
+				"content": "Har' izina rihebuje, Rirut' ayandi yose nzi;\nNi ry' Imana yaturemye yis' Umwana way' ikunda."
+			},
+			{
+				"id": 804,
+				"subTitle": "Gusubiramo",
+				"content": "Ni ryo zina ryera (izina );\nNi ryo zina ryera ( ryera de ) !\nRyakomotse ku Mana, Riza mw isi,\nMaze riririmbwa ( izina ) n' abamarayika ( ryera de ).\nIryo zina n' irya Yesu."
+			},
+			{
+				"id": 805,
+				"subTitle": "2",
+				"content": "Niryo rimpesh' umugisha; Nkunda kuryogez' iteka.\nSimpwema kuriririmba, Mvug' ukuntu rihebuje."
+			},
+			{
+				"id": 806,
+				"subTitle": "3",
+				"content": "Icyampa nkaririmbana n' abamarayika bera,\nNkajya nsingiza rya zina rihebuj' ayandi yose!"
+			}
+		]
+	},
+	{
+		"id": 124,
+		"title": "Yesu Gusa",
+		"hymnContent": [
+			{
+				"id": 807,
+				"subTitle": "1",
+				"content": "Yesu gusa, niw' ukwiriy' ikuzo;\nNaho jyewe, ntacyo ndi cyo rwose;\nSinkwiriye kub' ari jyew' uratwa;\nYesu gusa, niw' uzajy' uvugwa."
+			},
+			{
+				"id": 808,
+				"subTitle": "2",
+				"content": "Yesu gusa, niw' umar' agahinda;\nNaho jyewe nd' uwo gushavura.\nSinshobora kwikorer' ibindushya;\nNaho Yesu nta kimushengura."
+			},
+			{
+				"id": 809,
+				"subTitle": "3",
+				"content": "Yesu gusa, ab' ari we wogezwa;\nSinkwiriye kwiratan' ibyanjye.\nYesu gusa, niw' uzambonekamo;\nKugez' ubwo nzahinduka nka we."
+			},
+			{
+				"id": 810,
+				"subTitle": "4",
+				"content": "Yesu gusa niw' umar' ubukene;\nNiwe gusa nkesh' ibyanjye byose.\nYesu gusa, niw' undutira byose;\nYesu Mwami twibanir' iteka."
+			}
+		]
+	},
+	{
+		"id": 125,
+		"title": "Nk' Ukw' Izuba Rituvira",
+		"hymnContent": [
+			{
+				"id": 811,
+				"subTitle": "1",
+				"content": "Nkukw' izuba rituvira, Rikarabagirana,\nNik' umucyo wo mw' ijuru wansabye mu mutima,\nWawukuyemw' iby' amanjwe, Utangaz' ibihishwe;\nKuko mu mutima wanjye, Nahatuj' Umukiza."
+			},
+			{
+				"id": 812,
+				"subTitle": "Gusubiramo",
+				"content": "Mbeg' umucyo w' agatangaza,\nWansabye mu mutima!\nIneza y' Umwami Yesu,\nYambereye nk' umucyo."
+			},
+			{
+				"id": 813,
+				"subTitle": "2",
+				"content": "Natay' agahinda kose; Ntabwo nkikitayeho;\nKuk' unyambik' amahoro, Ameze nk' umwitero,\nNkwerekejeh' umutima, Ndakwishimiye cyane.\nNzagezw' i wawe mw' ijuru, Na rwa rukundo rwawe."
+			},
+			{
+				"id": 814,
+				"subTitle": "3",
+				"content": "Mukiza warancunguye; Nd' uwaw' uko ndi kose.\nNyemerera nguhimbaze, Nkuber' umucyo waka.\nNkwerekejeh' umutima, Ndakwishimiye cyane.\nNzagezw' i wawe mw' ijuru, Na rwa rukundo rwawe."
+			}
+		]
+	},
+	{
+		"id": 126,
+		"title": "Njya Nkunda Kuririmb' Indirimbo",
+		"hymnContent": [
+			{
+				"id": 815,
+				"subTitle": "1",
+				"content": "Njya nkunda kuririmb' indirimbo, Ngo yarancunguye.\nNiwe waciy' ingoyi z' umwanzi, Maz' arambatura."
+			},
+			{
+				"id": 816,
+				"subTitle": "Gusubiramo",
+				"content": "Sop:\n\nKuk' ubwe yancunguye; Kuk' ubwe yancunguye,\nNzahimbaz' izina rye. Kuk' ubwe yancunguye,\nNzaririmbir' uwandokoye.\n\nA.T.B.:\n\nKuk' ubwe yancunguye; Kuk' ubwe yancunguye;\nKuk' ubwe yancunguye, Nzahimbaz' izina rye.\nKuk' ubwe yancunguye, Kuk' ubwe yancunguye;\nNzaririmbir' uwandokoye."
+			},
+			{
+				"id": 817,
+				"subTitle": "2",
+				"content": "Mfit' Umukiz' unogeye rwose, Niwe wancunguye.\nMpimbazwa no gukor' iby' ashaka, Kuko yancunguye."
+			},
+			{
+				"id": 818,
+				"subTitle": "3",
+				"content": "Nzahora mpamya ntacyo nikenga, Yuko yancunguye.\nSinzashidikanya ngo ncogore, Kuko yancunguye."
+			},
+			{
+				"id": 819,
+				"subTitle": "4",
+				"content": "Mfit' aho yanteguriye heza, Kuko yancunguye.\nNiho nzibanira naw' iteka, Kuko yancunguye."
+			}
+		]
+	},
+	{
+		"id": 127,
+		"title": "Iman' Ikund' Utunyoni",
+		"hymnContent": [
+			{
+				"id": 820,
+				"subTitle": "1",
+				"content": "Iman' ikund' utunyoni, Tuba mur' iyi si;\nUbwo yita ku tunyoni, Nzi ko nanjy' inkunda."
+			},
+			{
+				"id": 821,
+				"subTitle": "Gusubiramo",
+				"content": "Irankunda, irankunda;\nNzi ko nanjy' inkunda;\nKukw' ikund' utuntu duto,\nNzi ko nanjy' inkunda."
+			},
+			{
+				"id": 822,
+				"subTitle": "2",
+				"content": "Niy' irimbish' uburabyo, Buhumura neza;\nUbw' ikund' uburaby' ityo, Nzi ko nanjy' inkunda."
+			},
+			{
+				"id": 823,
+				"subTitle": "3",
+				"content": "Imana yaremye byose, Ntigir' icy' isobwa.\nNzi kw' ikund' abana bose, Nzi ko nanjy' inkunda."
+			}
+		]
+	},
+	{
+		"id": 128,
+		"title": "N' Igihe Cyo Gusenga",
+		"hymnContent": [
+			{
+				"id": 824,
+				"subTitle": "1",
+				"content": "N' igihe cyo gusenga, Twicishe bugufi, Duteraniye hamwe turamya Yesu,\nNituza tumwizeye, Azajy' aturinda; Mbeg' ihumure ryiza, ryo kwibanira nawe!"
+			},
+			{
+				"id": 825,
+				"subTitle": "Gusubiramo",
+				"content": "N' igihe cyiza cyo kuramy' Umwami,\nMbeg' ihumure ryiza, ryo kwibanira na we!"
+			},
+			{
+				"id": 826,
+				"subTitle": "2",
+				"content": "N' igihe cyo gusenga, Umwam' ari hafi, Kand' adufitiy' ibambe rya kibyeyi.\nTumuganyir' ibyacu, Dushir' agahinda; Mbeg' ihumure ryiza, ryo kumvikana nawe!"
+			},
+			{
+				"id": 827,
+				"subTitle": "3",
+				"content": "N' igihe cyo gusenga, no gushyikirana, N' Imana yac' ihor' ituzirikana,\nIturem' agatima, tub' indahangarwa; Mbeg' ihumure ryiza, ryo kumvikana nawe!"
+			},
+			{
+				"id": 828,
+				"subTitle": "4",
+				"content": "N' igihe cyo gusenga, twiringiye Yesu. Twizeye kw' azaduh' ibyo, tumusaba,\nKukw' atangan' ubuntu, ataziganije. Mbeg' ihumure ryiza, ryo gutabarwa nawe!"
+			}
+		]
+	},
+	{
+		"id": 129,
+		"title": "Yesu Waduhay' Isezerano",
+		"hymnContent": [
+			{
+				"id": 829,
+				"subTitle": "1",
+				"content": "Yesu waduhaye isezerano, K' uzabana natwe, niduterana,\nNaho twaba babiri, Cyangwa batatu,\nUzab' uri kumwe n' abana bawe."
+			},
+			{
+				"id": 830,
+				"subTitle": "Gusubiramo",
+				"content": "Yesu, ngwin' uduhire, Tutarava hano;\nYesu ngwin' uduhire ubu, Tuban' iteka."
+			},
+			{
+				"id": 831,
+				"subTitle": "2",
+				"content": "Wateranye natwe, mu bindi bihe, Ariko na n' ubu turakwifuza.\nNgwino, Mubyeyi mwiza, Turakwinginze;\nTwumvir' utwemere, Duhirwe nawe."
+			},
+			{
+				"id": 832,
+				"subTitle": "3",
+				"content": "Wakir' indirimbo z' ishimwe ryacu, Uduhe gusenga tubyitayeho.\nTwongerere kwizera, No kwiringira;\nDukundane rwose, Dushyire hamwe."
+			}
+		]
+	},
+	{
+		"id": 130,
+		"title": "Nd' Uwawe, Mwami",
+		"hymnContent": [
+			{
+				"id": 833,
+				"subTitle": "1",
+				"content": "Nd' uwawe Mwami, Ubu nditanze;\nNumvis' ubury' udukunda.\nNsingiriz' amabok' untabare,\nNjye nibanire nawe."
+			},
+			{
+				"id": 834,
+				"subTitle": "Gusubiramo",
+				"content": "S.A :\n\nHafi yawe, Nibyo nifuza,\nKu musaraba wawe.\nHafi yawe, Mwami, tuban' iteka,\nNjye nibanira nawe.\n\nT.B :\n\nHafi yawe cyane, ni byo nifuza,\nKu musaraba wawe.\nHafi yawe, Mwami, Tuban' iteka,\nNjye nibanira nawe."
+			},
+			{
+				"id": 835,
+				"subTitle": "2",
+				"content": "Nkwiyeguriye namaramaje,\nNkoresh' umurimo wawe;\nNkwerekejeh' umutima wanjye,\nNg' uhor' ugengwa nawe."
+			},
+			{
+				"id": 836,
+				"subTitle": "3",
+				"content": "Kubana nawe birahebuje,\nNibyo bindutira byose.\nIyo mpfukamye, nkakuganyira,\nDusabana nk' inshuti."
+			},
+			{
+				"id": 837,
+				"subTitle": "4",
+				"content": "Sinashobora kukurondora,\nNgo mmeny' urukundo rwawe.\nRuzahishurwa turi mw' ijuru,\nAho twateguriwe."
+			}
+		]
+	},
+	{
+		"id": 131,
+		"title": "Ndusheho Gusa Nawe",
+		"hymnContent": [
+			{
+				"id": 838,
+				"subTitle": "1",
+				"content": "Ndusheho gusa nawe, Yesu Mukiza wanjye;\nNyuzuz' ubugwaneza, Mp' urukundo ruhebuje.\nNdusheho kumera nkawe, Aho ngenda hose, Mwami;\nNdiyoroheje rwose, Mwami njye ngukurikiza."
+			},
+			{
+				"id": 839,
+				"subTitle": "2",
+				"content": "Nib' irind' icyanira, Ikamenya n' igishwi;\nSinshidikanya rwose, Nanjy' ihor' inyitayeho.\nIzanyigisha kwitonda, Imbabarir' amafuti;\nNdiyoroheje rwose, Mwami njye ngukurikiza."
+			},
+			{
+				"id": 840,
+				"subTitle": "3",
+				"content": "Ndusheho gusa nawe, Ndusheh' uko bukeye;\nNyigiza hafi yawe, Ahw' amahor' adashira.\nUhor' umpindura mushya, Kubw' urukund' ungirira;\nNdiyoroheje rwose, Mwami njye ngukurikiza."
+			}
+		]
+	},
+	{
+		"id": 132,
+		"title": "Yesu, Unkomereze Ku Musaraba",
+		"hymnContent": [
+			{
+				"id": 841,
+				"subTitle": "1",
+				"content": "Yes' unkomereze, Ku musaraba wawe;\nHar' isokw' ibeshaho, Itemb' i Kal'vari."
+			},
+			{
+				"id": 842,
+				"subTitle": "Gusubiramo",
+				"content": "Umusaraba wa Yesu nzawirata,\nKugez' ubwo nzabona uburuhukiro."
+			},
+			{
+				"id": 843,
+				"subTitle": "2",
+				"content": "Hafi y' umusaraba, Mpaboner' iteka,\nImbabazi n' impuhwe, Bitarondoreka."
+			},
+			{
+				"id": 844,
+				"subTitle": "3",
+				"content": "Hafi y' umusaraba, Intama y' Imana,\nNiyo yahangejeje, Ntsind' ibimbabaza."
+			},
+			{
+				"id": 845,
+				"subTitle": "4",
+				"content": "Hafi y' umusaraba, Niho ntegereje;\nNiringiye kugera, Mu bwami bw' Imana."
+			}
+		]
+	},
+	{
+		"id": 133,
+		"title": "Nyemerera Ngendane Nawe",
+		"hymnContent": [
+			{
+				"id": 846,
+				"subTitle": "1",
+				"content": "Nyemerera ngendane nawe, Mana, Nk' ukw' Enoki yagenje.\nNyoboresh' ukuboko kwawe, Unyerekez' ah' ushaka hose.\nNubw' inzir' itagaragara, Nkomeze njyane nawe, Mwami."
+			},
+			{
+				"id": 847,
+				"subTitle": "2",
+				"content": "Ntabwo nahangara kugenda, Ntari kumwe nawe, Mukiza;\nNagoswe n' abanz' igihumbi; Dor' imitegw' intaye hagati.\nBurije rwose, ntihabona, Nkomeze njyane nawe, Mwami."
+			},
+			{
+				"id": 848,
+				"subTitle": "3",
+				"content": "Ninguma mu maboko yawe, Sinzaba ncyitaye ku by' isi;\nNta kindi nziratana rwose, Keretse wa musaraba wawe,\nNgez' ubwo nzager' i Siyoni, Nkomeze njyane nawe, Mwami."
+			}
+		]
+	},
+	{
+		"id": 134,
+		"title": "Icyampa Nkarangurura",
+		"hymnContent": [
+			{
+				"id": 849,
+				"subTitle": "1",
+				"content": "Icyampa nkarangurura, Ngahimbaz' Umwami wanjye,\nAriko ni nde wabasha kuririmb' ishimwe rya Yesu?"
+			},
+			{
+				"id": 850,
+				"subTitle": "Gusubiramo",
+				"content": "Urukundo ruhebuje! Urukundo rwa Yesu!\nUrukundo ruhebuje! Urukundo rwa Yesu!"
+			},
+			{
+				"id": 851,
+				"subTitle": "2",
+				"content": "Niwe munezero wanjye, Ni naw' umpesh' amahoro.\nMu makuba no mu byago, Yesu niw' umber' ihumure."
+			},
+			{
+				"id": 852,
+				"subTitle": "3",
+				"content": "Niwe byiringiro byanjye, Byo kuzahabw' ubugingo.\nMu mwijim' amber' umucyo, Yesu niw' umber' ihumure."
+			}
+		]
+	},
+	{
+		"id": 135,
+		"title": "Mwami Nzi Kw' Ari We Nkunda",
+		"hymnContent": [
+			{
+				"id": 853,
+				"subTitle": "1",
+				"content": "Mwami, nzi kw' ari We nkunda, Kurut' iby' iyi si;\nKuko wampay' amahoro, Atagir' impinduka."
+			},
+			{
+				"id": 854,
+				"subTitle": "Gusubiramo",
+				"content": "Urukundo rwankijije (ngakira), Ntirurondoreka.\nNtitwarusobanukirwa (na hato), Kuko ruhebuje (ruhebuje)."
+			},
+			{
+				"id": 855,
+				"subTitle": "2",
+				"content": "Nzi k' uhor' unzirikana, Undutira byose,\nMwami, kugutekereza bindutir' ibyiratwa."
+			},
+			{
+				"id": 856,
+				"subTitle": "3",
+				"content": "Wanyujuj' umunezero, Natay' umuruho.\nKumenya k' unkunda cyane, Nibyo bimpumuriza."
+			},
+			{
+				"id": 857,
+				"subTitle": "4",
+				"content": "Mucunguzi wanjye mwiza, Icyakunyereka!\nNgo tuzabane mw' ijuru, Ahatab' agahinda."
+			}
+		]
+	},
+	{
+		"id": 136,
+		"title": "Ahw' Azanyobora Hose",
+		"hymnContent": [
+			{
+				"id": 858,
+				"subTitle": "1",
+				"content": "Ahw' azanyobora hose, Niho nzishimira kujya;\nKukw' ari jye yapfiriye, Akanzir' atacumuye."
+			},
+			{
+				"id": 859,
+				"subTitle": "Gusubiramo",
+				"content": "Yes' azanyobor' iteka, Maz' angez' iw' amahoro;\nKukw' ar' inshuti y' ukuri, Itigeze guhemuka."
+			},
+			{
+				"id": 860,
+				"subTitle": "2",
+				"content": "Nishimira kw' antegeka, Nishimira kw' anyobora.\nNishimira kumwumvira, Kukw' ari jye yapfiriye."
+			},
+			{
+				"id": 861,
+				"subTitle": "3",
+				"content": "Singishidikanya rwose, Kuko ndi kumwe na Yesu.\nNizigiye ko vub' aha, Nzamureba duhanganye."
+			}
+		]
+	},
+	{
+		"id": 137,
+		"title": "Isi Ndayihararutse, Mpisemo Yesu",
+		"hymnContent": [
+			{
+				"id": 862,
+				"subTitle": "1",
+				"content": "Isi ndayihararutse, Mpisemo Yesu gusa.\nMpaz' umunezero wayo, Uzashirana nayo."
+			},
+			{
+				"id": 863,
+				"subTitle": "Gusubiramo",
+				"content": "Imbabazi zidashira,\nN' urukundo rw' iteka,\nNibyo bijya binyemeza,\nKo nzaramishwa nawe."
+			},
+			{
+				"id": 864,
+				"subTitle": "2",
+				"content": "Isi ndayihararutse, Mpisemo Yesu gusa.\nMu kaga niwe humure; Nzahora nezerewe."
+			},
+			{
+				"id": 865,
+				"subTitle": "3",
+				"content": "Isi ndayihararutse, Mpisemo Yesu gusa.\nIcyamp' akamwenyurira, Nkamurikirwa nawe."
+			},
+			{
+				"id": 866,
+				"subTitle": "4",
+				"content": "Isi ndayihararutse, Mpisemo Yesu gusa.\nNzirat' umusaraba we, Yatangiyeho kera."
+			}
+		]
+	},
+	{
+		"id": 138,
+		"title": "Mwami Wanjye, Nyakira",
+		"hymnContent": [
+			{
+				"id": 867,
+				"subTitle": "1",
+				"content": "Mwami wanjye nyakira, Ndakwiyeguriy' ubu;\nNgay' amaboko yanjye, Yakoresh' uk' ushaka."
+			},
+			{
+				"id": 868,
+				"subTitle": "Gusubiramo",
+				"content": "Nyuhagiz' amaraso yawe ( nere rwose );\nMaz' anyezehw' inenge yose ( nere rwose );\nIbyanjye byose ndabikweguriye, None n' iteka ryose."
+			},
+			{
+				"id": 869,
+				"subTitle": "2",
+				"content": "Ngib' ibirenge byanjye, Byerekez' ah' ushaka.\nNgir' ijwi ryanjye na ryo, Rijye riguhimbaza."
+			},
+			{
+				"id": 870,
+				"subTitle": "3",
+				"content": "Nguhay' akanwa kanjye; Mwami, kakuvugire.\nNgub' ubutunzi bwanjye, Sinzagir' icyo nkwima."
+			},
+			{
+				"id": 871,
+				"subTitle": "4",
+				"content": "Nguhay' igihe cyanjye, Sinzakiguteraho;\nNguhay' ubwenge bwanjye, Bukoresh' uk' ushaka."
+			},
+			{
+				"id": 872,
+				"subTitle": "5",
+				"content": "Ngiy' imigambi yanjye; Igengwe nawe, Mwami.\nNguy' umutima wanjye, Ube uwawe rwose."
+			},
+			{
+				"id": 873,
+				"subTitle": "6",
+				"content": "Mwam' urukundo rwanjye, Ni wowe nzarukunda;\nNkwihaye nimazeyo, None n' iteka ryose."
+			}
+		]
+	},
+	{
+		"id": 139,
+		"title": "Nabony' Inshut' Ihebuje",
+		"hymnContent": [
+			{
+				"id": 874,
+				"subTitle": "1",
+				"content": "Nabony' inshut' ihebuje! Yankunze ntarabaho;\nYanyiyegereshej' ineza, N' urukundo rw' iteka,\nBituma dushyikirana, Ubudatandukana;\nKuko nd' uwe nawe n' uwanjye, Ibihe bidashira."
+			},
+			{
+				"id": 875,
+				"subTitle": "2",
+				"content": "Nabony' inshut' ihebuje! Yamberey' impongano.\nUrets' ibyo kump' ubugingo, Yaranyitangiriye.\nNtacyo mfite nit' icyanjye, Kuko tubisangiye.\nNdamwiyeguriye burundu; Ibihe bidashira."
+			},
+			{
+				"id": 876,
+				"subTitle": "3",
+				"content": "Nabony' inshut' ihebuje! Nyir' ubutware bwose!\nNibw' indindish' uko bukeye; Izangeza mw' ijuru.\nIbyiza byanshyizw' imbere, Binsubizamw' intege;\nReka nkore, noye kwiganda, Ngez' ubw' izanduhura."
+			},
+			{
+				"id": 877,
+				"subTitle": "4",
+				"content": "Nabony' incut' ihebuje! Y' impuhwe n' urukundo.\nNiy' indind' ikanyunganira; Niy' indenger' iteka.\nMbese n' iki cyadutanya, Ko dukundana rwose?\nN' iby' iyi si, cyangwa s' urupfu? Oya nzab' uw' iteka."
+			}
+		]
+	},
+	{
+		"id": 140,
+		"title": "Numvise Yesu Ambwira Ati",
+		"hymnContent": [
+			{
+				"id": 878,
+				"subTitle": "1",
+				"content": "Numvise Yes' ambwir' ati: Ngwino nkuruhure.\nZan' ibikurushya byose, Mbikwikorerere.\nMusanga, mez' uko nari ndi, ndushye, mfite n' ishavu;\nAmber' uburuhukiro, Maz' aranezeza."
+			},
+			{
+				"id": 879,
+				"subTitle": "2",
+				"content": "Numvise Yes' ambwir' ati: Ndaguher' ubuntu,\nAmaz' azakubeshaho, Unyw' uram' iteka.\nNuko nsanga Yesu maz' ampa ya mazi y' ubugingo,\nNshir' inyota, Ndahembuka; Nzahorana nawe."
+			},
+			{
+				"id": 880,
+				"subTitle": "3",
+				"content": "Numvise Yes' ambwir' ati: Ni jye Mucyo w' isi.\nN' undeb' uramurikirwa, Ntuzarindagira.\nMaze muhanz' amaso koko, Mbon' ar' izuba ryanjye;\nRizamvir' iminsi yose y' ubugingo bwanjye."
+			}
+		]
+	},
+	{
+		"id": 141,
+		"title": "Mwami Mb' Uwawe Maramaje",
+		"hymnContent": [
+			{
+				"id": 881,
+				"subTitle": "1",
+				"content": "Mwami, mb' uwawe maramaje, Nyigisha, nyigisha.\nNkor' iby' ukunda, Mwami wanjye; Komez' umfashe."
+			},
+			{
+				"id": 882,
+				"subTitle": "Gusubiramo",
+				"content": "Mb' uwawe ( Mwami ) ;\nMb' uwawe ( Mwami ) ;\nNiyo migambi yanjye ;\nMb' uwawe ( Mwami ) ;\nMb' uwawe ( Mwami ) ;\nMb' uwawe Mwami, None."
+			},
+			{
+				"id": 883,
+				"subTitle": "2",
+				"content": "Iby' iyi si byamarir' iki, Ntari kumwe nawe?\nByose nzabihara kubwawe, Ntungishwe nawe."
+			},
+			{
+				"id": 884,
+				"subTitle": "3",
+				"content": "Ndets' umunezero w' iyi si, Ngwino twibanire;\nNibyo bizajya binogera, Bimpumurize."
+			}
+		]
+	},
+	{
+		"id": 142,
+		"title": "Mbeg' Umuns' Urush' Indi Kwera",
+		"hymnContent": [
+			{
+				"id": 885,
+				"subTitle": "1",
+				"content": "Mbeg' umuns' urush' indi kwera; Niwo wa karindwi!\nNg' uratuma ndek' iby' isi, Nkibwir' iby' ijuru!"
+			},
+			{
+				"id": 886,
+				"subTitle": "2",
+				"content": "Mbeg' uyu munsi wa karindwi, Turuhukiramo,\nNg' uradutera kuramya Data, Wo mw' ijuru!"
+			},
+			{
+				"id": 887,
+				"subTitle": "3",
+				"content": "Ni mutyo turamy' Uhoraho, Watuzirikanye,\nAgaherakw' akaduha, Uyu munsi wera."
+			},
+			{
+				"id": 888,
+				"subTitle": "4",
+				"content": "Niw' utugobotor' ibyaha, Bikaducikaho,\nKukw' atugirir' ubuntu, Buvuye mw' ijuru."
+			}
+		]
+	},
+	{
+		"id": 143,
+		"title": "Udusezeresh' Umugisha Wawe",
+		"hymnContent": [
+			{
+				"id": 889,
+				"subTitle": "1",
+				"content": "Udusezeresh' umugisha wawe; Mwam' utwuzuz' amahoro;\nUrukundo rwawe rudusabemo, Tubone kunesha rwose.\nNgwin' uduhembure, Ngwin' uduhembure;\nTukiri mur' iyi si y' igomero."
+			},
+			{
+				"id": 890,
+				"subTitle": "2",
+				"content": "Tuguhay' ishimwe no kukuramya, Kubw' ubutumwa bw' imvaho,\nBwagukomotseho bukadukiza, Bunyur' imitima yacu;\nTubushikamemo, Tubushikamemo;\nTugundir' ukuri, Tudacogora."
+			},
+			{
+				"id": 891,
+				"subTitle": "3",
+				"content": "Mbeshwaho n' imbabazi zawe nyinshi, None ndakwiyeguriye.\nNgwin' uduhumurish' impuhwe zawe, Duhore turwan' ishyaka;\nTuzager' i wawe, Tuzager' iwawe;\nTukubone nta kidukingirije."
+			}
+		]
+	},
+	{
+		"id": 144,
+		"title": "Mukiza, Ndamaramaje",
+		"hymnContent": [
+			{
+				"id": 892,
+				"subTitle": "1",
+				"content": "Mukiza, ndamaramaje, Ndatwaranira kugera,\nKu rugero runkwiriye; Mwami mfasha ngo ndusheho."
+			},
+			{
+				"id": 893,
+				"subTitle": "Gusubiramo",
+				"content": "Nzamura maze nger' aho wangeneye,\nMwami wanjye; Ku rugero rusumbyeho;\nMwami mfasha ngo ndusheho."
+			},
+			{
+				"id": 894,
+				"subTitle": "2",
+				"content": "Ntabwo ngifit' umutima, Wo kuguma mu by' iyi si;\nN' ubwo bamwe babikunda, Ngambiriye kujya mbere."
+			},
+			{
+				"id": 895,
+				"subTitle": "3",
+				"content": "Ndashaka gusumb' iby' isi, Nubw' umwanz' anyibasiye;\nKuko namaze kwizera, Yukw' Iman' izandengera."
+			},
+			{
+				"id": 896,
+				"subTitle": "4",
+				"content": "Ndashaka kumaranira, Kurabukw' ubwiza bwawe;\nAriko nkomeze nsenge, Ngez' ubwo nzager' i wawe."
+			}
+		]
+	},
+	{
+		"id": 145,
+		"title": "Ntushak' Urwitwazo",
+		"hymnContent": [
+			{
+				"id": 897,
+				"subTitle": "1",
+				"content": "Ntushak' urwitwazo, Harihw' imirimo,\nAhubw' itegure gukorer' Imana.\nYakwinginze kenshi, Kand' ikurarika;\nWitinda kwemera, Bizakunezeza."
+			},
+			{
+				"id": 898,
+				"subTitle": "Gusubiramo",
+				"content": "Itaba! ( none ); Ntushak' urwitwazo;\nItaba! ( none ); Wigingimiranya.\nNtushak' urwitwazo, Udasubizwa ngo:\nHoshi wampinyuye; Nkuvukij' ubwami."
+			},
+			{
+				"id": 899,
+				"subTitle": "2",
+				"content": "Ntushak' urwitwazo urahamagawe;\nDor' aho wangiye, Noneho witabe.\nImirim' ireze, Hagumy' abakozi;\nNgwin' umukorere; Uzagororerwa."
+			},
+			{
+				"id": 900,
+				"subTitle": "3",
+				"content": "Ntushak' urwitwazo, Kuko nib' utinze,\nBizagukoraho, Izakwivumbura.\nImbabazi zayo, Ntabwo zirashira;\nHaguruka bwangu, Ubibabarirwe."
+			}
+		]
+	},
+	{
+		"id": 146,
+		"title": "Yesu Mwami W' Abami",
+		"hymnContent": [
+			{
+				"id": 901,
+				"subTitle": "1",
+				"content": "Yesu Mwami w' abami, Ngwin' ube muri jye!\nHe kub' ari jy' uvuga, Ujy' umvugiramo.\nUnsabe mu mutima, Ngengwe nawe rwose,\nMaz' abajya bandeba, Bajye bakubona."
+			},
+			{
+				"id": 902,
+				"subTitle": "2",
+				"content": "Ndakwiyeguriy' ubu, Ez' ibyaha byanjye;\nNgaragareh' ubwiza bwawe buhebuje.\nNgir' umutim' utuje, Ne guteraganwa;\nNiyoroshye nganduke, Ngo nkoreshwe nawe."
+			},
+			{
+				"id": 903,
+				"subTitle": "3",
+				"content": "Ingingo zanjye zose, Zijye zikumvira;\nUzikoreshereze, Zikubahirize.\nNe kujya nivovota, Ngo mpore ku nkeke.\nY' ibimbaho, nishama, Nta mahoro mfite."
+			},
+			{
+				"id": 904,
+				"subTitle": "4",
+				"content": "Ni wowe ntegereje, Ungenz' uk' ushaka.\nUbwanjye nditeguye, Simfit' ikinziga.\nYesu Mwami w' abami, Ngwin' ube muri jye!\nMaz' ibyo nkora byose, Mbikoreshwe nawe."
+			}
+		]
+	},
+	{
+		"id": 147,
+		"title": "Data Mwiza, Nyigiza Hafi",
+		"hymnContent": [
+			{
+				"id": 905,
+				"subTitle": "1",
+				"content": "Data mwiza, nyigiza hafi; Nkube mu gituza;\nNi wowe buhungiro bwanjye, N' uburuhukiro."
+			},
+			{
+				"id": 906,
+				"subTitle": "Gusubiramo",
+				"content": "S. na A :\n\nData, nyigiza hafi, Ndifuza ko tubana;\nData, ndifuza ko tubana.\n\nT. na B :\n\nData, data, nyigiza hafi,\nNdifuza cyane ko tubana;\nData, nyigiza hafi; ndifuza ko tubana,\nNdifuza ko tubana."
+			},
+			{
+				"id": 907,
+				"subTitle": "2",
+				"content": "Data mwiza, nyigiza hafi; Nkomeza ntundeke;\nNakwishimira ko tubana, Ne kuraragira."
+			},
+			{
+				"id": 908,
+				"subTitle": "3",
+				"content": "Data mwiza, nyigiza hafi; Ngez' ubwo nsa nawe;\nMpembur' unyuhagir' unyeze, Mb' umuziranenge."
+			}
+		]
+	},
+	{
+		"id": 148,
+		"title": "Aho Njyanye Na Yesu",
+		"hymnContent": [
+			{
+				"id": 909,
+				"subTitle": "1",
+				"content": "Aho njyanye na Yesu mb' amahoro, Ahw' anyobora hose mur' iyi si.\nAho njya tutajyanye nta kinyura, Iyo njyanye na Yesu ntacyo ntinya."
+			},
+			{
+				"id": 910,
+				"subTitle": "Gusubiramo",
+				"content": "Aho njyanye nawe, nta kintinyisha,\nAho njyanye na Yesu mb' amahoro."
+			},
+			{
+				"id": 911,
+				"subTitle": "2",
+				"content": "Aho njyanye na Yesu sinigunga, Nubw' izindi nshuti zampemukira;\nNubw' anyobora mu nzir' iruhije, Aho njyanye na Yesu ndanezerwa."
+			},
+			{
+				"id": 912,
+				"subTitle": "3",
+				"content": "Njyanye na Yesu sinatiny' urupfu, N' iyo ngoswe n' umwijima w' icyago,\nNzi ko nzakanguk' ubutazongera, Kujarajarira mur' iy' isi mbi."
+			}
+		]
+	},
+	{
+		"id": 149,
+		"title": "Nshuti Jy' ugendera Mu Mucyo",
+		"hymnContent": [
+			{
+				"id": 913,
+				"subTitle": "1",
+				"content": "Nshuti jy' ugendera mu mucyo, Woye kurindagira;\nUmwuka Wera wo mw' ijuru, Ajy' akuyobora."
+			},
+			{
+				"id": 914,
+				"subTitle": "Gusubiramo",
+				"content": "S. na A :\n\nGendera mu mucyo, Gendera mu mucyo;\nGendera mu mucyo, Mu mucyo waka w' Imana.\n\nT. na B. :\n\nGendera mu mucy' utangaje w' Imana;\nGendera mu mucy' utangaje w' Imana;\nGendera mu mucy' utangaje w' Imana;\nMu mucyo waka w' Imana;"
+			},
+			{
+				"id": 915,
+				"subTitle": "2",
+				"content": "Gendera mu mucyo w' ukuri, Ko mw' Ijambo ry' Imana;\nUzajy' ukuyobor' iteka, Ukwizez' Imana."
+			},
+			{
+				"id": 916,
+				"subTitle": "3",
+				"content": "Jy' ugendera mu mucy' iteka, Ujy' ukumurikira;\nMaz' utamurur' umwijima, Hose hatangaze."
+			},
+			{
+				"id": 917,
+				"subTitle": "4",
+				"content": "Gendera mu mucyo ng' umenye, Urukundo rw' Imana,\nN' uburyo yakunze ab' isi, Ikabarokora."
+			}
+		]
+	},
+	{
+		"id": 150,
+		"title": "Mbes' Abasaruzi Bari He?",
+		"hymnContent": [
+			{
+				"id": 918,
+				"subTitle": "1",
+				"content": "Mbes' abasaruzi bari hehe, Bo gusarur' abakiranutsi?\nBabangir' ukurink' imihoro, Kandi ntibab' ar' abanyabute."
+			},
+			{
+				"id": 919,
+				"subTitle": "Gusubiramo",
+				"content": "Abasaruzi se bari he?\nNgo bafatanye natwe gusarura,\nMaze twishime, Turi kumwe,\nIsarura nirirangira."
+			},
+			{
+				"id": 920,
+				"subTitle": "2",
+				"content": "Mushakire mu mihana yose; Nubw' urwiri rwarenga ku ngano;\nMuzishake kuko zirurimo, Zose muzisarurir' Imana."
+			},
+			{
+				"id": 921,
+				"subTitle": "3",
+				"content": "Dor' imirima yereye rimwe, Kandi bose bitez' isarura;\nArikw' abasaruzi ni bake, Umurimo wab' urabasaze."
+			},
+			{
+				"id": 922,
+				"subTitle": "4",
+				"content": "Mwa bantu mwe, Mwahur' imihoro! Musarur' igihe kirageze!\nMushishikare Umwam' araje; Dor' abazaniy' ingororano!"
+			}
+		]
+	}
+]
