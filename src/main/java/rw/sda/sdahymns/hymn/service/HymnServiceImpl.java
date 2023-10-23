@@ -27,13 +27,18 @@ public class HymnServiceImpl implements HymnService {
 
     private final HymnVerseRepo hymnVerseRepo;*/
 
+    /**
+     * The Mapper.
+     */
     private final ObjectMapper mapper = new ObjectMapper();
 
-    private List<Hymn> hymnsFromFile;
+    /**
+     * The Hymns from file.
+     */
+    private final List<Hymn> hymnsFromFile;
 
     /**
      * Instantiates a new Hymn service.
-     *
      */
     public HymnServiceImpl() {
         /*this.hymnRepo = hymnRepo;
@@ -41,6 +46,11 @@ public class HymnServiceImpl implements HymnService {
         hymnsFromFile = this.readDataFromFile();
     }
 
+    /**
+     * Read data from file list.
+     *
+     * @return the list
+     */
     private List<Hymn> readDataFromFile() {
         TypeReference<List<Hymn>> typeReference = new TypeReference<>() {
         };
@@ -112,6 +122,11 @@ public class HymnServiceImpl implements HymnService {
         return hymnRepo.findById(number).orElseThrow();*/
     }
 
+    /**
+     * Save single hymn.
+     *
+     * @param hymnPojo the hymn pojo
+     */
     private void saveSingleHymn(@NotNull HymnPojo hymnPojo) {
         /*Hymn hymn = Hymn.builder()
                 .id(hymnPojo.getNumber())
@@ -138,11 +153,22 @@ public class HymnServiceImpl implements HymnService {
         return hymnRepo.findById(hymnPojo.getNumber()).orElseThrow();*/
     }
 
+    /**
+     * Gets hymn by id.
+     *
+     * @param id the id
+     * @return the hymn by id
+     */
     @Override
     public Hymn getHymnById(long id) {
         return hymnsFromFile.get((int) id);
     }
 
+    /**
+     * Gets all hymns.
+     *
+     * @return the all hymns
+     */
     @Override
     public List<Hymn> getAllHymns() {
         /*List<Hymn> hymns = hymnRepo.findAll();
@@ -161,6 +187,12 @@ public class HymnServiceImpl implements HymnService {
         hymnRepo.delete(hymn);*/
     }
 
+    /**
+     * Search hymn list.
+     *
+     * @param searchTerm the search term
+     * @return the list
+     */
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
         List<Hymn> hymns = new ArrayList<>();
