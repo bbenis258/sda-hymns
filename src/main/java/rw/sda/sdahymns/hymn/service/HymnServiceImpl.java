@@ -7,6 +7,8 @@ import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.core.io.ClassPathResource;
+import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 import org.springframework.util.FileCopyUtils;
 import rw.sda.sdahymns.hymn.model.Hymn;
@@ -14,6 +16,7 @@ import rw.sda.sdahymns.hymn.pojo.HymnComparator;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
 import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.lang.reflect.Type;
@@ -55,6 +58,9 @@ public class HymnServiceImpl implements HymnService {
      */
     private List<Hymn> readDataFromFile() {
         try {
+            Resource resource = new ClassPathResource("data/indirimbo.json");
+            File file = resource.getFile();
+            log.info("| ========== | File: {} | ========== |", file.getAbsolutePath());
             InputStream inputStream = TypeReference.class.getResourceAsStream("/data/indirimbo.json");
             byte[] binaryData = FileCopyUtils.copyToByteArray(inputStream);
             String jsonData = new String(binaryData, StandardCharsets.UTF_8);
