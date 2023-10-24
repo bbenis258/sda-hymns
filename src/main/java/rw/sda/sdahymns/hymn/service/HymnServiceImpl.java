@@ -1,6 +1,7 @@
 package rw.sda.sdahymns.hymn.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -10,6 +11,7 @@ import com.google.gson.reflect.TypeToken;
 import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
+import org.springframework.util.FileCopyUtils;
 import org.springframework.util.ResourceUtils;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.pojo.HymnComparator;
@@ -19,7 +21,10 @@ import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.StringWriter;
 import java.lang.reflect.Type;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -57,9 +62,11 @@ public class HymnServiceImpl implements HymnService {
      */
     private List<Hymn> readDataFromFile() {
         try {
-            File dataFile = ResourceUtils.getFile("classpath:data/indirimbo.json");
+            InputStream inputStream = TypeReference.class.getResourceAsStream("/data/indirimbo.json");
+            byte[] binaryData = FileCopyUtils.copyToByteArray(inputStream);
+            String jsonData = new String(binaryData, StandardCharsets.UTF_8);
             JsonParser parser = new JsonParser();
-            JsonElement jsonElement = parser.parse(new FileReader(dataFile.getPath()));
+            JsonElement jsonElement = parser.parse(jsonData);
             JsonArray array = jsonElement.getAsJsonArray();
             Gson gson = new Gson();
             Type listType = new TypeToken<List<Hymn>>() {
