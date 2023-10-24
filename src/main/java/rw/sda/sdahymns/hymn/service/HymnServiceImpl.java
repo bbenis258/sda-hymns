@@ -56,7 +56,7 @@ public class HymnServiceImpl implements HymnService {
     private List<Hymn> readDataFromFile() {
         try {
             JsonParser parser = new JsonParser();
-            JsonElement jsonElement = parser.parse(new FileReader("src/main/resources/indirimbo.json"));
+            JsonElement jsonElement = parser.parse(new FileReader("src/main/resources/data/indirimbo.json"));
             JsonArray array = jsonElement.getAsJsonArray();
             Gson gson = new Gson();
             Type listType = new TypeToken<List<Hymn>>() {
