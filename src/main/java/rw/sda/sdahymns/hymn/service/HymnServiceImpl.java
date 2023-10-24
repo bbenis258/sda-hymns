@@ -10,11 +10,13 @@ import com.google.gson.reflect.TypeToken;
 import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
+import org.springframework.util.ResourceUtils;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.pojo.HymnComparator;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
 import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.lang.reflect.Type;
@@ -55,8 +57,9 @@ public class HymnServiceImpl implements HymnService {
      */
     private List<Hymn> readDataFromFile() {
         try {
+            File dataFile = ResourceUtils.getFile("classpath:data/indirimbo.json");
             JsonParser parser = new JsonParser();
-            JsonElement jsonElement = parser.parse(new FileReader("src/main/resources/data/indirimbo.json"));
+            JsonElement jsonElement = parser.parse(new FileReader(dataFile.getPath()));
             JsonArray array = jsonElement.getAsJsonArray();
             Gson gson = new Gson();
             Type listType = new TypeToken<List<Hymn>>() {
