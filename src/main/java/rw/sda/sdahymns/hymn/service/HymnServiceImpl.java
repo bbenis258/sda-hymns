@@ -35,16 +35,7 @@ public class HymnServiceImpl implements HymnService {
     /**
      * The Hymns from file.
      */
-    private final List<Hymn> hymnsFromFile;
-
-    /**
-     * Instantiates a new Hymn service.
-     */
-    public HymnServiceImpl() {
-        /*this.hymnRepo = hymnRepo;
-        this.hymnVerseRepo = hymnVerseRepo;*/
-        hymnsFromFile = this.readDataFromFile();
-    }
+    private List<Hymn> hymnsFromFile;
 
     /**
      * Read data from file list.
@@ -161,6 +152,7 @@ public class HymnServiceImpl implements HymnService {
      */
     @Override
     public Hymn getHymnById(long id) {
+        hymnsFromFile = this.readDataFromFile();
         return hymnsFromFile.get((int) id);
     }
 
@@ -173,6 +165,7 @@ public class HymnServiceImpl implements HymnService {
     public List<Hymn> getAllHymns() {
         /*List<Hymn> hymns = hymnRepo.findAll();
         hymns.sort(new HymnComparator());*/
+        hymnsFromFile = this.readDataFromFile();
         return this.hymnsFromFile;
     }
 
@@ -195,6 +188,7 @@ public class HymnServiceImpl implements HymnService {
      */
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
+        hymnsFromFile = this.readDataFromFile();
         List<Hymn> hymns = new ArrayList<>();
         hymnsFromFile.stream().forEach(hymn -> {
             if (hymn.getTitle().contains(searchTerm)) {
