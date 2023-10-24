@@ -58,6 +58,7 @@ public class HymnServiceImpl implements HymnService {
             InputStream inputStream = TypeReference.class.getResourceAsStream("/data/indirimbo.json");
             byte[] binaryData = FileCopyUtils.copyToByteArray(inputStream);
             String jsonData = new String(binaryData, StandardCharsets.UTF_8);
+            log.info("Data from JSON file: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(jsonData));
             Gson gson = new Gson();
             Type listType = new TypeToken<List<Hymn>>() {
             }.getType();
