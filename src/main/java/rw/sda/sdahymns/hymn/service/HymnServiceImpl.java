@@ -1,8 +1,12 @@
 package rw.sda.sdahymns.hymn.service;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonParser;
+import com.google.gson.reflect.TypeToken;
 import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
@@ -11,8 +15,9 @@ import rw.sda.sdahymns.hymn.pojo.HymnComparator;
 import rw.sda.sdahymns.hymn.pojo.HymnPojo;
 import rw.sda.sdahymns.hymn.pojo.HymnUpdatePojo;
 
+import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -32,10 +37,16 @@ public class HymnServiceImpl implements HymnService {
      */
     private final ObjectMapper mapper = new ObjectMapper();
 
+    private final List<Hymn> hymnsFromFile;
+
     /**
-     * The Hymns from file.
+     * Instantiates a new Hymn service.
      */
-    private List<Hymn> hymnsFromFile;
+    public HymnServiceImpl() {
+        /*this.hymnRepo = hymnRepo;
+        this.hymnVerseRepo = hymnVerseRepo;*/
+        hymnsFromFile = this.readDataFromFile();
+    }
 
     /**
      * Read data from file list.
@@ -43,11 +54,14 @@ public class HymnServiceImpl implements HymnService {
      * @return the list
      */
     private List<Hymn> readDataFromFile() {
-        TypeReference<List<Hymn>> typeReference = new TypeReference<>() {
-        };
-        InputStream inputStream = TypeReference.class.getResourceAsStream("/indirimbo.json");
         try {
-            List<Hymn> hymns = mapper.readValue(inputStream, typeReference);
+            JsonParser parser = new JsonParser();
+            JsonElement jsonElement = parser.parse(new FileReader("src/main/resources/indirimbo.json"));
+            JsonArray array = jsonElement.getAsJsonArray();
+            Gson gson = new Gson();
+            Type listType = new TypeToken<List<Hymn>>() {
+            }.getType();
+            List<Hymn> hymns = gson.fromJson(array, listType);
             log.info("Loaded hymns: {}", hymns.size());
             return hymns;
         } catch (IOException e) {
@@ -152,7 +166,6 @@ public class HymnServiceImpl implements HymnService {
      */
     @Override
     public Hymn getHymnById(long id) {
-        hymnsFromFile = this.readDataFromFile();
         return hymnsFromFile.get((int) id);
     }
 
@@ -165,7 +178,6 @@ public class HymnServiceImpl implements HymnService {
     public List<Hymn> getAllHymns() {
         /*List<Hymn> hymns = hymnRepo.findAll();
         hymns.sort(new HymnComparator());*/
-        hymnsFromFile = this.readDataFromFile();
         return this.hymnsFromFile;
     }
 
@@ -188,7 +200,6 @@ public class HymnServiceImpl implements HymnService {
      */
     @Override
     public List<Hymn> searchHymn(String searchTerm) {
-        hymnsFromFile = this.readDataFromFile();
         List<Hymn> hymns = new ArrayList<>();
         hymnsFromFile.stream().forEach(hymn -> {
             if (hymn.getTitle().contains(searchTerm)) {

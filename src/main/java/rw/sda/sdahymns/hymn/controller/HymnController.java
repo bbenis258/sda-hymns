@@ -12,17 +12,15 @@ import rw.sda.sdahymns.hymn.service.HymnService;
 
 import java.util.List;
 
-/**
- * The type Hymn controller.
- */
 @RestController
 public class HymnController {
 
-    /**
-     * The Hymn service.
-     */
+    private final HymnService hymnService;
+
     @Autowired
-    private HymnService hymnService;
+    public HymnController(HymnService hymnService) {
+        this.hymnService = hymnService;
+    }
 
     /*@PostMapping(value = ApiPaths.V1 + "/hymn/")
     public ResponseEntity<Hymn> createHymn(@NotNull @RequestBody HymnPojo hymnPojo) {
@@ -34,22 +32,11 @@ public class HymnController {
         return ResponseEntity.ok().body(hymnService.createMultipleHymns(hymnPojoList));
     }*/
 
-    /**
-     * Gets hymn by id.
-     *
-     * @param id the id
-     * @return the hymn by id
-     */
     @GetMapping(value = ApiPaths.V1 + "/hymn/{id}")
     public ResponseEntity<Hymn> getHymnById(@NotNull @PathVariable long id) {
         return ResponseEntity.ok().body(hymnService.getHymnById(id));
     }
 
-    /**
-     * Gets all hymns.
-     *
-     * @return the all hymns
-     */
     @GetMapping(value = ApiPaths.V1 + "/hymn/")
     public ResponseEntity<List<Hymn>> getAllHymns() {
         List<Hymn> hymns = hymnService.getAllHymns();
@@ -67,12 +54,6 @@ public class HymnController {
         return ResponseEntity.ok().body(Boolean.TRUE);
     }*/
 
-    /**
-     * Search hymns response entity.
-     *
-     * @param searchTerm the search term
-     * @return the response entity
-     */
     @GetMapping(value = ApiPaths.V1 + "/hymn/search/{searchTerm}")
     public ResponseEntity<List<Hymn>> searchHymns(@NotNull @PathVariable String searchTerm) {
         return ResponseEntity.ok().body(hymnService.searchHymn(searchTerm));
