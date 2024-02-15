@@ -1,35 +1,32 @@
 package rw.sda.sdahymns.hymn.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.validation.constraints.NotNull;
-import lombok.AllArgsConstructor;
 import lombok.Builder;
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-import lombok.Setter;
+import lombok.Data;
+import org.springframework.data.mongodb.core.index.TextIndexed;
 
-//@Entity
-//@Table(name = "HYMN_VERSE")
-@Setter
-@Getter
-@Builder
-@RequiredArgsConstructor
-@AllArgsConstructor
+/**
+ * The type Hymn verse.
+ */
+@Data
 public class HymnVerse {
 
-    //    @Id
-//    @GeneratedValue(strategy = GenerationType.AUTO)
-    private long id;
+    /**
+     * The Order.
+     */
+    @NotNull
+    private long order;
 
+    /**
+     * The Sub title.
+     */
     @NotNull
     private String subTitle;
 
+    /**
+     * The Content.
+     */
     @NotNull
-//    @Column(columnDefinition = "TEXT")
+    @TextIndexed
     private String content;
-
-    //    @ManyToOne(fetch = FetchType.LAZY)
-//    @JoinColumn(name = "hymn_id")
-    @JsonIgnore
-    private Hymn hymn;
 }

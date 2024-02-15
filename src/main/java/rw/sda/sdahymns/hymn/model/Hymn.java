@@ -3,33 +3,46 @@ package rw.sda.sdahymns.hymn.model;
 import jakarta.validation.constraints.NotNull;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
-import lombok.Setter;
+import lombok.Data;
+import org.springframework.data.mongodb.core.index.Indexed;
+import org.springframework.data.mongodb.core.index.TextIndexed;
+import org.springframework.data.mongodb.core.mapping.Document;
 import rw.sda.sdahymns.hymn.pojo.HymnVerseComparator;
 
-import java.util.ArrayList;
 import java.util.List;
 
-//@Entity
-//@Table(name = "HYMN")
-@Getter
-@Setter
+/**
+ * The type Hymn.
+ */
+@Data
 @Builder
-@RequiredArgsConstructor
 @AllArgsConstructor
+@Document(collection = "hymn_db")
 public class Hymn {
 
-    //    @Id
-    private long id;
+    /**
+     * The Number.
+     */
+    @Indexed(unique = true)
+    private long number;
 
+    /**
+     * The Title.
+     */
     @NotNull
+    @TextIndexed
     private String title;
 
-    @Builder.Default
-//    @OneToMany(mappedBy = "hymn", cascade = CascadeType.ALL, fetch = FetchType.EAGER)
-    private List<HymnVerse> hymnContent = new ArrayList<>();
+    /**
+     * The Hymn content.
+     */
+    private List<HymnVerse> hymnContent;
 
+    /**
+     * Gets hymn content.
+     *
+     * @return the hymn content
+     */
     public List<HymnVerse> getHymnContent() {
         hymnContent.sort(new HymnVerseComparator());
         return hymnContent;

@@ -7,6 +7,6 @@ import java.util.Comparator;
 public class HymnVerseComparator implements Comparator<HymnVerse> {
     @Override
     public int compare(HymnVerse a, HymnVerse b) {
-        return (int) (a.getId() - b.getId());
+        return (int) (a.getOrder() - b.getOrder());
     }
 }

@@ -7,6 +7,6 @@ import java.util.Comparator;
 public class HymnComparator implements Comparator<Hymn> {
     @Override
     public int compare(Hymn a, Hymn b) {
-        return (int) (a.getId() - b.getId());
+        return (int) (a.getNumber() - b.getNumber());
     }
 }
