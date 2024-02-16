@@ -164,8 +164,7 @@ public class HymnServiceImpl implements HymnService {
      * @param id the id
      */
     public void deleteHymn(long id) {
-        Hymn hymn = hymnRepo.findHymnByNumber(id).orElseThrow();
-        hymnRepo.delete(hymn);
+        hymnRepo.deleteHymnByNumber(id);
     }
 
     /**
