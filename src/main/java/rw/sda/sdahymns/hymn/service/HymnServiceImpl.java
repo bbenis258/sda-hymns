@@ -4,7 +4,13 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jakarta.validation.constraints.NotNull;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoOperations;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.mongodb.core.query.TextCriteria;
+import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 import rw.sda.sdahymns.hymn.model.Hymn;
 import rw.sda.sdahymns.hymn.model.HymnVerse;
@@ -28,6 +34,8 @@ public class HymnServiceImpl implements HymnService {
      */
     private final HymnRepo hymnRepo;
 
+    private final MongoOperations mongoTemplate;
+
     /**
      * The Mapper.
      */
@@ -38,8 +46,10 @@ public class HymnServiceImpl implements HymnService {
      *
      * @param hymnRepo the hymn repo
      */
-    public HymnServiceImpl(HymnRepo hymnRepo) {
+
+    public HymnServiceImpl(HymnRepo hymnRepo, MongoOperations mongoTemplate) {
         this.hymnRepo = hymnRepo;
+        this.mongoTemplate = mongoTemplate;
     }
 
     /**
@@ -78,8 +88,6 @@ public class HymnServiceImpl implements HymnService {
     public Hymn updateHymn(long number, HymnUpdatePojo hymnUpdatePojo) throws JsonProcessingException {
         log.info("Hymn Update Object: {}", mapper.writerWithDefaultPrettyPrinter().writeValueAsString(hymnUpdatePojo));
         Hymn hymn = hymnRepo.findHymnByNumber(number).orElseThrow();
-        hymn.setTitle(hymnUpdatePojo.getTitle());
-
         List<HymnVerse> hymnVerseList = new ArrayList<>();
         hymnUpdatePojo.getHymnContent().forEach((order, hymnContent) -> {
             hymnContent.forEach((subTitle, content) -> {
@@ -97,9 +105,13 @@ public class HymnServiceImpl implements HymnService {
             });
         });
 
-        hymn.setHymnContent(hymnVerseList);
+        Query query = new Query().addCriteria(Criteria.where("number").is(number));
 
-        hymnRepo.save(hymn);
+        Update update = new Update();
+        update.set("title", hymnUpdatePojo.getTitle());
+        update.set("hymnContent", hymnVerseList);
+
+        mongoTemplate.updateFirst(query, update, Hymn.class);
 
         return hymnRepo.findHymnByNumber(number).orElseThrow();
     }
